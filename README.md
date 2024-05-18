@@ -14,7 +14,7 @@ Shuo Zhang, Biao Yang, Zhang Li, Zhiyin Ma, Yuliang Liu†, Xiang Bai
 
 <p align="center">
 
-<a href="https://arxiv.org/abs/2405.06706">Paper</a>&nbsp&nbsp | &nbsp&nbsp<a href="https://huggingface.co/shuozhang2/DT-VQA">DT-VQA dataset</a>&nbsp&nbsp
+<a href="https://arxiv.org/abs/2405.06706">Paper</a><a href="https://huggingface.co/shuozhang2/DT-VQA">DT-VQA dataset</a>
 
 <!-- | &nbsp&nbsp<a href="Monkey Model">Monkey Models</a>&nbsp ｜ &nbsp <a href="updating">Tutorial</a> -->
 
