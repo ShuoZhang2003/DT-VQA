@@ -12,13 +12,11 @@ Shuo Zhang, Biao Yang, Zhang Li, Zhiyin Ma, Yuliang Liu†, Xiang Bai
 
 </div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://arxiv.org/abs/2405.06706">Paper</a> | <a href="https://huggingface.co/shuozhang2/DT-VQA">DT-VQA dataset</a>
 
-<!-- | &nbsp&nbsp<a href="Monkey Model">Monkey Models</a>&nbsp ｜ &nbsp <a href="updating">Tutorial</a> -->
-
-</p>
+</div>
 
 -----
 
