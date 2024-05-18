@@ -1,0 +1,3002 @@
+[
+  {
+    "dataset_name": "DTTabShot",
+    "id": 5037,
+    "image_path": "./image/DTTabShot/test/2-1846034-1.png",
+    "question": "Which country won the most bronze medals?",
+    "answers": [
+      "Hungary"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3186,
+    "image_path": "./image/DTTabShot/test/2-17747000-1.png",
+    "question": "Which team scored more goals in the match between Stade de Reims and Le Havre AC?",
+    "answers": [
+      "Stade de Reims"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 5014,
+    "image_path": "./image/DTTabShot/test/2-18914503-3.png",
+    "question": "What was the quantity of the Class IIIa (de) locomotives?",
+    "answers": [
+      "5"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4131,
+    "image_path": "./image/DTTabShot/test/2-1218008-1.png",
+    "question": "How long was the game on October 16th?",
+    "answers": [
+      "3:04"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4639,
+    "image_path": "./image/DTTabShot/test/2-10361426-2.png",
+    "question": "Which team did the Vikings play in week 1?",
+    "answers": [
+      "Oakland Raiders"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 294,
+    "image_path": "./image/DTTabShot/test/2-13983270-8.png",
+    "question": "What was the final score of the game on August 31st?",
+    "answers": [
+      "4-3"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4525,
+    "image_path": "./image/DTTabShot/test/2-17110962-1.png",
+    "question": "What was the score of the match on January 2, 2008?",
+    "answers": [
+      "2-3"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2010,
+    "image_path": "./image/DTTabShot/test/2-1122989-1.png",
+    "question": "What team did Ayrton Senna drive for?",
+    "answers": [
+      "Lotus-Honda"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2466,
+    "image_path": "./image/DTTabShot/test/2-18048776-7.png",
+    "question": "Who finished in second place?",
+    "answers": [
+      "Steve Stricker"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3576,
+    "image_path": "./image/DTTabShot/test/2-1075296-2.png",
+    "question": "How many laps did Jenson Button complete?",
+    "answers": [
+      "60"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2186,
+    "image_path": "./image/DTTabShot/test/2-1795208-10.png",
+    "question": "What was the score of the 2009 World Series - Grand Final?",
+    "answers": [
+      "6-2"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4688,
+    "image_path": "./image/DTTabShot/test/2-1672976-1.png",
+    "question": "Which team has the most neutral losses?",
+    "answers": [
+      "Maryland Terrapins"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 5010,
+    "image_path": "./image/DTTabShot/test/2-16366700-2.png",
+    "question": "Who has the most career playoff goals?",
+    "answers": [
+      "Bobby Hull"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2129,
+    "image_path": "./image/DTTabShot/test/2-18842947-2.png",
+    "question": "Which team did the Buccaneers play in week 1?",
+    "answers": [
+      "Chicago Bears"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 409,
+    "image_path": "./image/DTTabShot/test/2-10806592-9.png",
+    "question": "What was the venue of the match between Footscray and Collingwood?",
+    "answers": [
+      "Western Oval"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2507,
+    "image_path": "./image/DTTabShot/test/2-15100419-2.png",
+    "question": "What round was Reggie Barlow drafted in?",
+    "answers": [
+      "4th"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 427,
+    "image_path": "./image/DTTabShot/test/2-15399415-1.png",
+    "question": "Which competition did the athlete win in 1988?",
+    "answers": [
+      "Venice Marathon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3418,
+    "image_path": "./image/DTTabShot/test/2-14841421-2.png",
+    "question": "Which country is ranked 4th in total medals?",
+    "answers": [
+      "Qatar"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4323,
+    "image_path": "./image/DTTabShot/test/2-15968208-6.png",
+    "question": "What was the total number of hits on German ships?",
+    "answers": [
+      "23"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2219,
+    "image_path": "./image/DTTabShot/test/2-11772462-8.png",
+    "question": "Which team won the game on March 1?",
+    "answers": [
+      "Toronto"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2284,
+    "image_path": "./image/DTTabShot/test/2-13782381-1.png",
+    "question": "What was the score of the game between the New York Giants and the New York Jets?",
+    "answers": [
+      "20-10"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3355,
+    "image_path": "./image/DTTabShot/test/2-1451581-1.png",
+    "question": "Which airport is ranked 5th in the list?",
+    "answers": [
+      "Ted Stevens Anchorage International Airport"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2229,
+    "image_path": "./image/DTTabShot/test/2-12278571-2.png",
+    "question": "Who won the 2002 British Open?",
+    "answers": [
+      "Ernie Els"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1838,
+    "image_path": "./image/DTTabShot/test/2-18025901-1.png",
+    "question": "How many people attended the 1972-73 FA Cup match?",
+    "answers": [
+      "21,038"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4791,
+    "image_path": "./image/DTTabShot/test/2-14685115-1.png",
+    "question": "Who won the U.S. Open?",
+    "answers": [
+      "Hale Irwin"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1802,
+    "image_path": "./image/DTTabShot/test/2-14900014-1.png",
+    "question": "What was the attendance of the game in week 11?",
+    "answers": [
+      "58,473"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4855,
+    "image_path": "./image/DTTabShot/test/1-27902171-8.png",
+    "question": "Which team won the game with a score of 113-107?",
+    "answers": [
+      "Cleveland Cavaliers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1020,
+    "image_path": "./image/DTTabShot/test/1-2419754-1.png",
+    "question": "Which university has the nickname Flyers?",
+    "answers": [
+      "University of Dayton"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4379,
+    "image_path": "./image/DTTabShot/test/2-10776330-14.png",
+    "question": "Which team had the highest score in Round 14?",
+    "answers": [
+      "South Melbourne"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4928,
+    "image_path": "./image/DTTabShot/test/1-11680175-1.png",
+    "question": "What was the population of Marwitz in 2009?",
+    "answers": [
+      "1,417"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4209,
+    "image_path": "./image/DTTabShot/test/2-15204733-2.png",
+    "question": "What is the name of the album that the \"Album version\" is featured on?",
+    "answers": [
+      "Cendres de Lune"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4030,
+    "image_path": "./image/DTTabShot/test/2-11611293-10.png",
+    "question": "Which player caught the most in a match against England?",
+    "answers": [
+      "V Sehwag"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3842,
+    "image_path": "./image/DTTabShot/test/2-12075099-1.png",
+    "question": "What was the result of the game on June 30?",
+    "answers": [
+      "W 15-14"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3865,
+    "image_path": "./image/DTTabShot/test/2-10651573-1.png",
+    "question": "What was the score of the game between the Chicago Bears and the Detroit Lions in the 7th week of the exhibition schedule?",
+    "answers": [
+      "24-14"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1219,
+    "image_path": "./image/DTTabShot/test/2-16806446-2.png",
+    "question": "Which ethnic group has the largest population?",
+    "answers": [
+      "Tigrigna"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1642,
+    "image_path": "./image/DTTabShot/test/2-1122714-1.png",
+    "question": "Which driver started the 1976 Formula One Japanese Grand Prix in 17th position?",
+    "answers": [
+      "Jean-Pierre Jarier"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3501,
+    "image_path": "./image/DTTabShot/test/2-15709250-1.png",
+    "question": "Which cyclist won the Paris\u2013Roubaix race?",
+    "answers": [
+      "Peter Van Petegem"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2821,
+    "image_path": "./image/DTTabShot/test/2-16678254-1.png",
+    "question": "How many games did the Rams win in November?",
+    "answers": [
+      "3"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1439,
+    "image_path": "./image/DTTabShot/test/2-18673955-1.png",
+    "question": "Which team did the 49ers play in week 1?",
+    "answers": [
+      "Pittsburgh Steelers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4283,
+    "image_path": "./image/DTTabShot/test/2-147622-1.png",
+    "question": "Which election had the lowest share of votes?",
+    "answers": [
+      "1927 (Jun)"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1053,
+    "image_path": "./image/DTTabShot/test/1-18946749-2.png",
+    "question": "What is the name of the island that Mount Bosavi is located on?",
+    "answers": [
+      "New Guinea"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 5034,
+    "image_path": "./image/DTTabShot/test/2-1846034-1.png",
+    "question": "Which country won the most medals?",
+    "answers": [
+      "United States"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1630,
+    "image_path": "./image/DTTabShot/test/1-24560733-1.png",
+    "question": "What was the score of the game against Georgia?",
+    "answers": [
+      "26-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1279,
+    "image_path": "./image/DTTabShot/test/2-11739153-3.png",
+    "question": "Who was the winning goaltender for Minnesota on October 21?",
+    "answers": [
+      "Backstrom"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2480,
+    "image_path": "./image/DTTabShot/test/2-16002638-1.png",
+    "question": "How many ties did the team have in the 2004 season?",
+    "answers": [
+      "1"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4348,
+    "image_path": "./image/DTTabShot/test/2-14875671-1.png",
+    "question": "What was the record of the team after the game on December 17, 1989?",
+    "answers": [
+      "8-7"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4954,
+    "image_path": "./image/DTTabShot/test/2-12807827-2.png",
+    "question": "Which race took place on February 22-24?",
+    "answers": [
+      "Sandown"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1067,
+    "image_path": "./image/DTTabShot/test/2-15826161-2.png",
+    "question": "Which country won the most total medals?",
+    "answers": [
+      "France"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2614,
+    "image_path": "./image/DTTabShot/test/2-18569011-14.png",
+    "question": "Who is the athlete in lane 5?",
+    "answers": [
+      "Ramil Guliyev"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3272,
+    "image_path": "./image/DTTabShot/test/2-1756688-1.png",
+    "question": "How many marks did the player have in 2005?",
+    "answers": [
+      "13"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 496,
+    "image_path": "./image/DTTabShot/test/2-17832085-4.png",
+    "question": "Which team has the fewest points?",
+    "answers": [
+      "CD Badajoz"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 384,
+    "image_path": "./image/DTTabShot/test/2-14756291-5.png",
+    "question": "Which team had the most goals scored against them?",
+    "answers": [
+      "Hillwood"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4706,
+    "image_path": "./image/DTTabShot/test/2-15828727-6.png",
+    "question": "Which team had the highest attendance in the fifth round?",
+    "answers": [
+      "Manchester United"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2024,
+    "image_path": "./image/DTTabShot/test/1-2897457-4.png",
+    "question": "Which player was drafted by the Winnipeg Jets?",
+    "answers": [
+      "Mark Brownschidle"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2594,
+    "image_path": "./image/DTTabShot/test/2-15780049-10.png",
+    "question": "Who scored 22 points in the second game?",
+    "answers": [
+      "Chris Childs"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3980,
+    "image_path": "./image/DTTabShot/test/2-17634218-19.png",
+    "question": "Who has the most recent first-place finish?",
+    "answers": [
+      "Kisenosato"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3141,
+    "image_path": "./image/DTTabShot/test/2-11768629-3.png",
+    "question": "How many people attended the match between Copenhagen and the eventual winners on December 20?",
+    "answers": [
+      "20,446"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3415,
+    "image_path": "./image/DTTabShot/test/2-14841421-2.png",
+    "question": "Which country has the most total medals?",
+    "answers": [
+      "Iran"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3583,
+    "image_path": "./image/DTTabShot/test/2-10694950-1.png",
+    "question": "Which year had the shortest Tour of Luzon?",
+    "answers": [
+      "1955"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3790,
+    "image_path": "./image/DTTabShot/test/2-15855923-1.png",
+    "question": "Which competition was held in Chongqing, China?",
+    "answers": [
+      "2008 East Asian Cup"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1848,
+    "image_path": "./image/DTTabShot/test/2-12206243-10.png",
+    "question": "Who was the winning pitcher for the game on September 28?",
+    "answers": [
+      "Gordon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3074,
+    "image_path": "./image/DTTabShot/test/2-16151853-4.png",
+    "question": "Which country won the most gold medals?",
+    "answers": [
+      "Netherlands"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3658,
+    "image_path": "./image/DTTabShot/test/2-12269075-1.png",
+    "question": "Which team had the biggest winning margin in the first round of the tournament?",
+    "answers": [
+      "Olimpia"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3959,
+    "image_path": "./image/DTTabShot/test/1-25800134-16.png",
+    "question": "Who wrote the episode titled \"The Lost\"?",
+    "answers": [
+      "Robert Totten"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1471,
+    "image_path": "./image/DTTabShot/test/2-11364514-2.png",
+    "question": "Who was nominated for Best Lighting Design?",
+    "answers": [
+      "Paul Pyant"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2402,
+    "image_path": "./image/DTTabShot/test/2-171250-2.png",
+    "question": "What is the name of the parish with the smallest population?",
+    "answers": [
+      "Madawaska"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1697,
+    "image_path": "./image/DTTabShot/test/2-13870048-3.png",
+    "question": "Who is the incumbent in district 7?",
+    "answers": [
+      "Joseph Crowley"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4618,
+    "image_path": "./image/DTTabShot/test/1-1505809-2.png",
+    "question": "Which team has the most stolen ends?",
+    "answers": [
+      "Quebec"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2323,
+    "image_path": "./image/DTTabShot/test/2-1050189-1.png",
+    "question": "Who was the manager of the Greenville Braves in 2003?",
+    "answers": [
+      "Brian Snitker"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1089,
+    "image_path": "./image/DTTabShot/test/2-15272585-8.png",
+    "question": "What was the surface of the court in the tournament in which she was the runner-up on October 3, 2003?",
+    "answers": [
+      "Clay"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2515,
+    "image_path": "./image/DTTabShot/test/2-11772462-4.png",
+    "question": "What was the score of the game between Washington and Carolina on November 5th?",
+    "answers": [
+      "0-5"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4778,
+    "image_path": "./image/DTTabShot/test/2-10808346-15.png",
+    "question": "Which team won the match between Richmond and Melbourne?",
+    "answers": [
+      "Richmond"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2896,
+    "image_path": "./image/DTTabShot/test/2-10773616-7.png",
+    "question": "Which team had the highest score in Round 7?",
+    "answers": [
+      "Essendon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2124,
+    "image_path": "./image/DTTabShot/test/2-16871409-1.png",
+    "question": "Who was the skip for Team China in the 2002 PCC?",
+    "answers": [
+      "Xu Xiaoming"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3130,
+    "image_path": "./image/DTTabShot/test/1-16494599-4.png",
+    "question": "Which player's jersey number is 32?",
+    "answers": [
+      "Ed Davis"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2720,
+    "image_path": "./image/DTTabShot/test/1-2850912-7.png",
+    "question": "Which player was drafted by the New Jersey Devils?",
+    "answers": [
+      "Ian Ferguson"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1456,
+    "image_path": "./image/DTTabShot/test/2-15330472-2.png",
+    "question": "Which player had the greatest increase in rating?",
+    "answers": [
+      "Magnus Carlsen"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3133,
+    "image_path": "./image/DTTabShot/test/1-16494599-4.png",
+    "question": "What position did Terry Dehere play?",
+    "answers": [
+      "Guard"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2004,
+    "image_path": "./image/DTTabShot/test/2-10932739-2.png",
+    "question": "Which planet is a hot Jupiter?",
+    "answers": [
+      "51 Pegasi b"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2571,
+    "image_path": "./image/DTTabShot/test/2-1257226-3.png",
+    "question": "Which competition did Donovan score his fourth international goal in?",
+    "answers": [
+      "CONCACAF Gold Cup"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4158,
+    "image_path": "./image/DTTabShot/test/1-24584486-1.png",
+    "question": "In which series did he compete in 2013?",
+    "answers": [
+      "GP2 Series"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2047,
+    "image_path": "./image/DTTabShot/test/2-15663-1.png",
+    "question": "What was the rate of natural increase in 2006?",
+    "answers": [
+      "9.15"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 101,
+    "image_path": "./image/DTTabShot/test/2-1236238-1.png",
+    "question": "What was the starting position of the winner in 1955?",
+    "answers": [
+      "21"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2583,
+    "image_path": "./image/DTTabShot/test/2-13931419-7.png",
+    "question": "Which team has the most home wins?",
+    "answers": [
+      "Penguins"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3142,
+    "image_path": "./image/DTTabShot/test/2-11768629-3.png",
+    "question": "What was the score of the match between Lokomotiv Moscow and the eventual winners on November 8?",
+    "answers": [
+      "1-1"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 245,
+    "image_path": "./image/DTTabShot/test/2-12446715-4.png",
+    "question": "Who won the race?",
+    "answers": [
+      "Jenny Thompson"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4188,
+    "image_path": "./image/DTTabShot/test/1-27994983-8.png",
+    "question": "Which song translates to \"In the Club\"?",
+    "answers": [
+      "In the Club"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2012,
+    "image_path": "./image/DTTabShot/test/2-1122989-1.png",
+    "question": "How many laps did the winner complete?",
+    "answers": [
+      "52"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3098,
+    "image_path": "./image/DTTabShot/test/2-15353223-1.png",
+    "question": "What was the name of the player drafted by the Green Bay Packers in the 12th round?",
+    "answers": [
+      "Matt Rodgers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2819,
+    "image_path": "./image/DTTabShot/test/2-16678254-1.png",
+    "question": "Which team did the Rams tie in week 9?",
+    "answers": [
+      "Los Angeles Rams"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3767,
+    "image_path": "./image/DTTabShot/test/2-12030247-8.png",
+    "question": "Who has the least amount of cash on hand?",
+    "answers": [
+      "Mike Gravel"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4091,
+    "image_path": "./image/DTTabShot/test/2-11873099-17.png",
+    "question": "Which competition did Chelsea play in on July 28, 2006?",
+    "answers": [
+      "Pre-season"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2130,
+    "image_path": "./image/DTTabShot/test/2-18842947-2.png",
+    "question": "What was the score of the game in week 2?",
+    "answers": [
+      "24-10"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 220,
+    "image_path": "./image/DTTabShot/test/2-17626681-8.png",
+    "question": "Which team did Manchester United play on September 30, 2008?",
+    "answers": [
+      "Aalborg BK"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4438,
+    "image_path": "./image/DTTabShot/test/2-14781412-8.png",
+    "question": "Who was the silver medalist in the 2010 Guangzhou Marathon?",
+    "answers": [
+      "Latifa Al-Maktom"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2408,
+    "image_path": "./image/DTTabShot/test/2-18912995-9.png",
+    "question": "Which athlete had the fastest reaction time?",
+    "answers": [
+      "Tyson Gay"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1013,
+    "image_path": "./image/DTTabShot/test/2-14783550-1.png",
+    "question": "Which country won the most medals in total?",
+    "answers": [
+      "China"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1967,
+    "image_path": "./image/DTTabShot/test/1-1473672-10.png",
+    "question": "Which player was drafted by the Kitchener Rangers?",
+    "answers": [
+      "Juri Kudrasov"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4037,
+    "image_path": "./image/DTTabShot/test/2-17911639-1.png",
+    "question": "What was the result of the match played on 26 February 2001?",
+    "answers": [
+      "1-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2524,
+    "image_path": "./image/DTTabShot/test/2-18138132-2.png",
+    "question": "Which application is in the Social Networking category?",
+    "answers": [
+      "Facebook"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2685,
+    "image_path": "./image/DTTabShot/test/2-12988799-9.png",
+    "question": "What was the score of the match between Manchester United and Valencia on 8th December 1999?",
+    "answers": [
+      "3-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4166,
+    "image_path": "./image/DTTabShot/test/2-11452830-2.png",
+    "question": "Where was the game in week 4 played?",
+    "answers": [
+      "Louisiana Superdome"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1987,
+    "image_path": "./image/DTTabShot/test/2-1219581-1.png",
+    "question": "What engine was used in the 1989 car?",
+    "answers": [
+      "Yamaha V8"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4918,
+    "image_path": "./image/DTTabShot/test/2-14202514-1.png",
+    "question": "What was the Redskins' record after week 4?",
+    "answers": [
+      "2-2"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4783,
+    "image_path": "./image/DTTabShot/test/2-1139087-2.png",
+    "question": "Which driver had the fastest lap in the German Grand Prix?",
+    "answers": [
+      "Allesandro Nannini"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4656,
+    "image_path": "./image/DTTabShot/test/2-10650028-1.png",
+    "question": "What position had the most players drafted?",
+    "answers": [
+      "Defensive Tackle"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2209,
+    "image_path": "./image/DTTabShot/test/2-14293527-13.png",
+    "question": "Who was the first overall pick in the draft?",
+    "answers": [
+      "Larry Wright"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2445,
+    "image_path": "./image/DTTabShot/test/2-13566976-7.png",
+    "question": "Which country won the most gold medals?",
+    "answers": [
+      "Germany"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3260,
+    "image_path": "./image/DTTabShot/test/2-12450336-19.png",
+    "question": "What was the aggregate score between Manchester City and Aalborg BK?",
+    "answers": [
+      "2-2"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2857,
+    "image_path": "./image/DTTabShot/test/2-10289926-9.png",
+    "question": "Which swimmer was in lane 4 in heat 2?",
+    "answers": [
+      "Yassir Abalalla"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1077,
+    "image_path": "./image/DTTabShot/test/1-29302711-13.png",
+    "question": "Which player has the most prize money?",
+    "answers": [
+      "Ken Rosewall"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4848,
+    "image_path": "./image/DTTabShot/test/2-12058560-1.png",
+    "question": "What was the final score of the game on August 12th?",
+    "answers": [
+      "20-12"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1338,
+    "image_path": "./image/DTTabShot/test/2-16710940-2.png",
+    "question": "What was the attendance of the game between the 49ers and the Packers in week 14?",
+    "answers": [
+      "56,267"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2535,
+    "image_path": "./image/DTTabShot/test/2-16682451-1.png",
+    "question": "What was the name of the competition in which the athlete came in 1st in 2013?",
+    "answers": [
+      "Okpekpe International Road Race"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1817,
+    "image_path": "./image/DTTabShot/test/2-171575-1.png",
+    "question": "What is the name of the movie that is ranked 20th in the list?",
+    "answers": [
+      "Silver"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1994,
+    "image_path": "./image/DTTabShot/test/2-12261872-2.png",
+    "question": "Who won the most stages in the race?",
+    "answers": [
+      "Tony Rominger"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1724,
+    "image_path": "./image/DTTabShot/test/2-1122902-1.png",
+    "question": "Who finished in 17th place?",
+    "answers": [
+      "Andrea de Cesaris"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3425,
+    "image_path": "./image/DTTabShot/test/2-1706942-1.png",
+    "question": "Which driver qualified in 16th place?",
+    "answers": [
+      "Vitantonio Liuzzi"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4637,
+    "image_path": "./image/DTTabShot/test/2-15367861-1.png",
+    "question": "Which team has the fewest wins?",
+    "answers": [
+      "Ypiranga-SP"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1663,
+    "image_path": "./image/DTTabShot/test/2-17383465-1.png",
+    "question": "Who was drafted by the Oklahoma City team?",
+    "answers": [
+      "James Campbell"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 360,
+    "image_path": "./image/DTTabShot/test/2-17323529-7.png",
+    "question": "Who scored 21 points for the Clippers against the Suns on January 2?",
+    "answers": [
+      "Eric Gordon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2965,
+    "image_path": "./image/DTTabShot/test/2-10747009-9.png",
+    "question": "Which team had the lowest score in Round 9?",
+    "answers": [
+      "Footscray"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2309,
+    "image_path": "./image/DTTabShot/test/2-14924851-1.png",
+    "question": "Which team has the most points?",
+    "answers": [
+      "Cruzeiro"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1701,
+    "image_path": "./image/DTTabShot/test/2-1834853-3.png",
+    "question": "What was the result of the match that took place on July 7, 2000?",
+    "answers": [
+      "8-2"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2029,
+    "image_path": "./image/DTTabShot/test/2-10789881-4.png",
+    "question": "Which team had the highest score in Round 4?",
+    "answers": [
+      "South Melbourne"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 477,
+    "image_path": "./image/DTTabShot/test/2-18096431-7.png",
+    "question": "Which player is from Fiji?",
+    "answers": [
+      "Vijay Singh"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1074,
+    "image_path": "./image/DTTabShot/test/1-29302711-13.png",
+    "question": "Who is the fourth-ranked player?",
+    "answers": [
+      "Roger Taylor"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 267,
+    "image_path": "./image/DTTabShot/test/2-11755831-2.png",
+    "question": "Who has the longest run?",
+    "answers": [
+      "Dane Krager"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3195,
+    "image_path": "./image/DTTabShot/test/2-167235-8.png",
+    "question": "Which political party did Sali Berisha belong to?",
+    "answers": [
+      "Democratic Party"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2045,
+    "image_path": "./image/DTTabShot/test/2-15663-1.png",
+    "question": "What was the number of live births in 2005?",
+    "answers": [
+      "46 370"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2166,
+    "image_path": "./image/DTTabShot/test/2-1123400-2.png",
+    "question": "How many laps did Rubens Barrichello complete?",
+    "answers": [
+      "71"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4643,
+    "image_path": "./image/DTTabShot/test/2-10361426-2.png",
+    "question": "Which team did the Vikings play in week 6?",
+    "answers": [
+      "Philadelphia Eagles"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2752,
+    "image_path": "./image/DTTabShot/test/2-11677100-6.png",
+    "question": "Which player was drafted by the Chicago Cubs?",
+    "answers": [
+      "Luis Montanez"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4602,
+    "image_path": "./image/DTTabShot/test/2-15278857-2.png",
+    "question": "Which player made the most appearances for the club?",
+    "answers": [
+      "John Hall"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 168,
+    "image_path": "./image/DTTabShot/test/2-16783017-5.png",
+    "question": "Which college team did Greg Meredith play for?",
+    "answers": [
+      "University of Notre Dame"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3685,
+    "image_path": "./image/DTTabShot/test/1-1341453-32.png",
+    "question": "Who is the incumbent in New Jersey's 2nd district?",
+    "answers": [
+      "Frank LoBiondo"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2145,
+    "image_path": "./image/DTTabShot/test/2-10746808-4.png",
+    "question": "Which team scored the least points in Round 4?",
+    "answers": [
+      "Footscray"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3110,
+    "image_path": "./image/DTTabShot/test/1-13282157-1.png",
+    "question": "How many events did Tiger Woods play in?",
+    "answers": [
+      "13"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3204,
+    "image_path": "./image/DTTabShot/test/2-11713403-3.png",
+    "question": "Who has the most receiving yards?",
+    "answers": [
+      "Chris Jackson"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 113,
+    "image_path": "./image/DTTabShot/test/2-12475284-5.png",
+    "question": "Who is in last place?",
+    "answers": [
+      "David Toms"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4825,
+    "image_path": "./image/DTTabShot/test/2-10167122-1.png",
+    "question": "What is the total number of events played?",
+    "answers": [
+      "17"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3158,
+    "image_path": "./image/DTTabShot/test/2-17231086-6.png",
+    "question": "Who is the player from Japan?",
+    "answers": [
+      "Masashi Ozaki"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1204,
+    "image_path": "./image/DTTabShot/test/2-14978398-2.png",
+    "question": "What is the length of the album version of the song?",
+    "answers": [
+      "3:53"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 236,
+    "image_path": "./image/DTTabShot/test/2-18578891-4.png",
+    "question": "Which athlete is ranked 5th?",
+    "answers": [
+      "Konstantinos Douvalidis"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3332,
+    "image_path": "./image/DTTabShot/test/1-11545282-5.png",
+    "question": "What school/club team did Francisco Elson play for?",
+    "answers": [
+      "California"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1799,
+    "image_path": "./image/DTTabShot/test/2-14900014-1.png",
+    "question": "Which team did the Colts play in week 1?",
+    "answers": [
+      "Miami Dolphins"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1589,
+    "image_path": "./image/DTTabShot/test/2-10277-6.png",
+    "question": "Who won the Best Original Score award in 1988?",
+    "answers": [
+      "Brian De Palma"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2155,
+    "image_path": "./image/DTTabShot/test/2-18491185-1.png",
+    "question": "What is the date of the first episode?",
+    "answers": [
+      "7/02/08"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2620,
+    "image_path": "./image/DTTabShot/test/1-22073745-1.png",
+    "question": "Which film was nominated in 2005?",
+    "answers": [
+      "Renart the Fox"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3786,
+    "image_path": "./image/DTTabShot/test/2-17486851-2.png",
+    "question": "Which player was transferred to Doxa Katokopia?",
+    "answers": [
+      "Vourkou"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4501,
+    "image_path": "./image/DTTabShot/test/2-10766119-15.png",
+    "question": "Which team played at Punt Road Oval?",
+    "answers": [
+      "Richmond"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 422,
+    "image_path": "./image/DTTabShot/test/2-12966044-7.png",
+    "question": "How many people attended the match between Manchester United and Anderlecht on October 24, 2000?",
+    "answers": [
+      "22,506"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2629,
+    "image_path": "./image/DTTabShot/test/2-15271798-2.png",
+    "question": "Who won the 2003 French Open doubles title?",
+    "answers": [
+      "David Macpherson"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4814,
+    "image_path": "./image/DTTabShot/test/1-18600760-10.png",
+    "question": "Which county has the largest population?",
+    "answers": [
+      "Williams"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2508,
+    "image_path": "./image/DTTabShot/test/2-15100419-2.png",
+    "question": "What position was John Fisher drafted to play?",
+    "answers": [
+      "Defensive Back"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1332,
+    "image_path": "./image/DTTabShot/test/2-12204442-1.png",
+    "question": "Which amusement park has the slowest drop speed?",
+    "answers": [
+      "Carowinds"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 298,
+    "image_path": "./image/DTTabShot/test/2-15154539-6.png",
+    "question": "What was the score of the match between Manchester United and Fulham?",
+    "answers": [
+      "1-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2052,
+    "image_path": "./image/DTTabShot/test/2-14609295-5.png",
+    "question": "What was the result of the 1984 NCAA Tournament game between #6 seed East and #3 seed West?",
+    "answers": [
+      "W 70-69 L 63-78"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3669,
+    "image_path": "./image/DTTabShot/test/1-28819393-1.png",
+    "question": "In what year was the highest number of candidates recorded?",
+    "answers": [
+      "2010"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 264,
+    "image_path": "./image/DTTabShot/test/2-1226463-1.png",
+    "question": "What engine did the Lotus 49 use in 1968?",
+    "answers": [
+      "Cosworth V8"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2069,
+    "image_path": "./image/DTTabShot/test/2-1137274-4.png",
+    "question": "Which episode aired on February 4, 2005?",
+    "answers": [
+      "Nantucket"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4646,
+    "image_path": "./image/DTTabShot/test/2-1570274-4.png",
+    "question": "Which tournament did the golfer win once?",
+    "answers": [
+      "The Open Championship"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1710,
+    "image_path": "./image/DTTabShot/test/2-16620240-2.png",
+    "question": "What was the score of the match between Djurg\u00e5rden and Helsingborgs IF?",
+    "answers": [
+      "3-1"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4755,
+    "image_path": "./image/DTTabShot/test/2-12881774-1.png",
+    "question": "What is the birthplace of the character with the codename \"Eagle\"?",
+    "answers": [
+      "Middlesex"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4253,
+    "image_path": "./image/DTTabShot/test/2-1564278-3.png",
+    "question": "What is the name of the tournament that took place on September 24, 2012?",
+    "answers": [
+      "Irvine"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2068,
+    "image_path": "./image/DTTabShot/test/2-14407512-7.png",
+    "question": "What is the name of the athlete who won the 5th place?",
+    "answers": [
+      "Andreas Kofler"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 433,
+    "image_path": "./image/DTTabShot/test/1-18018214-4.png",
+    "question": "Which team has the most draws?",
+    "answers": [
+      "Sveikata Kybartai"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1401,
+    "image_path": "./image/DTTabShot/test/2-1517891-1.png",
+    "question": "Which competition was the match on October 14, 1998 a part of?",
+    "answers": [
+      "Euro 2000 qualifying"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1792,
+    "image_path": "./image/DTTabShot/test/2-187504-13.png",
+    "question": "Which country won the most silver medals?",
+    "answers": [
+      "East Germany"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3416,
+    "image_path": "./image/DTTabShot/test/2-14841421-2.png",
+    "question": "Which country has the most bronze medals?",
+    "answers": [
+      "China"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2443,
+    "image_path": "./image/DTTabShot/test/2-11756731-10.png",
+    "question": "Who was the referee for all of the games?",
+    "answers": [
+      "Ellis"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2361,
+    "image_path": "./image/DTTabShot/test/2-17367788-1.png",
+    "question": "Which team had the best goal difference?",
+    "answers": [
+      "Boston United"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2308,
+    "image_path": "./image/DTTabShot/test/2-13821848-1.png",
+    "question": "Which college did Ralph Lewis attend?",
+    "answers": [
+      "La Salle"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1329,
+    "image_path": "./image/DTTabShot/test/2-12204442-1.png",
+    "question": "Which amusement park has the tallest tower height?",
+    "answers": [
+      "Kings Island"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3667,
+    "image_path": "./image/DTTabShot/test/2-14611590-4.png",
+    "question": "Which player is ranked 4th?",
+    "answers": [
+      "Nick Price"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1029,
+    "image_path": "./image/DTTabShot/test/2-15315276-1.png",
+    "question": "Who won the tournament in 2013?",
+    "answers": [
+      "P.K. Kongkraphan"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1309,
+    "image_path": "./image/DTTabShot/test/2-10808933-13.png",
+    "question": "Which team had the highest score in Round 13?",
+    "answers": [
+      "Footscray"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1689,
+    "image_path": "./image/DTTabShot/test/2-14851245-3.png",
+    "question": "Who won the tournament in Bangkok?",
+    "answers": [
+      "Kim Jin-hee"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4344,
+    "image_path": "./image/DTTabShot/test/2-14875671-1.png",
+    "question": "What was the date of the first game?",
+    "answers": [
+      "September 10, 1989"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1740,
+    "image_path": "./image/DTTabShot/test/2-14583258-3.png",
+    "question": "Which country does David Toms belong to?",
+    "answers": [
+      "United States"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4107,
+    "image_path": "./image/DTTabShot/test/2-17990473-1.png",
+    "question": "What was the score of the game between the Dolphins and the Jets?",
+    "answers": [
+      "21-13"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1544,
+    "image_path": "./image/DTTabShot/test/1-1341690-20.png",
+    "question": "Who was the incumbent in Maryland District 1?",
+    "answers": [
+      "Robert Bauman"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3411,
+    "image_path": "./image/DTTabShot/test/2-14418812-1.png",
+    "question": "What is the result of the game against the Dallas Cowboys?",
+    "answers": [
+      "W 28-13"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4092,
+    "image_path": "./image/DTTabShot/test/2-11873099-17.png",
+    "question": "What was the score of the match between Chelsea and Al-Ahly?",
+    "answers": [
+      "4-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2695,
+    "image_path": "./image/DTTabShot/test/2-1096722-1.png",
+    "question": "How long was the second episode?",
+    "answers": [
+      "24:10"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2165,
+    "image_path": "./image/DTTabShot/test/2-1123400-2.png",
+    "question": "What team did David Coulthard drive for?",
+    "answers": [
+      "McLaren-Mercedes"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2640,
+    "image_path": "./image/DTTabShot/test/2-12913985-5.png",
+    "question": "Which player is from West Germany?",
+    "answers": [
+      "Bernhard Langer"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1199,
+    "image_path": "./image/DTTabShot/test/2-10823719-15.png",
+    "question": "Which team had the highest score in Round 15?",
+    "answers": [
+      "Melbourne"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1193,
+    "image_path": "./image/DTTabShot/test/2-15894254-2.png",
+    "question": "Who won the tournament that took place on October 1, 2006?",
+    "answers": [
+      "Estefania Craciun"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3085,
+    "image_path": "./image/DTTabShot/test/1-16729071-1.png",
+    "question": "What was the score of the game in week 4?",
+    "answers": [
+      "37-34"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4758,
+    "image_path": "./image/DTTabShot/test/2-12881774-1.png",
+    "question": "What is the birthplace of the character with the codename \"Beaver\"?",
+    "answers": [
+      "Ontario"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3269,
+    "image_path": "./image/DTTabShot/test/2-1756688-1.png",
+    "question": "How many games did the player participate in during their career?",
+    "answers": [
+      "34"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3916,
+    "image_path": "./image/DTTabShot/test/2-18792952-6.png",
+    "question": "Which character appears in the film Cock-a-Doodle Duel?",
+    "answers": [
+      "Foghorn"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2900,
+    "image_path": "./image/DTTabShot/test/2-10826385-15.png",
+    "question": "Which team had the lowest score?",
+    "answers": [
+      "Melbourne"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3354,
+    "image_path": "./image/DTTabShot/test/2-1451581-1.png",
+    "question": "Which airport is ranked 1st in the list?",
+    "answers": [
+      "Hong Kong International Airport"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 485,
+    "image_path": "./image/DTTabShot/test/2-15451468-2.png",
+    "question": "Which team did the New York Jets beat in week seven?",
+    "answers": [
+      "New York Jets"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2863,
+    "image_path": "./image/DTTabShot/test/2-18122130-4.png",
+    "question": "What is the score of the player in 5th place?",
+    "answers": [
+      "66"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1580,
+    "image_path": "./image/DTTabShot/test/2-1516353-1.png",
+    "question": "What was the margin of victory in the 1906 Open Championship?",
+    "answers": [
+      "1 stroke"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1561,
+    "image_path": "./image/DTTabShot/test/2-14057447-9.png",
+    "question": "Which team was the home team on May 5?",
+    "answers": [
+      "Pittsburgh Penguins"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 370,
+    "image_path": "./image/DTTabShot/test/2-10537807-4.png",
+    "question": "Which song was released on August 2, 1999?",
+    "answers": [
+      "Here It Comes"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2833,
+    "image_path": "./image/DTTabShot/test/2-167235-4.png",
+    "question": "How many different Prime Ministers did Albania have between 1928 and 1939?",
+    "answers": [
+      "Four"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2760,
+    "image_path": "./image/DTTabShot/test/2-11621915-4.png",
+    "question": "Which country has the most leaders in the top 5?",
+    "answers": [
+      "United States"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4514,
+    "image_path": "./image/DTTabShot/test/2-16176685-4.png",
+    "question": "Who is ranked 2nd in the Rebounds category?",
+    "answers": [
+      "Oriol Junyent"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4981,
+    "image_path": "./image/DTTabShot/test/2-1205598-2.png",
+    "question": "Which city has the oldest MLB team?",
+    "answers": [
+      "Boston"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1895,
+    "image_path": "./image/DTTabShot/test/2-16578883-3.png",
+    "question": "Which city in the United States had the lowest number of visitors in 2008?",
+    "answers": [
+      "Universal City"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1741,
+    "image_path": "./image/DTTabShot/test/2-14583258-3.png",
+    "question": "How many events did Phil Michelson participate in?",
+    "answers": [
+      "23"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4325,
+    "image_path": "./image/DTTabShot/test/2-13908184-17.png",
+    "question": "Which team drafted Reggie Lemelin?",
+    "answers": [
+      "Sherbrooke Beavers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 440,
+    "image_path": "./image/DTTabShot/test/2-11091378-1.png",
+    "question": "Which city hosted the first round of the 2011 Supercross season?",
+    "answers": [
+      "Anaheim"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 189,
+    "image_path": "./image/DTTabShot/test/2-175110-1.png",
+    "question": "Which country won the least total medals?",
+    "answers": [
+      "Netherlands"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3761,
+    "image_path": "./image/DTTabShot/test/2-16218498-1.png",
+    "question": "Which team scored more goals in the first leg between LPRC Oilers and Mighty Blackpool?",
+    "answers": [
+      "LPRC Oilers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 26,
+    "image_path": "./image/DTTabShot/test/2-18569021-5.png",
+    "question": "What country did the winner represent?",
+    "answers": [
+      "United States"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2952,
+    "image_path": "./image/DTTabShot/test/2-11677760-30.png",
+    "question": "Which player is from Las Vegas, NV?",
+    "answers": [
+      "Shabazz Muhammad"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3421,
+    "image_path": "./image/DTTabShot/test/2-16714815-1.png",
+    "question": "Which team did the 49ers play in week 4?",
+    "answers": [
+      "Bye"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4622,
+    "image_path": "./image/DTTabShot/test/2-17389615-6.png",
+    "question": "Which team won the GMFL Title in 2008?",
+    "answers": [
+      "Ohio River Bearcats"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2357,
+    "image_path": "./image/DTTabShot/test/2-11452712-1.png",
+    "question": "Which school did John Lynch attend?",
+    "answers": [
+      "Stanford"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4257,
+    "image_path": "./image/DTTabShot/test/2-14752049-4.png",
+    "question": "Which country had the highest percentage increase in international tourist arrivals from 2011 to 2012?",
+    "answers": [
+      "Chile"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2326,
+    "image_path": "./image/DTTabShot/test/2-10257-5.png",
+    "question": "Which team did the Reserves team play in 1951?",
+    "answers": [
+      "Carlton"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2383,
+    "image_path": "./image/DTTabShot/test/2-15047640-5.png",
+    "question": "What was the final score of the game between the Green Bay Packers and the Chicago Bears on December 22, 2008?",
+    "answers": [
+      "20-17 OT"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2031,
+    "image_path": "./image/DTTabShot/test/2-10789881-4.png",
+    "question": "Which team won the game at Windy Hill?",
+    "answers": [
+      "Essendon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4014,
+    "image_path": "./image/DTTabShot/test/2-1140105-6.png",
+    "question": "Which race was held on March 26th?",
+    "answers": [
+      "Lombank Trophy"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4423,
+    "image_path": "./image/DTTabShot/test/2-1097545-4.png",
+    "question": "What is the label of the release in Japan?",
+    "answers": [
+      "Sony Music Japan, Epic"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1174,
+    "image_path": "./image/DTTabShot/test/2-14603057-2.png",
+    "question": "Which class did Shallowater win in 1988-89?",
+    "answers": [
+      "Class AA"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3388,
+    "image_path": "./image/DTTabShot/test/1-25304789-1.png",
+    "question": "What was the rank (timeslot) of the second episode?",
+    "answers": [
+      "5"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1052,
+    "image_path": "./image/DTTabShot/test/1-18946749-2.png",
+    "question": "Which mountain is the 10th highest in Papua New Guinea?",
+    "answers": [
+      "Mount Kabangama"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1877,
+    "image_path": "./image/DTTabShot/test/2-14369924-1.png",
+    "question": "What is the ERP of the translator in Macon, Georgia?",
+    "answers": [
+      "27"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2253,
+    "image_path": "./image/DTTabShot/test/2-1118731-1.png",
+    "question": "What was the generation of the 1992 Chevrolet Small-Block V8?",
+    "answers": [
+      "III"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3258,
+    "image_path": "./image/DTTabShot/test/2-1520559-1.png",
+    "question": "Which golfer won the 2008 LPGA major championship?",
+    "answers": [
+      "Jiyai Shin"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2304,
+    "image_path": "./image/DTTabShot/test/2-13821848-1.png",
+    "question": "Who was the 20th pick in the first round?",
+    "answers": [
+      "Sam Vincent"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2991,
+    "image_path": "./image/DTTabShot/test/2-17004128-6.png",
+    "question": "Which team won the replay match between Chelsea and Leicester City?",
+    "answers": [
+      "Chelsea"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2683,
+    "image_path": "./image/DTTabShot/test/2-15211468-5.png",
+    "question": "Which episode was narrated by Stanley Reynolds?",
+    "answers": [
+      "The Good and the Quick"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4454,
+    "image_path": "./image/DTTabShot/test/2-17360840-7.png",
+    "question": "Which team did the Lightning play on January 1?",
+    "answers": [
+      "Washington Capitals"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3140,
+    "image_path": "./image/DTTabShot/test/2-11768629-3.png",
+    "question": "What was the score of the match between Panathinaikos and the eventual winners on October 25?",
+    "answers": [
+      "0-3"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2009,
+    "image_path": "./image/DTTabShot/test/2-1122989-1.png",
+    "question": "Who won the race?",
+    "answers": [
+      "Nigel Mansell"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2452,
+    "image_path": "./image/DTTabShot/test/2-15526447-1.png",
+    "question": "Which country won the championship in 1993?",
+    "answers": [
+      "Austria"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2257,
+    "image_path": "./image/DTTabShot/test/2-1438835-1.png",
+    "question": "In which competition did Estoril play in the 2013-14 season?",
+    "answers": [
+      "UEFA Europa League"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3320,
+    "image_path": "./image/DTTabShot/test/2-10652530-2.png",
+    "question": "What was the score of the game in Week 2?",
+    "answers": [
+      "12-19"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4179,
+    "image_path": "./image/DTTabShot/test/2-10809823-14.png",
+    "question": "Which team had the highest score?",
+    "answers": [
+      "Hawthorn"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1447,
+    "image_path": "./image/DTTabShot/test/2-16083989-1.png",
+    "question": "What is the Indole result for Klebsiella spp.?",
+    "answers": [
+      "Negative"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2667,
+    "image_path": "./image/DTTabShot/test/2-15764352-1.png",
+    "question": "Which game had the highest-scoring first half?",
+    "answers": [
+      "Ottawa Swans vs. Etobicoke Kangaroos"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2241,
+    "image_path": "./image/DTTabShot/test/2-13312898-28.png",
+    "question": "What was the name of the player drafted by the Georgia Bulldogs?",
+    "answers": [
+      "Ray Donaldson"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2464,
+    "image_path": "./image/DTTabShot/test/2-18048776-7.png",
+    "question": "Who won the tournament?",
+    "answers": [
+      "Vijay Singh"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2280,
+    "image_path": "./image/DTTabShot/test/1-1341640-14.png",
+    "question": "Who was the Republican candidate in Illinois' 10th district?",
+    "answers": [
+      "John E. Porter"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4674,
+    "image_path": "./image/DTTabShot/test/2-11138928-1.png",
+    "question": "What was the name of the competition in which the gymnast won a medal?",
+    "answers": [
+      "World Championships"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3165,
+    "image_path": "./image/DTTabShot/test/2-151238-2.png",
+    "question": "What was the population in 1951?",
+    "answers": [
+      "5182"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4427,
+    "image_path": "./image/DTTabShot/test/1-29395291-2.png",
+    "question": "Which country had the lowest growth rate from 2005 to 2006?",
+    "answers": [
+      "Nigeria"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3365,
+    "image_path": "./image/DTTabShot/test/2-180342-8.png",
+    "question": "Which building is located in Tower Hill?",
+    "answers": [
+      "White Tower"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3764,
+    "image_path": "./image/DTTabShot/test/2-12030247-8.png",
+    "question": "Who raised the most money?",
+    "answers": [
+      "Hillary Clinton"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 222,
+    "image_path": "./image/DTTabShot/test/2-17626681-8.png",
+    "question": "How many people attended the match between Manchester United and Celtic on November 5, 2008?",
+    "answers": [
+      "58,903"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 369,
+    "image_path": "./image/DTTabShot/test/2-18314203-3.png",
+    "question": "Which country won the least total medals?",
+    "answers": [
+      "Austria"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1597,
+    "image_path": "./image/DTTabShot/test/2-17329364-2.png",
+    "question": "Which manager was hired on September 2, 2008?",
+    "answers": [
+      "Miguel Herrera"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4073,
+    "image_path": "./image/DTTabShot/test/1-27003186-3.png",
+    "question": "Which city has the highest percentage of voters who prefer other parties or have no party preference?",
+    "answers": [
+      "Wildomar"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4943,
+    "image_path": "./image/DTTabShot/test/1-1342379-20.png",
+    "question": "Who won the election in Massachusetts district 5?",
+    "answers": [
+      "Edith Nourse Rogers"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2260,
+    "image_path": "./image/DTTabShot/test/2-1184821-1.png",
+    "question": "What is the NASCAR Nationwide Series race record time?",
+    "answers": [
+      "2:02:10"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4280,
+    "image_path": "./image/DTTabShot/test/2-147622-1.png",
+    "question": "Which election had the highest share of votes?",
+    "answers": [
+      "1927 (Sep)"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4820,
+    "image_path": "./image/DTTabShot/test/2-14640069-4.png",
+    "question": "Who has the most earnings?",
+    "answers": [
+      "Jack Nicklaus"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 324,
+    "image_path": "./image/DTTabShot/test/2-15494883-26.png",
+    "question": "Which city is ranked 10th in terms of passenger traffic?",
+    "answers": [
+      "Curitiba"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3089,
+    "image_path": "./image/DTTabShot/test/2-15038728-5.png",
+    "question": "In which country was the album released on March 31, 2008?",
+    "answers": [
+      "United Kingdom"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1264,
+    "image_path": "./image/DTTabShot/test/2-10826385-9.png",
+    "question": "Which team had the highest score in Round 9?",
+    "answers": [
+      "Collingwood"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4837,
+    "image_path": "./image/DTTabShot/test/2-11154357-4.png",
+    "question": "Which country won the least total medals?",
+    "answers": [
+      "Poland and East Germany"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1365,
+    "image_path": "./image/DTTabShot/test/2-16299790-6.png",
+    "question": "What is the score of the player in fifth place?",
+    "answers": [
+      "211"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1349,
+    "image_path": "./image/DTTabShot/test/2-18111138-1.png",
+    "question": "Which club won the 2007-2008 Kuwaiti Premier League?",
+    "answers": [
+      "Kuwait"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1054,
+    "image_path": "./image/DTTabShot/test/1-26250145-1.png",
+    "question": "What was the song choice for the first solo performance in Hollywood?",
+    "answers": [
+      "Terrified"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3970,
+    "image_path": "./image/DTTabShot/test/1-27592654-2.png",
+    "question": "Which electorate did Charles Kettle represent?",
+    "answers": [
+      "Bruce"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1982,
+    "image_path": "./image/DTTabShot/test/2-15654720-1.png",
+    "question": "In which season did the player have the most finals appearances?",
+    "answers": [
+      "2008-09"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1545,
+    "image_path": "./image/DTTabShot/test/1-1341690-20.png",
+    "question": "Who was the incumbent in Maryland District 4?",
+    "answers": [
+      "Marjorie Holt"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1448,
+    "image_path": "./image/DTTabShot/test/2-16083989-1.png",
+    "question": "What is the Voges-Proskauer result for Enterobacter aerogenes?",
+    "answers": [
+      "Positive"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2751,
+    "image_path": "./image/DTTabShot/test/2-11677100-6.png",
+    "question": "Which player was drafted by the Miami Marlins?",
+    "answers": [
+      "Adrian Gonzalez"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2956,
+    "image_path": "./image/DTTabShot/test/2-1122933-2.png",
+    "question": "How many laps did Nelson Piquet complete?",
+    "answers": [
+      "69"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3660,
+    "image_path": "./image/DTTabShot/test/2-1123329-2.png",
+    "question": "What team did Giancarlo Fisichella drive for?",
+    "answers": [
+      "Benetton-Playlife"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2775,
+    "image_path": "./image/DTTabShot/test/1-10960039-1.png",
+    "question": "Which team had the second overall pick?",
+    "answers": [
+      "Ottawa Renegades"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1654,
+    "image_path": "./image/DTTabShot/test/2-11902366-4.png",
+    "question": "Which team had the most wins in November?",
+    "answers": [
+      "New Jersey"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2839,
+    "image_path": "./image/DTTabShot/test/2-1825751-2.png",
+    "question": "Who won the Binibining Pilipinas Universe pageant in 1973?",
+    "answers": [
+      "Margarita Moran"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2767,
+    "image_path": "./image/DTTabShot/test/2-15621965-7.png",
+    "question": "Which college team did Chris Gatling play for?",
+    "answers": [
+      "Old Dominion"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1625,
+    "image_path": "./image/DTTabShot/test/2-17503198-4.png",
+    "question": "Which team won the second round of the 2008 UEFA Intertoto Cup?",
+    "answers": [
+      "Sturm Graz"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3124,
+    "image_path": "./image/DTTabShot/test/2-18600760-24.png",
+    "question": "What county is the largest in area?",
+    "answers": [
+      "McKenzie"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 30,
+    "image_path": "./image/DTTabShot/test/2-14640450-3.png",
+    "question": "Who is ranked 2nd in the list?",
+    "answers": [
+      "Mark O'Meara"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3253,
+    "image_path": "./image/DTTabShot/test/2-17340355-10.png",
+    "question": "Which team played at the FedExForum on April 10?",
+    "answers": [
+      "Memphis"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4881,
+    "image_path": "./image/DTTabShot/test/2-1590321-59.png",
+    "question": "Who is the only player on this list to have played in the 1960s?",
+    "answers": [
+      "Titus Ozon"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 478,
+    "image_path": "./image/DTTabShot/test/2-18096431-7.png",
+    "question": "What is the total score of the player in eighth place?",
+    "answers": [
+      "280"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 479,
+    "image_path": "./image/DTTabShot/test/2-18096431-7.png",
+    "question": "Which player is from Zimbabwe?",
+    "answers": [
+      "Nick Price"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3800,
+    "image_path": "./image/DTTabShot/test/2-18017936-2.png",
+    "question": "Which team has the fewest points?",
+    "answers": [
+      "Abuls Smiltene"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 335,
+    "image_path": "./image/DTTabShot/test/2-18646220-4.png",
+    "question": "Who won the heat?",
+    "answers": [
+      "Vadim Menkov"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4714,
+    "image_path": "./image/DTTabShot/test/2-10773616-16.png",
+    "question": "Which team had the highest score in Round 16?",
+    "answers": [
+      "Melbourne"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4567,
+    "image_path": "./image/DTTabShot/test/1-27484208-1.png",
+    "question": "Which university is ranked 111th in the World University Rankings by THE-WUR, 2013?",
+    "answers": [
+      "Uppsala University"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2465,
+    "image_path": "./image/DTTabShot/test/2-18048776-7.png",
+    "question": "What was the winning score?",
+    "answers": [
+      "271"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2224,
+    "image_path": "./image/DTTabShot/test/2-169660-1.png",
+    "question": "Which event had the highest rating?",
+    "answers": [
+      "Velasquez vs. dos Santos"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4205,
+    "image_path": "./image/DTTabShot/test/2-16740136-1.png",
+    "question": "Which track hosted the most races?",
+    "answers": [
+      "Mazda Raceway Laguna Seca"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4894,
+    "image_path": "./image/DTTabShot/test/2-17140608-10.png",
+    "question": "Who scored 32 points for Charlotte?",
+    "answers": [
+      "Paul Pierce"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4481,
+    "image_path": "./image/DTTabShot/test/1-27094070-4.png",
+    "question": "Which team had the highest total attendance?",
+    "answers": [
+      "Omaha Nighthawks"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3684,
+    "image_path": "./image/DTTabShot/test/1-1341453-32.png",
+    "question": "Who is the incumbent in New Jersey's 1st district?",
+    "answers": [
+      "Rob Andrews"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1284,
+    "image_path": "./image/DTTabShot/test/2-1598015-5.png",
+    "question": "How many times has the player won the Masters Tournament?",
+    "answers": [
+      "0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 2761,
+    "image_path": "./image/DTTabShot/test/2-11621915-4.png",
+    "question": "Who is the leader with the most earnings?",
+    "answers": [
+      "Lee Trevino"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3781,
+    "image_path": "./image/DTTabShot/test/2-17277219-5.png",
+    "question": "Which country is Gary Player from?",
+    "answers": [
+      "South Africa"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 3082,
+    "image_path": "./image/DTTabShot/test/2-17190456-4.png",
+    "question": "Which team had the most losses at the end of the season?",
+    "answers": [
+      "Pittsburgh"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4284,
+    "image_path": "./image/DTTabShot/test/2-14669089-2.png",
+    "question": "Which city has the most skyscrapers listed in the table?",
+    "answers": [
+      "Johannesburg"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1535,
+    "image_path": "./image/DTTabShot/test/2-18256800-1.png",
+    "question": "Which order did Goffredo da Castiglione belong to?",
+    "answers": [
+      "Cardinal-bishop"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1593,
+    "image_path": "./image/DTTabShot/test/2-10277-6.png",
+    "question": "Which movie won the Best Instrumental Performance award in 2007?",
+    "answers": [
+      "Once Upon a Time in the West"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4265,
+    "image_path": "./image/DTTabShot/test/2-18484319-13.png",
+    "question": "What was the score of the match between Adelaide United and Changchun Yatai?",
+    "answers": [
+      "0-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 1058,
+    "image_path": "./image/DTTabShot/test/1-26250145-1.png",
+    "question": "Who originally sang \"What Becomes of the Brokenhearted\"?",
+    "answers": [
+      "Jimmy Ruffin"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  },
+  {
+    "dataset_name": "DTTabShot",
+    "id": 4665,
+    "image_path": "./image/DTTabShot/test/2-14175075-5.png",
+    "question": "What was the score of the volleyball game on September 8, 2007?",
+    "answers": [
+      "Iowa State 4-0"
+    ],
+    "type": "Table Screenshot From Tabfact"
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "dataset_name": "DTScene",
+    "id": 3192,
+    "image_path": "./image/DTScene/test/6bb8fbc7c58bb408.jpg",
+    "question": "What is the title of the image?",
+    "answers": [
+      "Nauja nar\u0117"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6209,
+    "image_path": "./image/DTScene/test/ef3f08080fc73e50.jpg",
+    "question": "When was the bridge built?",
+    "answers": [
+      "1884"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6806,
+    "image_path": "./image/DTScene/test/c206cd06fefb7923.jpg",
+    "question": "What is the slogan for Raisin Bran?",
+    "answers": [
+      "Two Scoops!"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2886,
+    "image_path": "./image/DTScene/test/8b2848679ee3e611.jpg",
+    "question": "What is the source of the quote at the bottom of the image?",
+    "answers": [
+      "Henry Ford"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4223,
+    "image_path": "./image/DTScene/test/48bb77f664e0b836.jpg",
+    "question": "What is the name of the social media platform that is being referenced in the image?",
+    "answers": [
+      "Facebook"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1260,
+    "image_path": "./image/DTScene/test/555d26ae65b13b0d.jpg",
+    "question": "What is the name of the artist who created the image?",
+    "answers": [
+      "C. Duilius"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6704,
+    "image_path": "./image/DTScene/test/e64927db0798ef4d.jpg",
+    "question": "What is the name of the website mentioned?",
+    "answers": [
+      "www.vivedigital.gov.co"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7784,
+    "image_path": "./image/DTScene/test/7016af6450f5a9c2.jpg",
+    "question": "What is the name of the organization that is holding the event?",
+    "answers": [
+      "FDNY EMS"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6735,
+    "image_path": "./image/DTScene/test/66e0db4b31cfa0f7.jpg",
+    "question": "What is the name of the city where the image was taken?",
+    "answers": [
+      "Wolfsburg"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5215,
+    "image_path": "./image/DTScene/test/5b25043178618269.jpg",
+    "question": "What is the cost of each artwork?",
+    "answers": [
+      "$200"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6400,
+    "image_path": "./image/DTScene/test/41a334728d25cf51.jpg",
+    "question": "What is Love Dager's Twitter handle?",
+    "answers": [
+      "@LoveDager"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7714,
+    "image_path": "./image/DTScene/test/34c5607d6a9876e1.jpg",
+    "question": "What is the text on the window?",
+    "answers": [
+      "HUMOR YOUR HOME"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1937,
+    "image_path": "./image/DTScene/test/5868e12c5ac7e517.jpg",
+    "question": "What is served with the Yucca Fries?",
+    "answers": [
+      "Jalapeno Mayonnaise"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1474,
+    "image_path": "./image/DTScene/test/d1d1f6cc7305b59e.jpg",
+    "question": "What is the name of the first Ewing to settle in America?",
+    "answers": [
+      "Hugh"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6053,
+    "image_path": "./image/DTScene/test/775eed227cd53a03.jpg",
+    "question": "What does CM-1A represent?",
+    "answers": [
+      "Autonomous operations"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6004,
+    "image_path": "./image/DTScene/test/88ebf7b9444cabf6.jpg",
+    "question": "What is the title of the book in the middle?",
+    "answers": [
+      "Playing With Media (Enhanced Version)"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6464,
+    "image_path": "./image/DTScene/test/9339c9c2639992c5.jpg",
+    "question": "What is the function of pin 1 on the microcontroller?",
+    "answers": [
+      "Reset"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7612,
+    "image_path": "./image/DTScene/test/4e8ca0214d29ef21.jpg",
+    "question": "What is the name of the muscle that is responsible for elevating the tongue?",
+    "answers": [
+      "M. geniohyoideus"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3822,
+    "image_path": "./image/DTScene/test/47af8871cba6a0e2.jpg",
+    "question": "Where is the band playing on August 22nd?",
+    "answers": [
+      "Bainbridge. Georgia"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3728,
+    "image_path": "./image/DTScene/test/2a9e4de43e8101a8.jpg",
+    "question": "What is the title of the book on the far left?",
+    "answers": [
+      "Analog Simulation"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 605,
+    "image_path": "./image/DTScene/test/21fbbf4fcf970786.jpg",
+    "question": "What is the diameter of the circle labeled \"UP\"?",
+    "answers": [
+      "240cm"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1601,
+    "image_path": "./image/DTScene/test/31e4f5fd25dea5af.jpg",
+    "question": "What is the size of the cookie in the image?",
+    "answers": [
+      "Family Size"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 964,
+    "image_path": "./image/DTScene/test/bab580c8e84a97a9.jpg",
+    "question": "What is the title of the event?",
+    "answers": [
+      "GovCamp Welcome"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6868,
+    "image_path": "./image/DTScene/test/de6f0de6312b8f10.jpg",
+    "question": "What is the name of the food stall in the background?",
+    "answers": [
+      "Chips"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2020,
+    "image_path": "./image/DTScene/test/ddc37600b452df94.jpg",
+    "question": "What is the establishment's slogan?",
+    "answers": [
+      "Like Music! Best Pint Served!"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 616,
+    "image_path": "./image/DTScene/test/6b8998f4c81aeb99.jpg",
+    "question": "What is the date shown in the image?",
+    "answers": [
+      "Tuesday, May 21"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3770,
+    "image_path": "./image/DTScene/test/561392e62179cae2.jpg",
+    "question": "What is the phone number of the museum?",
+    "answers": [
+      "+420 606 486 372"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2637,
+    "image_path": "./image/DTScene/test/bee76501bdb40c4f.jpg",
+    "question": "What is the name of the picture on the left?",
+    "answers": [
+      "Grand Canyon North Rim"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3996,
+    "image_path": "./image/DTScene/test/e456a2735d9cb33d.jpg",
+    "question": "What is the location of the radar station?",
+    "answers": [
+      "Little Rock, Arkansas"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 338,
+    "image_path": "./image/DTScene/test/3c9786c721f4c3de.jpg",
+    "question": "What is the date of death of the person in the image?",
+    "answers": [
+      "December 09, 1946"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2914,
+    "image_path": "./image/DTScene/test/d496c4f8760acf90.jpg",
+    "question": "What is a pasty?",
+    "answers": [
+      "A meal for one person."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3653,
+    "image_path": "./image/DTScene/test/5df1dd1235081f3f.jpg",
+    "question": "Who is in 3rd place?",
+    "answers": [
+      "Gee"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2778,
+    "image_path": "./image/DTScene/test/e8cbbc94ebd011ad.jpg",
+    "question": "What is the name of the tire brand on the car?",
+    "answers": [
+      "Toyo Tires"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5637,
+    "image_path": "./image/DTScene/test/b533107ff30932da.jpg",
+    "question": "What is the name of the fourth menu item?",
+    "answers": [
+      "Check Out Our New Store"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7360,
+    "image_path": "./image/DTScene/test/ba7eb9ea180d399d.jpg",
+    "question": "Who is the king that is mentioned in the prism?",
+    "answers": [
+      "King Esarhaddon"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6757,
+    "image_path": "./image/DTScene/test/cb62304725c7ed64.jpg",
+    "question": "What is the name of the person with the lowest number of wins?",
+    "answers": [
+      "The Boss"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2489,
+    "image_path": "./image/DTScene/test/0e84897edd4ea08b.jpg",
+    "question": "What is the name of the company that is advertising their product in this image?",
+    "answers": [
+      "Kerr & Co."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5036,
+    "image_path": "./image/DTScene/test/2a24174a5a96caa4.jpg",
+    "question": "What is the total volume of the product in each case being advertised?",
+    "answers": [
+      "12-355 mL cans (4.26 L)"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1820,
+    "image_path": "./image/DTScene/test/d5def51f4a077294.jpg",
+    "question": "What is the degree that was awarded?",
+    "answers": [
+      "Master of Business Administration"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7643,
+    "image_path": "./image/DTScene/test/43cb34d8ebe2e5dd.jpg",
+    "question": "What is the width of the blade?",
+    "answers": [
+      "45.5"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2667,
+    "image_path": "./image/DTScene/test/95661ff42f348069.jpg",
+    "question": "How many units were rated a 10?",
+    "answers": [
+      "30909"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1044,
+    "image_path": "./image/DTScene/test/40a9b3b0e1cccdc9.jpg",
+    "question": "What is the name of the search engine that is being used?",
+    "answers": [
+      "Bing"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5920,
+    "image_path": "./image/DTScene/test/2b390d4bc7fdf660.jpg",
+    "question": "What is the name of the university that is hosting the event?",
+    "answers": [
+      "Suffolk University"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7832,
+    "image_path": "./image/DTScene/test/e7af56043165bef6.jpg",
+    "question": "What is the brand of graham crackers in the image?",
+    "answers": [
+      "Honey Maid"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6771,
+    "image_path": "./image/DTScene/test/99cfa6d1ef3aed86.jpg",
+    "question": "What is the product's manufacturer?",
+    "answers": [
+      "element14"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6210,
+    "image_path": "./image/DTScene/test/ef3f08080fc73e50.jpg",
+    "question": "How much did it cost to build the bridge?",
+    "answers": [
+      "$6,455"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2199,
+    "image_path": "./image/DTScene/test/bed95ab28f7a64a4.jpg",
+    "question": "What is the fifth driver of influence?",
+    "answers": [
+      "Authority"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 79,
+    "image_path": "./image/DTScene/test/a88dfdcdb1286c59.jpg",
+    "question": "What does the sign on the glass door say?",
+    "answers": [
+      "Welcome All Tourists"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 710,
+    "image_path": "./image/DTScene/test/1f754d67170f842b.jpg",
+    "question": "What is the name of the person in the image?",
+    "answers": [
+      "Sebastian Jansson"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7886,
+    "image_path": "./image/DTScene/test/f37189b7b2037146.jpg",
+    "question": "What is the name of the tab that is selected in the image?",
+    "answers": [
+      "View"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3959,
+    "image_path": "./image/DTScene/test/b0188e4b9574ec64.jpg",
+    "question": "What is the price of a Silver Passport for an adult?",
+    "answers": [
+      "$84.95"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7361,
+    "image_path": "./image/DTScene/test/ba7eb9ea180d399d.jpg",
+    "question": "What is the name of the city that is mentioned in the prism?",
+    "answers": [
+      "Nineveh"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4594,
+    "image_path": "./image/DTScene/test/0c5ba65ace2de9ae.jpg",
+    "question": "What is the text at the left of the stamp?",
+    "answers": [
+      "POSTES"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6151,
+    "image_path": "./image/DTScene/test/3a6770cd3fdc3833.jpg",
+    "question": "What is the time limit for the level?",
+    "answers": [
+      "2710"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5745,
+    "image_path": "./image/DTScene/test/f75ffcc060c02b92.jpg",
+    "question": "What is the name of the event where this photo was taken?",
+    "answers": [
+      "Comic-Con"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6202,
+    "image_path": "./image/DTScene/test/4940100e33b4755f.jpg",
+    "question": "What are the three buttons displayed at the bottom of the window?",
+    "answers": [
+      "Always Allow, Deny, Allow"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2964,
+    "image_path": "./image/DTScene/test/ebbd9e4b5719a16b.jpg",
+    "question": "What organization is mentioned in the image?",
+    "answers": [
+      "NRDC"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 843,
+    "image_path": "./image/DTScene/test/50aac8725cd8130a.jpg",
+    "question": "What is the phone number for Lamar?",
+    "answers": [
+      "1-800-233-9942"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5870,
+    "image_path": "./image/DTScene/test/cfb3bffca49461d2.jpg",
+    "question": "What is the bus number?",
+    "answers": [
+      "165, 191, 198, 296"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2669,
+    "image_path": "./image/DTScene/test/3ec25a53736b3b37.jpg",
+    "question": "What is the title of the mural?",
+    "answers": [
+      "Oil Tank No. 1"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6413,
+    "image_path": "./image/DTScene/test/ccd82646b79b79bc.jpg",
+    "question": "What is the name of the new item on the menu?",
+    "answers": [
+      "Chicken Biscuit Taco"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1150,
+    "image_path": "./image/DTScene/test/17d1100dfa7e5b2e.jpg",
+    "question": "How old was Mother Jones when she passed away?",
+    "answers": [
+      "100 years, 6 months, and 30 days"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1428,
+    "image_path": "./image/DTScene/test/2ec93b6b70e95344.jpg",
+    "question": "What is the name of the button located to the right of the Auto button?",
+    "answers": [
+      "Dual"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 695,
+    "image_path": "./image/DTScene/test/4272dc0e0b222a33.jpg",
+    "question": "What is the name of the band that released the album \"Exile on Main St.\"?",
+    "answers": [
+      "The Rolling Stones"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 844,
+    "image_path": "./image/DTScene/test/50aac8725cd8130a.jpg",
+    "question": "What is the name of the product being advertised on the right?",
+    "answers": [
+      "Dove"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4460,
+    "image_path": "./image/DTScene/test/be3c9aee0e04ee48.jpg",
+    "question": "What is the main message of the image?",
+    "answers": [
+      "Congratulations Graduates!"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3568,
+    "image_path": "./image/DTScene/test/133dd2537182c920.jpg",
+    "question": "What is the brand of cereal in the image?",
+    "answers": [
+      "Kellogg's"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5615,
+    "image_path": "./image/DTScene/test/ad449b3b9b3dca2c.jpg",
+    "question": "What is the date of the event?",
+    "answers": [
+      "Monday, May 5th"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 735,
+    "image_path": "./image/DTScene/test/6f7098e3c98596cb.jpg",
+    "question": "What is the name of the hall on the left?",
+    "answers": [
+      "North Hall"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1903,
+    "image_path": "./image/DTScene/test/d30a3e486fb8236d.jpg",
+    "question": "What is the website of the organization?",
+    "answers": [
+      "www.jovemrural.com.br"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2309,
+    "image_path": "./image/DTScene/test/2fc95e8e720b228e.jpg",
+    "question": "What is the aircraft's registration number?",
+    "answers": [
+      "N28307"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 410,
+    "image_path": "./image/DTScene/test/b81a17afdcfe85ce.jpg",
+    "question": "What is the name of the candy in the image?",
+    "answers": [
+      "Charleston Chew"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5233,
+    "image_path": "./image/DTScene/test/3f70a64dee286d0a.jpg",
+    "question": "What is the name of the political party that is having the conference?",
+    "answers": [
+      "PvdA"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1621,
+    "image_path": "./image/DTScene/test/033e7f88d4d43c89.jpg",
+    "question": "What is the phone number of the company?",
+    "answers": [
+      "VIC. 1283-4"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 246,
+    "image_path": "./image/DTScene/test/2ffa56a64f6b0ee8.jpg",
+    "question": "What color is the Burger King sign?",
+    "answers": [
+      "Red"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 433,
+    "image_path": "./image/DTScene/test/2842f3078090f5b4.jpg",
+    "question": "What year had the highest percentage increase in International Truck Production?",
+    "answers": [
+      "1928"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 180,
+    "image_path": "./image/DTScene/test/bc13e79152ec3a6f.jpg",
+    "question": "What is the name of the trucking company?",
+    "answers": [
+      "Globetrotter"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7002,
+    "image_path": "./image/DTScene/test/3654d7018d3badab.jpg",
+    "question": "What is the name of the jazz festival in the image?",
+    "answers": [
+      "Monmouth Jazz Fest"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6063,
+    "image_path": "./image/DTScene/test/809ac8010d8fbbee.jpg",
+    "question": "What is the main topic of the text in the image?",
+    "answers": [
+      "Soil Diversity"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2369,
+    "image_path": "./image/DTScene/test/108b32e2086563d6.jpg",
+    "question": "What is the name of the event that is being held?",
+    "answers": [
+      "Microsoft Imagine Cup"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4604,
+    "image_path": "./image/DTScene/test/d9fb900a6913ba94.jpg",
+    "question": "Which team won the round?",
+    "answers": [
+      "BLU"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6150,
+    "image_path": "./image/DTScene/test/3a6770cd3fdc3833.jpg",
+    "question": "What is the player's score?",
+    "answers": [
+      "295"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1716,
+    "image_path": "./image/DTScene/test/117c8318f9a507df.jpg",
+    "question": "What was the occupation of the deceased?",
+    "answers": [
+      "Land Agent"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3632,
+    "image_path": "./image/DTScene/test/d4cc5a2b0e1988dc.jpg",
+    "question": "What is the name of the contest that is being offered?",
+    "answers": [
+      "Steinberg's Exciting Grand Opening Contest"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1598,
+    "image_path": "./image/DTScene/test/4bfd0a84cf14af4c.jpg",
+    "question": "Which platform allows you to upload, distribute, and monetize your videos?",
+    "answers": [
+      "YouTube."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 520,
+    "image_path": "./image/DTScene/test/089adc5f238c0260.jpg",
+    "question": "What is the name of the organization that is hosting the event?",
+    "answers": [
+      "Community Oncology Alliance"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6490,
+    "image_path": "./image/DTScene/test/addfc6ee73d4b8b7.jpg",
+    "question": "What time does National Corn Dog Day end?",
+    "answers": [
+      "5 PM"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 140,
+    "image_path": "./image/DTScene/test/1922992c9e332d1b.jpg",
+    "question": "What is the title of the book?",
+    "answers": [
+      "The Best of O. Henry"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7775,
+    "image_path": "./image/DTScene/test/b74e9b5fc292fe34.jpg",
+    "question": "What is the name of the dessert that is made with  vanilla bean whipped creme fraiche?",
+    "answers": [
+      "Apple Tarte-Tatin."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6578,
+    "image_path": "./image/DTScene/test/33acccd5e86c1011.jpg",
+    "question": "What is the model number of the projector?",
+    "answers": [
+      "CP-X1200WA"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 125,
+    "image_path": "./image/DTScene/test/28e18142b84efde1.jpg",
+    "question": "What is the name of the game?",
+    "answers": [
+      "Jumping Jack"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2870,
+    "image_path": "./image/DTScene/test/2da7c302f37b9f01.jpg",
+    "question": "What is the price of deep-fried pickles?",
+    "answers": [
+      "$5.00"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4945,
+    "image_path": "./image/DTScene/test/268271316dea490b.jpg",
+    "question": "What is the name of the company in booth 5114?",
+    "answers": [
+      "General Standards"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5989,
+    "image_path": "./image/DTScene/test/500597e5ad4b0d77.jpg",
+    "question": "What does the product do?",
+    "answers": [
+      "Controls tartar build-up, kills plaque and gingivitis germs, and keeps breath fresh for hours."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1443,
+    "image_path": "./image/DTScene/test/d3f79e0aa25e3345.jpg",
+    "question": "What is the percentage off travel insurance?",
+    "answers": [
+      "20%"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7950,
+    "image_path": "./image/DTScene/test/69b3950a0b7256ed.jpg",
+    "question": "What is the time shown on the computer screen in the top right corner of the image?",
+    "answers": [
+      "9:52 PM"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7471,
+    "image_path": "./image/DTScene/test/70282e4c0f2f27f5.jpg",
+    "question": "What is the name of the holiday being celebrated?",
+    "answers": [
+      "Tet Trung Nguyen"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1211,
+    "image_path": "./image/DTScene/test/31c41a0accb139f6.jpg",
+    "question": "What is the date of the last game?",
+    "answers": [
+      "11/30"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5848,
+    "image_path": "./image/DTScene/test/31e9dfc51e086169.jpg",
+    "question": "What is the name of the flag shown in the image?",
+    "answers": [
+      "U.S. Civil Flag"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 578,
+    "image_path": "./image/DTScene/test/feea44fbaeadaff4.jpg",
+    "question": "What type of building is Tointon Family Stadium?",
+    "answers": [
+      "Open building"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5508,
+    "image_path": "./image/DTScene/test/e31b7bd1e49788ed.jpg",
+    "question": "What is the name of the building in the image?",
+    "answers": [
+      "Squares"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 935,
+    "image_path": "./image/DTScene/test/d3d7f36eaacd9fae.jpg",
+    "question": "What is the title of the book shown in the image?",
+    "answers": [
+      "Cesta k v\u00edt\u011bzstv\u00ed"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5098,
+    "image_path": "./image/DTScene/test/a529d9a145dcf36d.jpg",
+    "question": "What is the first word in the second paragraph?",
+    "answers": [
+      "Barbara"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2165,
+    "image_path": "./image/DTScene/test/4c3e64bc812caf88.jpg",
+    "question": "What is the number of results for \"olympics 2008\"?",
+    "answers": [
+      "85,400,000"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4481,
+    "image_path": "./image/DTScene/test/749f612cf3694aed.jpg",
+    "question": "What is the seat number?",
+    "answers": [
+      "12A"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5751,
+    "image_path": "./image/DTScene/test/6dc562c78f5ec2b3.jpg",
+    "question": "What is the theme of the event shown in the picture?",
+    "answers": [
+      "Innovating together."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5402,
+    "image_path": "./image/DTScene/test/6a22200f50b3dbca.jpg",
+    "question": "Who is at the bottom of the pyramid?",
+    "answers": [
+      "Fans and potential artists"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6083,
+    "image_path": "./image/DTScene/test/5acce32ada9050bd.jpg",
+    "question": "What is the brand name of the product in the image?",
+    "answers": [
+      "Pepsi"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5335,
+    "image_path": "./image/DTScene/test/391876022d90453c.jpg",
+    "question": "What is the text on the sign above the store?",
+    "answers": [
+      "The Best of Both Worlds"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1656,
+    "image_path": "./image/DTScene/test/f15967ffc913aaf6.jpg",
+    "question": "What is the alcohol concentration of the product on the right side of the image?",
+    "answers": [
+      "16%"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4323,
+    "image_path": "./image/DTScene/test/35ca96040b583168.jpg",
+    "question": "What is the best way to swaddle a baby?",
+    "answers": [
+      "swaddled"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4608,
+    "image_path": "./image/DTScene/test/2910ba5a52827b74.jpg",
+    "question": "What percentage of people would keep going to the movies for a week?",
+    "answers": [
+      "1.2%"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6429,
+    "image_path": "./image/DTScene/test/a51cb22c96ff82cd.jpg",
+    "question": "What is the first agenda item?",
+    "answers": [
+      "Velkomst"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7397,
+    "image_path": "./image/DTScene/test/fa5227c85d3d8ca9.jpg",
+    "question": "What was the veteran's name?",
+    "answers": [
+      "FREDERIC LYNN NORRIS"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6123,
+    "image_path": "./image/DTScene/test/9b1069ab6e033e31.jpg",
+    "question": "What is the name of the theater in the image?",
+    "answers": [
+      "The Lyceum"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2501,
+    "image_path": "./image/DTScene/test/eab2d24a21736053.jpg",
+    "question": "What is the website of Planet Sushi?",
+    "answers": [
+      "www.planetsushi.fr"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 670,
+    "image_path": "./image/DTScene/test/2bde918bb847d6b5.jpg",
+    "question": "What is the name of the company represented in the image?",
+    "answers": [
+      "\u00cdSOR"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2047,
+    "image_path": "./image/DTScene/test/1675cf1ef0119dd3.jpg",
+    "question": "What is the number in the top left corner of the picture?",
+    "answers": [
+      "0825 000 825"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3897,
+    "image_path": "./image/DTScene/test/5eea599d4cb5258f.jpg",
+    "question": "What is the name of the club that posted the yellow flyer?",
+    "answers": [
+      "Women's Book Club"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1987,
+    "image_path": "./image/DTScene/test/74c315534a074ec2.jpg",
+    "question": "What is the English text appearing in the watermark in the image?",
+    "answers": [
+      "Catedrales e Iglesias"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 35,
+    "image_path": "./image/DTScene/test/c47f4ba28225d840.jpg",
+    "question": "What month is shown in the image?",
+    "answers": [
+      "November"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4365,
+    "image_path": "./image/DTScene/test/6278816078c6f686.jpg",
+    "question": "What time does the race start?",
+    "answers": [
+      "8:00 a.m."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3013,
+    "image_path": "./image/DTScene/test/e57321e30e58a66c.jpg",
+    "question": "What is the name of the band playing on 19.01.07?",
+    "answers": [
+      "The Sweet Vandals"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4466,
+    "image_path": "./image/DTScene/test/9178504fb4c44b3d.jpg",
+    "question": "How much are tickets?",
+    "answers": [
+      "$5"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1014,
+    "image_path": "./image/DTScene/test/8e979755bcb7c766.jpg",
+    "question": "What is the name of the event?",
+    "answers": [
+      "Ronde de l'Isard"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1499,
+    "image_path": "./image/DTScene/test/49b642c0c869633f.jpg",
+    "question": "What is the model number of the house?",
+    "answers": [
+      "1320-141"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6698,
+    "image_path": "./image/DTScene/test/14b71925d7efc6b7.jpg",
+    "question": "What is the name of the $12 dish?",
+    "answers": [
+      "Pork Belly Bun"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3394,
+    "image_path": "./image/DTScene/test/3c06f854e57eae65.jpg",
+    "question": "What is the name of the person who was born in 1928?",
+    "answers": [
+      "Betty Jane"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4255,
+    "image_path": "./image/DTScene/test/c8c0f10a610c5156.jpg",
+    "question": "What is the text in the top right corner of the picture?",
+    "answers": [
+      "Think green"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3583,
+    "image_path": "./image/DTScene/test/5f3a6874ca601e0b.jpg",
+    "question": "What was the Plaza Hotel and Plaza Theater built on?",
+    "answers": [
+      "Courthouse Square"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6303,
+    "image_path": "./image/DTScene/test/9b05af51f878f213.jpg",
+    "question": "What is the name of the artist who created the sculptures in the image?",
+    "answers": [
+      "Jonathan Borofsky"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7841,
+    "image_path": "./image/DTScene/test/e549e4fca4150da9.jpg",
+    "question": "What does the text at the top of the image say?",
+    "answers": [
+      "Various Self Portraits"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 640,
+    "image_path": "./image/DTScene/test/9560082fdd029217.jpg",
+    "question": "What is the brand of the hard drive?",
+    "answers": [
+      "Western Digital"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3973,
+    "image_path": "./image/DTScene/test/a7692eff7235b38e.jpg",
+    "question": "What is the name of the pub in the image?",
+    "answers": [
+      "The Nightingale"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4611,
+    "image_path": "./image/DTScene/test/2910ba5a52827b74.jpg",
+    "question": "What percentage of people would keep watching TV for a week?",
+    "answers": [
+      "17.1%"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1210,
+    "image_path": "./image/DTScene/test/31c41a0accb139f6.jpg",
+    "question": "What is the date of the first game?",
+    "answers": [
+      "8/31"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2737,
+    "image_path": "./image/DTScene/test/b30c7bccddb45f79.jpg",
+    "question": "What is the name of the orchestra that performed the symphony?",
+    "answers": [
+      "Columbia Symphony Orchestra"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 196,
+    "image_path": "./image/DTScene/test/6d5f61a75c669b06.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Cake Family"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4088,
+    "image_path": "./image/DTScene/test/9ab9b3a00a5f6d1b.jpg",
+    "question": "What is the title of the map?",
+    "answers": [
+      "A Map of America"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7047,
+    "image_path": "./image/DTScene/test/8a747d0405c7e1f8.jpg",
+    "question": "What is the time in the picture?",
+    "answers": [
+      "23.06.2014 16:36"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5549,
+    "image_path": "./image/DTScene/test/b5d0088e0ad66cc7.jpg",
+    "question": "What is the name of the auditorium?",
+    "answers": [
+      "Auditorium del Parco - L'Aquila"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7683,
+    "image_path": "./image/DTScene/test/c29015b62175cbbc.jpg",
+    "question": "What is the name of the person who registered?",
+    "answers": [
+      "Syed Mohd Saiful Ikhwan"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1284,
+    "image_path": "./image/DTScene/test/03bd6180458781cb.jpg",
+    "question": "What is the material of the rim for the front wheel?",
+    "answers": [
+      "Full carbon H35 - tubular"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3269,
+    "image_path": "./image/DTScene/test/fb78946e288405df.jpg",
+    "question": "What is the name of the product being advertised?",
+    "answers": [
+      "Sealtest Sherbet"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3703,
+    "image_path": "./image/DTScene/test/b4139440c0e2cab1.jpg",
+    "question": "What type of fire extinguisher is this?",
+    "answers": [
+      "Soda-Acid"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2243,
+    "image_path": "./image/DTScene/test/6fea845d935aecd8.jpg",
+    "question": "What is the name of the husband's father?",
+    "answers": [
+      "Isaac Ricks"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 175,
+    "image_path": "./image/DTScene/test/6b427e66b6ea4726.jpg",
+    "question": "What is the title of the text?",
+    "answers": [
+      "Atanasia Chica"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2654,
+    "image_path": "./image/DTScene/test/0f5599f7a6b7fe40.jpg",
+    "question": "What is the name of the beauty salon?",
+    "answers": [
+      "Beaute Chandie"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 99,
+    "image_path": "./image/DTScene/test/824a023a671271de.jpg",
+    "question": "What is the theme of the event?",
+    "answers": [
+      "Geospatial Minds for Society"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2466,
+    "image_path": "./image/DTScene/test/35469301b7035ea6.jpg",
+    "question": "What is the order of the third item in the list?",
+    "answers": [
+      "2"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6463,
+    "image_path": "./image/DTScene/test/9339c9c2639992c5.jpg",
+    "question": "What is the name of the microcontroller shown in the image?",
+    "answers": [
+      "ATmega168"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3103,
+    "image_path": "./image/DTScene/test/c8c60d3524708eec.jpg",
+    "question": "What is the name of the islands in the center of the picture?",
+    "answers": [
+      "falkland islands"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4726,
+    "image_path": "./image/DTScene/test/00713a488c747f1e.jpg",
+    "question": "Who are the three leaders mentioned in the headline?",
+    "answers": [
+      "David Cameron, Ed Miliband, and Nick Clegg"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5315,
+    "image_path": "./image/DTScene/test/1871aacc09ce1ba7.jpg",
+    "question": "What is the product key?",
+    "answers": [
+      "JCXB4-J14WQ-Y6YMJ-Y73C-FPRW2"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 761,
+    "image_path": "./image/DTScene/test/1b11e9124bd4c3b3.jpg",
+    "question": "What is the date of the journey?",
+    "answers": [
+      "07.02.12"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2095,
+    "image_path": "./image/DTScene/test/ed16059e6bb26b28.jpg",
+    "question": "What is the name of the station located in the middle of the image?",
+    "answers": [
+      "Main Street-Science World Station"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7362,
+    "image_path": "./image/DTScene/test/ab1fdea3ca02945b.jpg",
+    "question": "What is the name of the party mentioned in the text?",
+    "answers": [
+      "Socialist Unity Party of Germany"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4688,
+    "image_path": "./image/DTScene/test/0100f53965a54ae3.jpg",
+    "question": "What is the number on the car?",
+    "answers": [
+      "18"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2784,
+    "image_path": "./image/DTScene/test/acf7c7ff70985d57.jpg",
+    "question": "What is the name of the magazine?",
+    "answers": [
+      "PS: The Preventive Maintenance Monthly"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 659,
+    "image_path": "./image/DTScene/test/078a3fa8f98f217c.jpg",
+    "question": "What is the class number of the vegetable?",
+    "answers": [
+      "106"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6615,
+    "image_path": "./image/DTScene/test/cb0462e581d13b66.jpg",
+    "question": "What is the date of the highest point on the graph?",
+    "answers": [
+      "July 20, 2010"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1571,
+    "image_path": "./image/DTScene/test/68d45be60d79aa6b.jpg",
+    "question": "What is the date of the boxing match?",
+    "answers": [
+      "March 10, 2009"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7463,
+    "image_path": "./image/DTScene/test/8f5e4162f307e55d.jpg",
+    "question": "What is the name of the challenge that is being promoted in the image?",
+    "answers": [
+      "National Nutrition Month"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2492,
+    "image_path": "./image/DTScene/test/0e84897edd4ea08b.jpg",
+    "question": "What is the address of the company that is advertising their product in this image?",
+    "answers": [
+      "34 Walker Street, New York"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6897,
+    "image_path": "./image/DTScene/test/b4c832c157e48093.jpg",
+    "question": "What is the distance from Hong Kong to China in miles?",
+    "answers": [
+      "8365 miles"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5231,
+    "image_path": "./image/DTScene/test/d378aed873c2a046.jpg",
+    "question": "What is the name of the spice blend included with the product?",
+    "answers": [
+      "Golden Spice Blend"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5398,
+    "image_path": "./image/DTScene/test/6a22200f50b3dbca.jpg",
+    "question": "What is at the top of the pyramid?",
+    "answers": [
+      "Mega-hit stars"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5585,
+    "image_path": "./image/DTScene/test/564d0719fbaf4ca3.jpg",
+    "question": "What is the name of the third button?",
+    "answers": [
+      "F-Ant"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4739,
+    "image_path": "./image/DTScene/test/d137693c906b4510.jpg",
+    "question": "What is the weight of the No. 7 hammer without a handle?",
+    "answers": [
+      "9 oz."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5825,
+    "image_path": "./image/DTScene/test/f44fdd733f8d1eea.jpg",
+    "question": "What was the name of the team that the Rowdies played against?",
+    "answers": [
+      "The Cosmos"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7347,
+    "image_path": "./image/DTScene/test/650054ac4caaec54.jpg",
+    "question": "What is the name of the restaurant in the image?",
+    "answers": [
+      "Acme Oyster House"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1644,
+    "image_path": "./image/DTScene/test/7ea22adfaf7c7d58.jpg",
+    "question": "What is the main headline on the front page?",
+    "answers": [
+      "Libya bet $1bn on SocGen shares"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2325,
+    "image_path": "./image/DTScene/test/6fefe2049c1743bf.jpg",
+    "question": "What is the name of the river that runs along the western edge of the town?",
+    "answers": [
+      "Red River"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7919,
+    "image_path": "./image/DTScene/test/f02cbc83a779c883.jpg",
+    "question": "What is the name of the first episode?",
+    "answers": [
+      "Episode 01: November 20, 2007 - Digital Storytelling"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 226,
+    "image_path": "./image/DTScene/test/fea23d2f7b67a6ac.jpg",
+    "question": "What day of the week is the concert?",
+    "answers": [
+      "Friday"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3678,
+    "image_path": "./image/DTScene/test/51ccab892faea8bd.jpg",
+    "question": "What is the name of the recording studio?",
+    "answers": [
+      "G-House Recording Studio"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7890,
+    "image_path": "./image/DTScene/test/f37189b7b2037146.jpg",
+    "question": "What is the name of the button that is located in the bottom-left corner of the window?",
+    "answers": [
+      "OK"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1781,
+    "image_path": "./image/DTScene/test/3579c5786069a7d7.jpg",
+    "question": "What is the name of the author of the book titled \"A Room of One's Own\"?",
+    "answers": [
+      "Virginia Woolf"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1304,
+    "image_path": "./image/DTScene/test/c53cdf1ee3807416.jpg",
+    "question": "What is the name of the product being advertised?",
+    "answers": [
+      "Kodak Carousel custom H projector."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3194,
+    "image_path": "./image/DTScene/test/89a634408713a753.jpg",
+    "question": "What is the crate number of the crate on the top left?",
+    "answers": [
+      "EN009002"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4479,
+    "image_path": "./image/DTScene/test/749f612cf3694aed.jpg",
+    "question": "What is the flight number?",
+    "answers": [
+      "GA318"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3104,
+    "image_path": "./image/DTScene/test/ffbcbb92c3b868d9.jpg",
+    "question": "What is the name of the city where the event is taking place?",
+    "answers": [
+      "Melbourne"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7057,
+    "image_path": "./image/DTScene/test/468379a28ebd9345.jpg",
+    "question": "What is the name of the application that wants to connect to your account?",
+    "answers": [
+      "Adium"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5364,
+    "image_path": "./image/DTScene/test/5921a1088f39f5f1.jpg",
+    "question": "What language options are available?",
+    "answers": [
+      "English, Espa\u00f1ol, Euskara, Suomi"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6220,
+    "image_path": "./image/DTScene/test/14e05e143cd97061.jpg",
+    "question": "What is the name of the glacier on the north side of Mount Baker?",
+    "answers": [
+      "Roosevelt Glacier"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7271,
+    "image_path": "./image/DTScene/test/caf5237258698b5f.jpg",
+    "question": "What is the name of the tire company?",
+    "answers": [
+      "TyreRight"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6890,
+    "image_path": "./image/DTScene/test/4bdd0427361b6949.jpg",
+    "question": "Who is the letter written by?",
+    "answers": [
+      "Pat O'Connell"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7081,
+    "image_path": "./image/DTScene/test/0ab7c9630d011286.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "6.0 OZ. (170g)"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 385,
+    "image_path": "./image/DTScene/test/38b08d6c4a040378.jpg",
+    "question": "What is the name of the event?",
+    "answers": [
+      "Tech Cocktail"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 189,
+    "image_path": "./image/DTScene/test/ec2b781bea7df176.jpg",
+    "question": "What is the Transport for London identifier of the bus?",
+    "answers": [
+      "TA215"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5863,
+    "image_path": "./image/DTScene/test/0de57901c86db588.jpg",
+    "question": "What is the name of the franchise that these toys belong to?",
+    "answers": [
+      "Pok\u00e9mon"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 421,
+    "image_path": "./image/DTScene/test/149c9797350bfe63.jpg",
+    "question": "What is the slogan of the company?",
+    "answers": [
+      "Making a difference"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2957,
+    "image_path": "./image/DTScene/test/4ed3f2c8c09ff269.jpg",
+    "question": "What is the name of the sport on the sweatshirt?",
+    "answers": [
+      "Baseball"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7302,
+    "image_path": "./image/DTScene/test/b47cc831ba967d3d.jpg",
+    "question": "What is the brand name of the product?",
+    "answers": [
+      "InnoTek"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7145,
+    "image_path": "./image/DTScene/test/3f7e30601c614dfb.jpg",
+    "question": "What is the slogan for the car?",
+    "answers": [
+      "Glorifying the Modern Motor Car With New Ideals of Magnificence"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1774,
+    "image_path": "./image/DTScene/test/01dddbff7ba0aa42.jpg",
+    "question": "Who is the author of the book \"Fighting Philosopher\"?",
+    "answers": [
+      "Richard Peterson"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 128,
+    "image_path": "./image/DTScene/test/28e18142b84efde1.jpg",
+    "question": "What is the lowest score?",
+    "answers": [
+      "1100"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5143,
+    "image_path": "./image/DTScene/test/6c824b94a5da4b5f.jpg",
+    "question": "What is the name of the castle shown in the image?",
+    "answers": [
+      "Argothmath Castle"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1467,
+    "image_path": "./image/DTScene/test/a5f1d22b86940467.jpg",
+    "question": "What is the name of the button that you can click to set up another device?",
+    "answers": [
+      "Set Up Another Device"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7836,
+    "image_path": "./image/DTScene/test/83fcb07416555a37.jpg",
+    "question": "What is the name of the racetrack in the image?",
+    "answers": [
+      "Infineon Raceway"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7031,
+    "image_path": "./image/DTScene/test/18d5533cc9792980.jpg",
+    "question": "What is the name of the newspaper?",
+    "answers": [
+      "Tuscaloosa resident"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2338,
+    "image_path": "./image/DTScene/test/40cce95ac1b879f7.jpg",
+    "question": "What is the price of the product?",
+    "answers": [
+      "89p"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2646,
+    "image_path": "./image/DTScene/test/de747f28ea4988ce.jpg",
+    "question": "What is the name of the municipality in the top left corner of the map?",
+    "answers": [
+      "Haugesund"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3748,
+    "image_path": "./image/DTScene/test/30ddbd5ad57e80bb.jpg",
+    "question": "What is the main topic of the text in the image?",
+    "answers": [
+      "Summer jobs."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3220,
+    "image_path": "./image/DTScene/test/da4f5c08083881cb.jpg",
+    "question": "What is the price of a large iced coffee?",
+    "answers": [
+      "$4"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7017,
+    "image_path": "./image/DTScene/test/6d99b7a93cdceb8e.jpg",
+    "question": "What is the name of the whiskey advertised in the image?",
+    "answers": [
+      "Old Lexington Straight Kentucky Whiskey"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 718,
+    "image_path": "./image/DTScene/test/94a4280c787a8453.jpg",
+    "question": "What is the name of the tuner that modified the car in the image?",
+    "answers": [
+      "Kinetic Motorsports"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1374,
+    "image_path": "./image/DTScene/test/e020b18e30401e23.jpg",
+    "question": "What is on the floor?",
+    "answers": [
+      "Caution wet floor"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5744,
+    "image_path": "./image/DTScene/test/f75ffcc060c02b92.jpg",
+    "question": "What is the last name of the person in the middle?",
+    "answers": [
+      "Fedak"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4983,
+    "image_path": "./image/DTScene/test/0d7a151625d7ed38.jpg",
+    "question": "What is the name of the company that published the telephone directory?",
+    "answers": [
+      "Das Telefonbuch"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4784,
+    "image_path": "./image/DTScene/test/855d6d516105d4ca.jpg",
+    "question": "What year was the restaurant established?",
+    "answers": [
+      "1923"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3529,
+    "image_path": "./image/DTScene/test/b673574ce8aa7f13.jpg",
+    "question": "What is the name of the flute Ron Burgundy is playing in the image?",
+    "answers": [
+      "Jazz Flute"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2412,
+    "image_path": "./image/DTScene/test/d537210c5966009a.jpg",
+    "question": "What was the name of the Creek Indian town where Chief Coweta lived?",
+    "answers": [
+      "Coweta Town"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2371,
+    "image_path": "./image/DTScene/test/108b32e2086563d6.jpg",
+    "question": "What is the name of the company that is hosting the event?",
+    "answers": [
+      "Microsoft"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7248,
+    "image_path": "./image/DTScene/test/4cc3969abd14a63e.jpg",
+    "question": "What is the subject of the email?",
+    "answers": [
+      "Evernote clipper test"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7742,
+    "image_path": "./image/DTScene/test/0c6565ec91f9757a.jpg",
+    "question": "Who is the author of the book?",
+    "answers": [
+      "Jan Weiler"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3674,
+    "image_path": "./image/DTScene/test/2be264be2cdbc7a5.jpg",
+    "question": "Who is the author of the article?",
+    "answers": [
+      "Andrei Codrescu"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2873,
+    "image_path": "./image/DTScene/test/2da7c302f37b9f01.jpg",
+    "question": "What is the price of two deep-fried Moon Pies?",
+    "answers": [
+      "$7.00"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2839,
+    "image_path": "./image/DTScene/test/78e250171926c488.jpg",
+    "question": "What does the text say in the first speech bubble?",
+    "answers": [
+      "Ich wollt eh schon kommen"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1424,
+    "image_path": "./image/DTScene/test/2ec93b6b70e95344.jpg",
+    "question": "What is the radio frequency displayed on the screen?",
+    "answers": [
+      "96.80"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3493,
+    "image_path": "./image/DTScene/test/355509ba37363901.jpg",
+    "question": "What is the name of the drug in the image?",
+    "answers": [
+      "Advil"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5496,
+    "image_path": "./image/DTScene/test/6e08eef3e6d45fbc.jpg",
+    "question": "What is the name of the company that is the secondary sponsor of the team in the blue jerseys?",
+    "answers": [
+      "Smorlesi"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7157,
+    "image_path": "./image/DTScene/test/a8ead49f78e1bb7b.jpg",
+    "question": "What is the name of the product being advertised?",
+    "answers": [
+      "Welch's Junior Mints"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4450,
+    "image_path": "./image/DTScene/test/79b7de8d8a386d7d.jpg",
+    "question": "What is the size of the thresher that the 18-36 HP engine can drive?",
+    "answers": [
+      "28 x 46 inch thresher"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6458,
+    "image_path": "./image/DTScene/test/3d6d6ed8e10761d2.jpg",
+    "question": "What is the name of the organization?",
+    "answers": [
+      "Embrace Child Victims of Crime"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2111,
+    "image_path": "./image/DTScene/test/684e40297ab818f4.jpg",
+    "question": "What is the slogan on the van?",
+    "answers": [
+      "Let's Watch TV"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4200,
+    "image_path": "./image/DTScene/test/e1098f11bbdd6b20.jpg",
+    "question": "What is the number of the player in the white jersey closest to the camera?",
+    "answers": [
+      "17"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3152,
+    "image_path": "./image/DTScene/test/b24e7fcf35924845.jpg",
+    "question": "What is the name of the soft drink that is being advertised on the billboard on the left side of the image?",
+    "answers": [
+      "Coca-Cola"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1165,
+    "image_path": "./image/DTScene/test/cff4995aa83d0156.jpg",
+    "question": "What is the number on the cyclist's helmet?",
+    "answers": [
+      "61"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4895,
+    "image_path": "./image/DTScene/test/66bdb82b66b96d7f.jpg",
+    "question": "What is the cost for 2x2 Mbps?",
+    "answers": [
+      "$229"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1960,
+    "image_path": "./image/DTScene/test/def8d57436c7cace.jpg",
+    "question": "What is the license plate number of the car on the right?",
+    "answers": [
+      "427 SDZ"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4770,
+    "image_path": "./image/DTScene/test/28b39fa8e14637e1.jpg",
+    "question": "What is the name of this product?",
+    "answers": [
+      "xbox 360"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4109,
+    "image_path": "./image/DTScene/test/b47243ee426d774f.jpg",
+    "question": "What is the bus's registration number?",
+    "answers": [
+      "V810 EFB"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 549,
+    "image_path": "./image/DTScene/test/834a32f1f98ea90f.jpg",
+    "question": "What is the name of the company that is sponsoring the event?",
+    "answers": [
+      "NorCal CrossFit"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4033,
+    "image_path": "./image/DTScene/test/ba515b1248d1af3a.jpg",
+    "question": "Who is the baseball player mentioned in the text?",
+    "answers": [
+      "Steven Matz"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3138,
+    "image_path": "./image/DTScene/test/8b00ec830cd7cf4e.jpg",
+    "question": "What is the name of the island shown on the map?",
+    "answers": [
+      "Grassy Key"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 205,
+    "image_path": "./image/DTScene/test/b50967f5e5009450.jpg",
+    "question": "What is the name of the first person listed on the plaque?",
+    "answers": [
+      "LTH GODFREY DE ISLE BUSH"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6593,
+    "image_path": "./image/DTScene/test/163ccc2072ed7c2e.jpg",
+    "question": "Who is the author of the book \"Di\u00e1rios do Purgat\u00f3rio\"?",
+    "answers": [
+      "Maria Julia Dacorego"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6363,
+    "image_path": "./image/DTScene/test/a0c28a63f4149160.jpg",
+    "question": "What is the name of the website in the image?",
+    "answers": [
+      "Google Spreadsheets"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2596,
+    "image_path": "./image/DTScene/test/215879d54290040b.jpg",
+    "question": "What is the price of the product per pound?",
+    "answers": [
+      "$4.47/LB"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3304,
+    "image_path": "./image/DTScene/test/07b577bcc412e1ef.jpg",
+    "question": "What is the name of the city mentioned in the image?",
+    "answers": [
+      "Bilbao"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7606,
+    "image_path": "./image/DTScene/test/f52f5b12abad70e8.jpg",
+    "question": "What is the name of the event?",
+    "answers": [
+      "Walk Against Warming"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1740,
+    "image_path": "./image/DTScene/test/7e1de274785c02e2.jpg",
+    "question": "What is the date of the event?",
+    "answers": [
+      "July 25, 2009"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5280,
+    "image_path": "./image/DTScene/test/10bd0ad03ba4a14e.jpg",
+    "question": "What does the creature in the image say about the color of the sea?",
+    "answers": [
+      "What a fear the sea with that color"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 562,
+    "image_path": "./image/DTScene/test/aefcc44c023371e9.jpg",
+    "question": "What year was the European Mobility Week held in Murcia, Spain?",
+    "answers": [
+      "2014"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1029,
+    "image_path": "./image/DTScene/test/35f5c01ad287ac8e.jpg",
+    "question": "What is the name of the candy in the image?",
+    "answers": [
+      "Cadbury Screme Egg"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7058,
+    "image_path": "./image/DTScene/test/468379a28ebd9345.jpg",
+    "question": "What does the application want to be able to do?",
+    "answers": [
+      "Access and update your data on Twitter"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7476,
+    "image_path": "./image/DTScene/test/44183b1088facac8.jpg",
+    "question": "What is the name of the product in the image?",
+    "answers": [
+      "Heinz Tomato Ketchup"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3576,
+    "image_path": "./image/DTScene/test/a1d4e7f57ee4202d.jpg",
+    "question": "What is the date when the picture was taken?",
+    "answers": [
+      "09/10/2005 10:11"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5357,
+    "image_path": "./image/DTScene/test/5575d641eb38bcb7.jpg",
+    "question": "What is the name of the establishment where the song requests are being made?",
+    "answers": [
+      "The Mint"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7721,
+    "image_path": "./image/DTScene/test/c08753f4013b1288.jpg",
+    "question": "What is the name of the bus company?",
+    "answers": [
+      "Yellow Buses"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1909,
+    "image_path": "./image/DTScene/test/d964666b70fd553f.jpg",
+    "question": "What is the name of the product being advertised?",
+    "answers": [
+      "Thermo-Fax Copying Machines"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 157,
+    "image_path": "./image/DTScene/test/572db6c8abfca919.jpg",
+    "question": "How long does the dry cleaning service take?",
+    "answers": [
+      "2 hours"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4609,
+    "image_path": "./image/DTScene/test/2910ba5a52827b74.jpg",
+    "question": "What percentage of people would keep playing video games for a week?",
+    "answers": [
+      "3.2%"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7530,
+    "image_path": "./image/DTScene/test/fcdadc25a4b3cafb.jpg",
+    "question": "What is the fifth most effective social marketing tactic?",
+    "answers": [
+      "Multimedia content sharing"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3733,
+    "image_path": "./image/DTScene/test/41794e0f23ecd1c6.jpg",
+    "question": "What is the title of the image?",
+    "answers": [
+      "La Note ou la Vie"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6598,
+    "image_path": "./image/DTScene/test/0047d62a6bfc0210.jpg",
+    "question": "What is the name of the person buried in the grave on the left?",
+    "answers": [
+      "Lepping"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5148,
+    "image_path": "./image/DTScene/test/f7e0996fa77e30cd.jpg",
+    "question": "What is the title of the book?",
+    "answers": [
+      "Le Grand Remplacement"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3489,
+    "image_path": "./image/DTScene/test/f9cd2042577de247.jpg",
+    "question": "What is the topic of the conference?",
+    "answers": [
+      "Rare Diseases Europe"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5988,
+    "image_path": "./image/DTScene/test/500597e5ad4b0d77.jpg",
+    "question": "What is the product name?",
+    "answers": [
+      "Listerine Ultraclean"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2443,
+    "image_path": "./image/DTScene/test/2aa92d016208777c.jpg",
+    "question": "What is the name of the special guest?",
+    "answers": [
+      "George Benson"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 451,
+    "image_path": "./image/DTScene/test/4d90f0b2efae6755.jpg",
+    "question": "Who is the director of the movie?",
+    "answers": [
+      "J.J. Abrams"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6048,
+    "image_path": "./image/DTScene/test/f7d8843d1ce20fc6.jpg",
+    "question": "What is the name of the cider in the middle?",
+    "answers": [
+      "Gwatkin"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 301,
+    "image_path": "./image/DTScene/test/53775c2b630901ac.jpg",
+    "question": "What is the name of the department or unit mentioned in the image?",
+    "answers": [
+      "MICH Account Management"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1454,
+    "image_path": "./image/DTScene/test/f609d1b48c1c6bd4.jpg",
+    "question": "What is the time shown on the iPhone?",
+    "answers": [
+      "9:42 AM"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7806,
+    "image_path": "./image/DTScene/test/8b15660a4be30315.jpg",
+    "question": "What is the name of the firework that has a parachute?",
+    "answers": [
+      "PARACHUTE FLOATING LIGHT"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2762,
+    "image_path": "./image/DTScene/test/6c7390c49e12f9d1.jpg",
+    "question": "What is served all day?",
+    "answers": [
+      "Locally sourced food"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5314,
+    "image_path": "./image/DTScene/test/1871aacc09ce1ba7.jpg",
+    "question": "How many days of protection are left?",
+    "answers": [
+      "367"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 142,
+    "image_path": "./image/DTScene/test/1922992c9e332d1b.jpg",
+    "question": "Who is the author of the book?",
+    "answers": [
+      "O. Henry"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 435,
+    "image_path": "./image/DTScene/test/38c1aa897ca1200a.jpg",
+    "question": "Who was the defendant in the trial?",
+    "answers": [
+      "Joseph Wall"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5464,
+    "image_path": "./image/DTScene/test/7217c3ed645e6c9a.jpg",
+    "question": "What is the event where the picture was taken?",
+    "answers": [
+      "San Diego Comic-Con"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3968,
+    "image_path": "./image/DTScene/test/ebde8230e585be58.jpg",
+    "question": "What is the name of the bar in the image?",
+    "answers": [
+      "The Free Trade Inn"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6321,
+    "image_path": "./image/DTScene/test/1f7c75bca58723ac.jpg",
+    "question": "What is the name of the publisher of the book titled \"Presidential Agent\"?",
+    "answers": [
+      "The Viking Press"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 135,
+    "image_path": "./image/DTScene/test/f6d7b20489f25541.jpg",
+    "question": "Who was the first in a long line of Guinness Master Brewers?",
+    "answers": [
+      "Arthur"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6528,
+    "image_path": "./image/DTScene/test/d9df21c913b033dc.jpg",
+    "question": "Who is the person in the image?",
+    "answers": [
+      "Marije"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6608,
+    "image_path": "./image/DTScene/test/ba2fd9fa881ca4c1.jpg",
+    "question": "What is the name of the computer in the image?",
+    "answers": [
+      "iMac"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6553,
+    "image_path": "./image/DTScene/test/f2147c761b9c7360.jpg",
+    "question": "Who is the main person mentioned in the text?",
+    "answers": [
+      "Bill Phillips"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5481,
+    "image_path": "./image/DTScene/test/36846291d0edae81.jpg",
+    "question": "What is the name of the beer in the bottle to the left of the Utica Club bottle?",
+    "answers": [
+      "Utica Club"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3335,
+    "image_path": "./image/DTScene/test/b1481f2a8ec18912.jpg",
+    "question": "What is the name of the organism depicted in Figure 11?",
+    "answers": [
+      "Laterofistrella complanata"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2889,
+    "image_path": "./image/DTScene/test/8a56624c9e28f14b.jpg",
+    "question": "What is the name of the person depicted in the marble head?",
+    "answers": [
+      "Demosthenes"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4465,
+    "image_path": "./image/DTScene/test/9178504fb4c44b3d.jpg",
+    "question": "What time does the play start?",
+    "answers": [
+      "7:30 PM"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7787,
+    "image_path": "./image/DTScene/test/e9886ecd0b189643.jpg",
+    "question": "What year were the awards presented?",
+    "answers": [
+      "2013"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7428,
+    "image_path": "./image/DTScene/test/5372dff729508636.jpg",
+    "question": "What is the name of the event?",
+    "answers": [
+      "Bloomberg Latin America Forum"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7622,
+    "image_path": "./image/DTScene/test/c997df2f73a6d736.jpg",
+    "question": "What is the name of the movie being advertised?",
+    "answers": [
+      "Greatful Dead"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5033,
+    "image_path": "./image/DTScene/test/2a24174a5a96caa4.jpg",
+    "question": "What is the brand name of the product being advertised?",
+    "answers": [
+      "Coca-Cola"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 989,
+    "image_path": "./image/DTScene/test/c47425afcbd3ac77.jpg",
+    "question": "What company is mentioned in the image?",
+    "answers": [
+      "Digital Equipment Corporation"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6052,
+    "image_path": "./image/DTScene/test/f7d8843d1ce20fc6.jpg",
+    "question": "What is the name of the cider on the right?",
+    "answers": [
+      "Happy Daze"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7158,
+    "image_path": "./image/DTScene/test/a8ead49f78e1bb7b.jpg",
+    "question": "What is the slogan for the product?",
+    "answers": [
+      "Nobody Makes Them Better Than Welch!"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 1159,
+    "image_path": "./image/DTScene/test/883e05a794c7e677.jpg",
+    "question": "What is the name of the first person listed on the left side of the monument?",
+    "answers": [
+      "KANGASAGE Alexis"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 3496,
+    "image_path": "./image/DTScene/test/355509ba37363901.jpg",
+    "question": "What is the number of capsules in the bottle?",
+    "answers": [
+      "160"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6368,
+    "image_path": "./image/DTScene/test/85906c554200fa0e.jpg",
+    "question": "What is the name of the album?",
+    "answers": [
+      "Smart Ass Black Boy"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6276,
+    "image_path": "./image/DTScene/test/cc938537e05e89f4.jpg",
+    "question": "Who is the target user?",
+    "answers": [
+      "Anyone who is buying, renting, or owns a home."
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 141,
+    "image_path": "./image/DTScene/test/1922992c9e332d1b.jpg",
+    "question": "What is the title of the short story?",
+    "answers": [
+      "The Green Door"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 753,
+    "image_path": "./image/DTScene/test/34296d24711e2129.jpg",
+    "question": "What is the product's size in the middle of picture?",
+    "answers": [
+      "Small/Medium"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 2666,
+    "image_path": "./image/DTScene/test/95661ff42f348069.jpg",
+    "question": "How many units were rated a 1?",
+    "answers": [
+      "530"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 5018,
+    "image_path": "./image/DTScene/test/443854f7605fabb3.jpg",
+    "question": "What does the sign above the machines say?",
+    "answers": [
+      "Boletos/Tickets"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 4974,
+    "image_path": "./image/DTScene/test/222232cfb7066324.jpg",
+    "question": "WWhat is the title of the article?",
+    "answers": [
+      "Falling in love with hardware"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 6571,
+    "image_path": "./image/DTScene/test/63c77f2507098244.jpg",
+    "question": "What is the website address that is displayed in the image?",
+    "answers": [
+      "BarackObama.com"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 7941,
+    "image_path": "./image/DTScene/test/00ff45f69b5b5a97.jpg",
+    "question": "What is the title of the text?",
+    "answers": [
+      "A Mysterious Stranger"
+    ],
+    "type": "Scene From Hiertext"
+  },
+  {
+    "dataset_name": "DTScene",
+    "id": 707,
+    "image_path": "./image/DTScene/test/a420330023949b7a.jpg",
+    "question": "What type of tea is Mint Mosaic?",
+    "answers": [
+      "Green tea"
+    ],
+    "type": "Scene From Hiertext"
+  }
+]

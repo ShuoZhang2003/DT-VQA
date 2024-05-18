@@ -1,0 +1,3282 @@
+[
+  {
+    "dataset_name": "DTProdCap",
+    "id": 559,
+    "image_path": "./image/DTProdCap/test/TB2mIMdtY4npuFjSZFmXXXl4FXa_!!2090074548.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u91ce\u5c71\u91d1\u6854\uff08\u871c\u996f\uff09",
+      "\u91ce\u5c71\u91d1\u6854"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 695,
+    "image_path": "./image/DTProdCap/test/TB2N8g7lZbI8KJjy1zdXXbe1VXa_!!3285665522.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "188\u514b",
+      "188g",
+      "188 g",
+      "188"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 207,
+    "image_path": "./image/DTProdCap/test/TB2t6kWXFuWBuNjSspnXXX1NVXa_!!2174558845.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "800ml",
+      "800 ml",
+      "800"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 668,
+    "image_path": "./image/DTProdCap/test/TB2jtoZwCtYBeNjSspaXXaOOFXa_!!117419283.jpg",
+    "question": "What is the contact number of the manufacturer?",
+    "answers": [
+      "4008-808-598"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 103,
+    "image_path": "./image/DTProdCap/test/TB2d21hqFXXXXXxXpXXXXXXXXXX_!!2275967298.jpg",
+    "question": "What is the standard number?",
+    "answers": [
+      "QB/T2660-2004"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 395,
+    "image_path": "./image/DTProdCap/test/TB2G_TFX.OO.eBjSZFLXXcxmXXa_!!517044712.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u5eb7\u5e08\u5085\u7eff\u8336"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1138,
+    "image_path": "./image/DTProdCap/test/TB2oN.RcGmWQ1JjSZPhXXXCJFXa_!!3378059092.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "SC11744098300485"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 12,
+    "image_path": "./image/DTProdCap/test/TB2.vkaBpOWBuNjy0FiXXXFxVXa_!!2516746988.jpg",
+    "question": "Where is the water from?",
+    "answers": [
+      "Portugal",
+      "\u8461\u8404\u7259"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 557,
+    "image_path": "./image/DTProdCap/test/O1CN011wqvR1KkNzWWy8y_!!289086360.jpg",
+    "question": "What is the purpose of the product?",
+    "answers": [
+      "\u8865\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1454,
+    "image_path": "./image/DTProdCap/test/TB2.T8ccrXlpuFjSszfXXcSGXXa_!!72028148.jpg",
+    "question": "What is the shelf life?",
+    "answers": [
+      "9 months",
+      "9\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1332,
+    "image_path": "./image/DTProdCap/test/TB29WjNppXXXXcCXXXXXXXXXXXX_!!79819706.jpg",
+    "question": "What is the flavor of the candy?",
+    "answers": [
+      "Peppermint"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1177,
+    "image_path": "./image/DTProdCap/test/O1CN01pU4Zx32Crs8gIRGkd_!!2220698528.jpg",
+    "question": "What is the alcohol content of the beer?",
+    "answers": [
+      "3.6% vol",
+      "3.6%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 762,
+    "image_path": "./image/DTProdCap/test/TB2w.aRsVXXXXbEXXXXXXXXXXXX_!!736977726.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1921,
+    "image_path": "./image/DTProdCap/test/TB2N2XMp49YBuNjy0FfXXXIsVXa_!!2010410297.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "45 days",
+      "45\u5929"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1686,
+    "image_path": "./image/DTProdCap/test/TB2uQmCnsbI8KJjy1zdXXbe1VXa_!!78207809.jpg",
+    "question": "What is the company's phone number?",
+    "answers": [
+      "+65-63966190",
+      "020-83281235"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 35,
+    "image_path": "./image/DTProdCap/test/TB2qpVdcVXXXXaQXpXXXXXXXXXX_!!771772115.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u6cb9\u70b8\u578b\u65b9\u4fbf\u9762"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1391,
+    "image_path": "./image/DTProdCap/test/TB2G0KEbNBmpuFjSZFDXXXD8pXa_!!1823048619.jpg",
+    "question": "What is the name of the design studio?",
+    "answers": [
+      "Liebo Design Studio",
+      "\u676d\u5dde\u5217\u535a\u5ba4\u5185\u7a7a\u95f4\u8bbe\u8ba1\u5de5\u4f5c\u5ba4"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1153,
+    "image_path": "./image/DTProdCap/test/TB2ueSqir1YBuNjSszhXXcUsFXa_!!2039741862.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "2.5kg",
+      "2.5 kg"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1419,
+    "image_path": "./image/DTProdCap/test/O1CN011uN2MiRXB5JqCx5_!!160626024.jpg",
+    "question": "What is the production date of the product?",
+    "answers": [
+      "2018/09/21"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1962,
+    "image_path": "./image/DTProdCap/test/TB297WalDXYBeNkHFrdXXciuVXa_!!1740558531.jpg",
+    "question": "What is the flavor of this product?",
+    "answers": [
+      "Pomegranate"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 587,
+    "image_path": "./image/DTProdCap/test/O1CN011SAqaXGAaoVrvnc_!!2127682207.jpg",
+    "question": "What is the name of the manufacturer?",
+    "answers": [
+      "The Absolut Company AB"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1613,
+    "image_path": "./image/DTProdCap/test/TB2U5pxdVXXXXXjXXXXXXXXXXXX_!!699219589.jpg",
+    "question": "What is the date of manufacture?",
+    "answers": [
+      "2015.06.06"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2212,
+    "image_path": "./image/DTProdCap/test/TB2Yd1_CN1YBuNjy1zcXXbNcXXa_!!4000456149.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "90 days",
+      "90\u5929"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 518,
+    "image_path": "./image/DTProdCap/test/TB2Bb6PaXXXXXc9XXXXXXXXXXXX_!!1880658748.jpg",
+    "question": "What is the volume of the wine?",
+    "answers": [
+      "750 mL",
+      "750mL",
+      "750\u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 281,
+    "image_path": "./image/DTProdCap/test/TB2J_._jdzJ8KJjSspkXXbF7VXa_!!823100332.jpg",
+    "question": "How old is the whisky?",
+    "answers": [
+      "12 years",
+      "12\u5e74"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2092,
+    "image_path": "./image/DTProdCap/test/O1CN011Iz5rtGqJcewcrr_!!4085540963.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "36 months",
+      "36\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1082,
+    "image_path": "./image/DTProdCap/test/TB2kd77X9BYBeNjy0FeXXbnmFXa_!!2628056108.jpg",
+    "question": "What is the product's serving size?",
+    "answers": [
+      "250ml",
+      "250 ml",
+      "250"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 702,
+    "image_path": "./image/DTProdCap/test/TB2OqDygmFmpuFjSZFrXXayOXXa_!!164911391.jpg",
+    "question": "What is the product's energy per 100ml?",
+    "answers": [
+      "114 kJ",
+      "114\u5343\u7126"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2231,
+    "image_path": "./image/DTProdCap/test/TB2t5LdphxmpuFjSZFNXXXrRXXa_!!1037963739.jpg",
+    "question": "What is the production license number of the product?",
+    "answers": [
+      "QS4412 0601 6889"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1002,
+    "image_path": "./image/DTProdCap/test/T2nCXBX.8XXXXXXXXX_!!870992429.jpg",
+    "question": "What is the alcohol content of the beer?",
+    "answers": [
+      "4.7% vol",
+      "4.7%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1605,
+    "image_path": "./image/DTProdCap/test/TB2yGSltVXXXXbSXpXXXXXXXXXX_!!1713141464.jpg",
+    "question": "What is the fabric composition?",
+    "answers": [
+      "100% cotton",
+      "100%\u68c9"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1228,
+    "image_path": "./image/DTProdCap/test/TB2azjgeFHM8KJjSZJiXXbx3FXa_!!20737984.jpg",
+    "question": "What is the product number of the item?",
+    "answers": [
+      "400050909221"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 733,
+    "image_path": "./image/DTProdCap/test/TB2.AQOoiC9MuFjSZFoXXbUzFXa_!!2098853754.jpg",
+    "question": "What is the manufacturer's website?",
+    "answers": [
+      "www.riomints.cn"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 608,
+    "image_path": "./image/DTProdCap/test/O1CN01HO9iK620OJALpFWuT_!!0-item_pic.jpg",
+    "question": "What is the manufacturer?",
+    "answers": [
+      "\u96c5\u8bd7\u5170\u9edb\uff08\u4e0a\u6d77\uff09\u5546\u8d38\u6709\u9650\u516c\u53f8"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1474,
+    "image_path": "./image/DTProdCap/test/TB2MpNFBXuWBuNjSszbXXcS7FXa_!!1909970357.jpg",
+    "question": "What is the production date of the snack?",
+    "answers": [
+      "2018/06/10"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1275,
+    "image_path": "./image/DTProdCap/test/TB2gaomjByWBuNkSmFPXXXguVXa_!!2847778900.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1825,
+    "image_path": "./image/DTProdCap/test/O1CN011ntN0fNhbQh4L75_!!2775725147.jpg",
+    "question": "What is the alcohol content?",
+    "answers": [
+      "4% vol",
+      "4%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 147,
+    "image_path": "./image/DTProdCap/test/TB25M12oN9YBuNjy0FfXXXIsVXa_!!3091876067.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "SC11744178100264"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1096,
+    "image_path": "./image/DTProdCap/test/O1CN01Ub0wD51GDLMYmB3pC_!!2592640588.jpg",
+    "question": "What is the name of the beer?",
+    "answers": [
+      "Dali Beer",
+      "\u5927\u7406\u5564\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2296,
+    "image_path": "./image/DTProdCap/test/O1CN011UBQJEEfV6g38Ip_!!2873212479.jpg",
+    "question": "What is the shelf life of the drink in the image?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1312,
+    "image_path": "./image/DTProdCap/test/TB21F2LHrSYBuNjSspiXXXNzpXa_!!294411298.jpg",
+    "question": "What is the main ingredient?",
+    "answers": [
+      "\u6c34",
+      "water"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1320,
+    "image_path": "./image/DTProdCap/test/O1CN01qGZNTO1gkU2vYdiKy_!!288774180.jpg",
+    "question": "What is the storage condition?",
+    "answers": [
+      "Store in a cool and dry place"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 181,
+    "image_path": "./image/DTProdCap/test/O1CN01PIi3KP1oLlb3Y02XH_!!1631535209.jpg",
+    "question": "What is the alcohol content of the wine?",
+    "answers": [
+      "14% vol",
+      "14%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1012,
+    "image_path": "./image/DTProdCap/test/O1CN01f3C6K61oPQlF9VPMi_!!604605217.jpg",
+    "question": "What is the alcohol content of the beer?",
+    "answers": [
+      "10% vol",
+      "10%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1151,
+    "image_path": "./image/DTProdCap/test/TB2ueSqir1YBuNjSszhXXcUsFXa_!!2039741862.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Jinsi Pork Floss",
+      "\u91d1\u4e1d\u8089\u7c89\u677e",
+      "WanRui Pork Flavored Floss",
+      "\u7696\u777f\u732a\u8089\u5473\u677e",
+      "Pork floss (pork flavored meat floss)",
+      "\u8089\u677e\uff08\u732a\u8089\u5473\u8089\u7c89\u677e\uff09",
+      "Pork floss",
+      "\u8089\u677e"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 542,
+    "image_path": "./image/DTProdCap/test/TB2.ddAkxSYBuNjSspjXXX73VXa_!!3628386219.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "6 months",
+      "6\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 276,
+    "image_path": "./image/DTProdCap/test/O1CN011JW4NP0HsoFPH5B_!!2886811035.jpg",
+    "question": "What is the ABV of the beer?",
+    "answers": [
+      "5% vol",
+      "5%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 309,
+    "image_path": "./image/DTProdCap/test/TB2RcaKh4SYBuNjSsphXXbGvVXa_!!554539597.jpg",
+    "question": "What is the production date of the beer?",
+    "answers": [
+      "20170512"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 111,
+    "image_path": "./image/DTProdCap/test/TB2jOGyGNWYBuNjy1zkXXXGGpXa_!!2611729144.jpg",
+    "question": "What is the net content of the product?",
+    "answers": [
+      "245ml",
+      "245 ml",
+      "245"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 40,
+    "image_path": "./image/DTProdCap/test/O1CN01rjWQu62Crs8tjxstr_!!2220698528.jpg",
+    "question": "What is the name of the vodka?",
+    "answers": [
+      "Absolut Vodka"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 551,
+    "image_path": "./image/DTProdCap/test/O1CN011kfgK3r2xWhrPfB_!!1951934711.jpg",
+    "question": "What is the product's website?",
+    "answers": [
+      "www.drbronner.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 646,
+    "image_path": "./image/DTProdCap/test/TB2JjxVd2BNTKJjSszeXXcu2VXa_!!373909561.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "SC10921021101271"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2337,
+    "image_path": "./image/DTProdCap/test/TB2ibO9keGSBuNjSspbXXciipXa_!!3887288801.jpg",
+    "question": "What is the production batch number?",
+    "answers": [
+      "XK16-108-2834"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1490,
+    "image_path": "./image/DTProdCap/test/TB1wIB0fH5YBuNjSspoXXbeNFXa_!!0-item_pic.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "RISU",
+      "\u8389\u4ed5",
+      "\u9ad8\u7ea7\u56fa\u4f53\u714e\u70b8\u7528\u6cb9",
+      "FRY SHORTENING",
+      "\u98df\u7528\u6cb9\u8102\u5236\u54c1"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1705,
+    "image_path": "./image/DTProdCap/test/TB2BI4ojZtnpuFjSZFvXXbcTpXa_!!925431633.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "490\u6beb\u5347",
+      "490ml",
+      "490 ml",
+      "490"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 435,
+    "image_path": "./image/DTProdCap/test/O1CN01p4GNhG1nRQsrqc0s5_!!2176485086.jpg",
+    "question": "What is the name of the drink?",
+    "answers": [
+      "\u9ad8\u5c9b\u6d53\u7f29\u5c0f\u9ea6\u8349\u6c41"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 378,
+    "image_path": "./image/DTProdCap/test/TB2UJpPjbtlpuFjSspfXXXLUpXa_!!1588174756.jpg",
+    "question": "What are the storage conditions?",
+    "answers": [
+      "-18\u2103\u51b7\u51bb\u4fdd\u5b58"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 575,
+    "image_path": "./image/DTProdCap/test/TB2CgHmaEefF1Jjy1zeXXXoupXa_!!2585284124.jpg",
+    "question": "Where is the water sourced from?",
+    "answers": [
+      "Longevity Village, Pengshui Country"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2185,
+    "image_path": "./image/DTProdCap/test/O1CN01PRGd3M1PFTlmavysX_!!2617271811.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "248\u514b",
+      "248 g",
+      "248g",
+      "248"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 747,
+    "image_path": "./image/DTProdCap/test/O1CN01ottUmd1kAXPjaen7r_!!1663014643.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "1 liter",
+      "1 L",
+      "1L",
+      "1\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1140,
+    "image_path": "./image/DTProdCap/test/TB2oN.RcGmWQ1JjSZPhXXXCJFXa_!!3378059092.jpg",
+    "question": "What is the net weight?",
+    "answers": [
+      "450g",
+      "450 g",
+      "450"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1026,
+    "image_path": "./image/DTProdCap/test/TB2ocTLtCtYBeNjSspkXXbU8VXa_!!3446538338.jpg",
+    "question": "What is the name of the wine?",
+    "answers": [
+      "Sabelli Sangiovese",
+      "\u8428\u8d1d\u5229-\u6851\u5a07\u7ef4\u585e\u5e72\u7ea2\u8461\u8404\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1267,
+    "image_path": "./image/DTProdCap/test/TB2SzPempXXXXbjXXXXXXXXXXXX_!!164911391.jpg",
+    "question": "What is the product's volume?",
+    "answers": [
+      "500ml",
+      "500 ml",
+      "500"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2319,
+    "image_path": "./image/DTProdCap/test/TB25u3setbJ8KJjy1zjXXaqapXa_!!3485803494.jpg",
+    "question": "What is the alcohol content of the wine?",
+    "answers": [
+      "11.5% vol",
+      "11.5%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 810,
+    "image_path": "./image/DTProdCap/test/TB2RMx8gsjI8KJjSsppXXXbyVXa_!!1051586322.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "20g x 2",
+      "20 g x 2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 487,
+    "image_path": "./image/DTProdCap/test/O1CN01viqCSM1VcjZYAotKZ_!!1713202674.jpg",
+    "question": "What is the product's volume?",
+    "answers": [
+      "150ml",
+      "150 ml",
+      "150"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 449,
+    "image_path": "./image/DTProdCap/test/TB2reuuFQCWBuNjy0FaXXXUlXXa_!!2528715821.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 237,
+    "image_path": "./image/DTProdCap/test/TB2xYuEao_C11Bjy1zeXXXtGpXa_!!50597335.jpg",
+    "question": "What is the standard number?",
+    "answers": [
+      "GB1886.41-2015"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1421,
+    "image_path": "./image/DTProdCap/test/TB2mMTsbkZmBKNjSZPiXXXFNVXa_!!164911391.jpg",
+    "question": "What is the name of the drink in the image?",
+    "answers": [
+      "HUNG FOOK TONG",
+      "\u9e3f\u798f\u5802"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2097,
+    "image_path": "./image/DTProdCap/test/TB2UfdkblHH8KJjy0FbXXcqlpXa_!!767966745.jpg",
+    "question": "What is the production date of the candy?",
+    "answers": [
+      "20170930"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 4,
+    "image_path": "./image/DTProdCap/test/TB2mxyMBpmWBuNjSspdXXbugXXa_!!2829385830.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "8 months",
+      "8\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 502,
+    "image_path": "./image/DTProdCap/test/TB2Rc4ilQOWBuNjSsppXXXPgpXa_!!2237399526.jpg",
+    "question": "What is the phone number of the company?",
+    "answers": [
+      "84-08-54070155"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 107,
+    "image_path": "./image/DTProdCap/test/TB2TytsnOOYBuNjSsD4XXbSkFXa_!!123936829.jpg",
+    "question": "What is the standard number?",
+    "answers": [
+      "QB/T2874"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 693,
+    "image_path": "./image/DTProdCap/test/O1CN0127EPut6sEy5BL1W_!!128157765.jpg",
+    "question": "What is the net volume of the drink?",
+    "answers": [
+      "500 ml",
+      "500ml",
+      "500"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 366,
+    "image_path": "./image/DTProdCap/test/TB2SaSxneOSBuNjy0FdXXbDnVXa_!!2731121139.jpg",
+    "question": "What is the main ingredient of the cream?",
+    "answers": [
+      "Water",
+      "\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 61,
+    "image_path": "./image/DTProdCap/test/TB2eFg_X5sF4uJjSZFtXXXHwVXa_!!1650848435.jpg",
+    "question": "What is the pH value of this natural mineral water?",
+    "answers": [
+      "7"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 71,
+    "image_path": "./image/DTProdCap/test/O1CN01q3SHCX1Wko9nbhB0J_!!1939292827.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "180g",
+      "180 g",
+      "180",
+      "180\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 755,
+    "image_path": "./image/DTProdCap/test/TB2_Jd0c.hnpuFjSZFEXXX0PFXa_!!119855504.jpg",
+    "question": "What is the net weight of the cream?",
+    "answers": [
+      "50g",
+      "50 g",
+      "50"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1160,
+    "image_path": "./image/DTProdCap/test/O1CN01YPSdtw2LACvNl6W9E_!!1045929651.jpg",
+    "question": "What is the net content of the product?",
+    "answers": [
+      "150ml",
+      "150 ml",
+      "150"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1740,
+    "image_path": "./image/DTProdCap/test/O1CN012GX2YMEvHh3hmmS_!!13629024.jpg",
+    "question": "What is the product's size?",
+    "answers": [
+      "285g",
+      "285 g",
+      "285"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1055,
+    "image_path": "./image/DTProdCap/test/TB2jPT.tYplpuFjSspiXXcdfFXa_!!1848564551.jpg",
+    "question": "What is the net content?",
+    "answers": [
+      "850ml",
+      "850 ml",
+      "850",
+      "850\u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 402,
+    "image_path": "./image/DTProdCap/test/O1CN011ITwwkfNcFYoih0_!!811630895.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "SC11723270100848"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1166,
+    "image_path": "./image/DTProdCap/test/TB1pjfLJVXXXXcWXFXXXXXXXXXX_!!0-item_pic.jpg",
+    "question": "What is the brand of the battery?",
+    "answers": [
+      "NUOKE"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2103,
+    "image_path": "./image/DTProdCap/test/TB2dF8LckSWBuNjSszdXXbeSpXa_!!3446538338.jpg",
+    "question": "What is the name of the wine?",
+    "answers": [
+      "Chateau Julian",
+      "\u6731\u4e3d\u53f6\u9152\u5e84\u5e72\u7ea2\u8461\u8404\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 430,
+    "image_path": "./image/DTProdCap/test/TB2Vq2aXb1YBuNjSszhXXcUsFXa-1016139911.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u4f73\u8363\u5c0f\u751f\u82a5\u672b\u8170\u679c",
+      "JIA RONG BOY WASABI CASHEW"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 532,
+    "image_path": "./image/DTProdCap/test/O1CN011t90cay5RBASJut_!!342995858.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "1kg",
+      "1 kg",
+      "1"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2117,
+    "image_path": "./image/DTProdCap/test/TB2LmHebwAjyKJjSsziXXbyxXXa_!!2832312771.jpg",
+    "question": "What is the manufacturer of the product?",
+    "answers": [
+      "Pepsi",
+      "\u767e\u4e8b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1175,
+    "image_path": "./image/DTProdCap/test/TB24YaGcXXXXXXnXpXXXXXXXXXX_!!214102209.jpg",
+    "question": "What is the product's expiration date?",
+    "answers": [
+      "20141026"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1159,
+    "image_path": "./image/DTProdCap/test/O1CN01YPSdtw2LACvNl6W9E_!!1045929651.jpg",
+    "question": "What is the production license number of the product?",
+    "answers": [
+      "XK16-108 8208"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 346,
+    "image_path": "./image/DTProdCap/test/TB2DRM2tiMnBKNjSZFzXXc_qVXa_!!2836889616.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "320ml",
+      "320 ml",
+      "320"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 636,
+    "image_path": "./image/DTProdCap/test/TB2YtsenDvI8KJjSspjXXcgjXXa_!!87221244.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1877,
+    "image_path": "./image/DTProdCap/test/O1CN01tkP66020s4uaatRn3_!!340666904.jpg",
+    "question": "What is the product's batch number?",
+    "answers": [
+      "PS6290"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1054,
+    "image_path": "./image/DTProdCap/test/TB2jPT.tYplpuFjSspiXXcdfFXa_!!1848564551.jpg",
+    "question": "What is the shelf life?",
+    "answers": [
+      "18 months",
+      "18\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 42,
+    "image_path": "./image/DTProdCap/test/O1CN01rjWQu62Crs8tjxstr_!!2220698528.jpg",
+    "question": "When was Absolut Vodka first produced?",
+    "answers": [
+      "1879"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 62,
+    "image_path": "./image/DTProdCap/test/TB2eFg_X5sF4uJjSZFtXXXHwVXa_!!1650848435.jpg",
+    "question": "What is the content of calcium in this natural mineral water?",
+    "answers": [
+      "12mg/L",
+      "12 mg/L",
+      "12\u6beb\u514b/\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1205,
+    "image_path": "./image/DTProdCap/test/TB2aFlJrJhvOuFjSZFBXXcZgFXa_!!3191298589.jpg",
+    "question": "What is the product's use?",
+    "answers": [
+      "To replace fresh lemon juice",
+      "\u4ee3\u66ff\u65b0\u9c9c\u67e0\u6aac"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 466,
+    "image_path": "./image/DTProdCap/test/TB2sSeLdBfM8KJjSZFrXXXSdXXa_!!467326946.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "2.2kg",
+      "2.2 kg",
+      "2.2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 384,
+    "image_path": "./image/DTProdCap/test/TB2Nwbgh_wKL1JjSZFgXXb6aVXa_!!1792068247.jpg",
+    "question": "What is the price of the product?",
+    "answers": [
+      "119",
+      "119\u5143",
+      "119 yuan"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1223,
+    "image_path": "./image/DTProdCap/test/O1CN011I5fwS46L21CMqv_!!609950842.jpg",
+    "question": "How many sheets are there in each pack?",
+    "answers": [
+      "240"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1549,
+    "image_path": "./image/DTProdCap/test/TB2Axt4oZrI8KJjy0FhXXbfnpXa_!!2878223954.jpg",
+    "question": "What is the net content of the baijiu?",
+    "answers": [
+      "125ml",
+      "125 ml",
+      "125"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 642,
+    "image_path": "./image/DTProdCap/test/O1CN011hGXjarYerkiAhx_!!760724250.jpg",
+    "question": "What is the product's specification?",
+    "answers": [
+      "100g",
+      "100 g",
+      "100"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 662,
+    "image_path": "./image/DTProdCap/test/TB22LYeaURIWKJjSZFgXXboxXXa_!!2617271811.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1643,
+    "image_path": "./image/DTProdCap/test/TB2OKN7uXXXXXaLXXXXXXXXXXXX_!!349862998.jpg",
+    "question": "What is the shelf life of the beer?",
+    "answers": [
+      "12 months"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2137,
+    "image_path": "./image/DTProdCap/test/TB2szJVdVXXXXX4XXXXXXXXXXXX_!!2201180052.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "\u4e09\u5e74",
+      "3 years"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2045,
+    "image_path": "./image/DTProdCap/test/TB2qhHRogJkpuFjSszcXXXfsFXa_!!95596829.jpg",
+    "question": "What is the production license number of the canned food?",
+    "answers": [
+      "QS3502 0901 0019"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2224,
+    "image_path": "./image/DTProdCap/test/TB1BYULq_XYBeNkHFrdXXciuVXa_!!0-item_pic.jpg",
+    "question": "What is the voltage of the battery?",
+    "answers": [
+      "3.7V"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1503,
+    "image_path": "./image/DTProdCap/test/TB28TEraMDD8KJjy0FdXXcjvXXa_!!2219517387.jpg",
+    "question": "What is the customer service phone number?",
+    "answers": [
+      "400 812 8622"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1992,
+    "image_path": "./image/DTProdCap/test/TB2JPT.ebaI.eBjy1XdXXcoqXXa_!!32317610.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "600g",
+      "600 g",
+      "600"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2186,
+    "image_path": "./image/DTProdCap/test/O1CN01PRGd3M1PFTlmavysX_!!2617271811.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1379,
+    "image_path": "./image/DTProdCap/test/O1CN011JW4NQJJlhsNkK4_!!2886811035.jpg",
+    "question": "What is the production date of the beer?",
+    "answers": [
+      "2018\u5e7404\u670830\u65e5",
+      "2018-04-30"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 480,
+    "image_path": "./image/DTProdCap/test/TB2FXZ8knTI8KJjSsphXXcFppXa_!!3487894748.jpg",
+    "question": "What is the name of the drink?",
+    "answers": [
+      "\u718a\u6d25\u9752\u6885\u6c41\u996e\u6599"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2003,
+    "image_path": "./image/DTProdCap/test/TB2muCGjpooBKNjSZFPXXXa2XXa_!!1790849914.jpg",
+    "question": "What is the name of the wine?",
+    "answers": [
+      "Villa Paradiso"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 305,
+    "image_path": "./image/DTProdCap/test/TB2RcaKh4SYBuNjSsphXXbGvVXa_!!554539597.jpg",
+    "question": "What is the name of the beer?",
+    "answers": [
+      "\u559c\u529b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1646,
+    "image_path": "./image/DTProdCap/test/TB2xpedmS0jpuFjy0FlXXc0bpXa_!!431210324.jpg",
+    "question": "What is the volume of the wine?",
+    "answers": [
+      "750mL",
+      "750 mL",
+      "750"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1263,
+    "image_path": "./image/DTProdCap/test/TB2DWvXJrSYBuNjSspfXXcZCpXa_!!3914884547.jpg",
+    "question": "What is the product's weight?",
+    "answers": [
+      "110g",
+      "110 g",
+      "110",
+      "110\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 525,
+    "image_path": "./image/DTProdCap/test/TB2_60MJr9YBuNjy0FgXXcxcXXa_!!812206629.jpg",
+    "question": "What is the name of the cream?",
+    "answers": [
+      "Lamisil AT"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 609,
+    "image_path": "./image/DTProdCap/test/O1CN01I0R0Sy1DR8SM8ux2a_!!289060212.jpg",
+    "question": "What is the product name?",
+    "answers": [
+      "\u5feb\u4e50\u725b\u5976\u6cb9\u5976\u916a"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 509,
+    "image_path": "./image/DTProdCap/test/TB2vwbgahHBK1JjSZFkXXbg9VXa_!!471224548.jpg",
+    "question": "What are the main ingredients of the water?",
+    "answers": [
+      "Water"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1770,
+    "image_path": "./image/DTProdCap/test/TB2JfkElpXXXXbGXpXXXXXXXXXX_!!268897847.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "XK16-108-9600"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 282,
+    "image_path": "./image/DTProdCap/test/TB2J_._jdzJ8KJjSspkXXbF7VXa_!!823100332.jpg",
+    "question": "What is the alcohol content of the whisky?",
+    "answers": [
+      "40% vol",
+      "40%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1753,
+    "image_path": "./image/DTProdCap/test/TB23GwjIhSYBuNjSspjXXX73VXa_!!2784829781.jpg",
+    "question": "What is the calorie count of the product?",
+    "answers": [
+      "216kJ",
+      "216 kJ",
+      "216"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 676,
+    "image_path": "./image/DTProdCap/test/TB2TE.4d46I8KJjSszfXXaZVXXa_!!835389060.jpg",
+    "question": "What is the usage of this product?",
+    "answers": [
+      "\u53d6\u9002\u91cf\u672c\u54c1\u5747\u5300\u6d82\u62b9\u4e8e\u60a3\u5904, \u8f7b\u67d4\u6309\u6469\u81f3\u5145\u5206\u5438\u6536."
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1324,
+    "image_path": "./image/DTProdCap/test/TB2gIXAsFXXXXXxXFXXXXXXXXXX_!!1990436595.jpg",
+    "question": "What is the production date of the beer?",
+    "answers": [
+      "20160308"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1482,
+    "image_path": "./image/DTProdCap/test/TB2b2fyXT1GJuJjSZFKXXaQtpXa_!!1993792746.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "122kg",
+      "122 kg",
+      "122",
+      "122\u516c\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2230,
+    "image_path": "./image/DTProdCap/test/TB2t5LdphxmpuFjSZFNXXXrRXXa_!!1037963739.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "2.2kg",
+      "2.2 kg",
+      "2.2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 164,
+    "image_path": "./image/DTProdCap/test/TB2aTr.xIuYBuNkSmRyXXcA3pXa_!!899542234.jpg",
+    "question": "What is the product's approval number?",
+    "answers": [
+      "J201610227"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 76,
+    "image_path": "./image/DTProdCap/test/TB2Sn4iXuGSBuNjSspbXXciipXa_!!3158591952.jpg",
+    "question": "What is the alcohol content?",
+    "answers": [
+      "25% vol",
+      "25%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 439,
+    "image_path": "./image/DTProdCap/test/O1CN01p4GNhG1nRQsrqc0s5_!!2176485086.jpg",
+    "question": "What is the shelf life of the drink?",
+    "answers": [
+      "18 months",
+      "18\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2014,
+    "image_path": "./image/DTProdCap/test/TB27a_Ob1ySBuNjy1zdXXXPxFXa_!!10235036.jpg",
+    "question": "What is the product's size?",
+    "answers": [
+      "30ml",
+      "30 ml",
+      "30"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1083,
+    "image_path": "./image/DTProdCap/test/TB2kd77X9BYBeNjy0FeXXbnmFXa_!!2628056108.jpg",
+    "question": "How many calories are in one serving?",
+    "answers": [
+      "518kJ",
+      "518 kJ",
+      "518"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2250,
+    "image_path": "./image/DTProdCap/test/O1CN01j5I7nR1oPQlb7IblK_!!604605217.jpg",
+    "question": "What is the volume of the beer?",
+    "answers": [
+      "250ml",
+      "250 ml",
+      "250",
+      "250\u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1847,
+    "image_path": "./image/DTProdCap/test/TB2wKOaXxTpK1RjSZFKXXa2wXXa_!!15322836.jpg",
+    "question": "What is the net volume of the beer?",
+    "answers": [
+      "460ml",
+      "460 ml",
+      "460"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 799,
+    "image_path": "./image/DTProdCap/test/TB2fjmWebArBKNjSZFLXXc_dVXa_!!3242439077.jpg",
+    "question": "What is the product name?",
+    "answers": [
+      "\u5976\u7247\u7cd6"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2082,
+    "image_path": "./image/DTProdCap/test/TB2qUOSXMsSMeJjSspeXXa77VXa_!!2056503521.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1934,
+    "image_path": "./image/DTProdCap/test/TB2tl69uB0kpuFjy1zdXXXuUVXa_!!1972612358.jpg",
+    "question": "How many calories are in each serving?",
+    "answers": [
+      "42kcal",
+      "42kcal/\u5343\u5361"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 453,
+    "image_path": "./image/DTProdCap/test/TB2UPisjviSBuNkSnhJXXbDcpXa_!!2873212479.jpg",
+    "question": "What is the nutritional value of the product?",
+    "answers": [
+      "190kj per 100ml",
+      "190 kj per 100 ml",
+      "190 per 100"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1313,
+    "image_path": "./image/DTProdCap/test/TB21F2LHrSYBuNjSspiXXXNzpXa_!!294411298.jpg",
+    "question": "What is the percentage of juice content?",
+    "answers": [
+      "\u226550%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 605,
+    "image_path": "./image/DTProdCap/test/O1CN01HO9iK620OJALpFWuT_!!0-item_pic.jpg",
+    "question": "What is the production batch number?",
+    "answers": [
+      "P56290"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 800,
+    "image_path": "./image/DTProdCap/test/TB2fjmWebArBKNjSZFLXXc_dVXa_!!3242439077.jpg",
+    "question": "What is the product type?",
+    "answers": [
+      "Pressed candy",
+      "\u575a\u5b9e\u578b\u538b\u7247\u7cd6\u679c"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 577,
+    "image_path": "./image/DTProdCap/test/TB2CgHmaEefF1Jjy1zeXXXoupXa_!!2585284124.jpg",
+    "question": "What is the capacity of the can?",
+    "answers": [
+      "310ml",
+      "310 ml",
+      "310"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 327,
+    "image_path": "./image/DTProdCap/test/TB2mWYRt5AnBKNjSZFvXXaTKXXa_!!3446538338.jpg",
+    "question": "What is the product's volume?",
+    "answers": [
+      "375ml",
+      "375 ml",
+      "375",
+      "375 \u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 79,
+    "image_path": "./image/DTProdCap/test/TB2Sn4iXuGSBuNjSspbXXciipXa_!!3158591952.jpg",
+    "question": "What is the capacity of the bottle?",
+    "answers": [
+      "720ml",
+      "720 ml",
+      "720"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 162,
+    "image_path": "./image/DTProdCap/test/TB2aTr.xIuYBuNkSmRyXXcA3pXa_!!899542234.jpg",
+    "question": "What is the product's specification?",
+    "answers": [
+      "3.5g",
+      "3.5 g",
+      "3.5"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 364,
+    "image_path": "./image/DTProdCap/test/TB2XAahXWLN8KJjSZFvXXXW8VXa_!!2494380254.jpg",
+    "question": "What is the name of the manufacturer?",
+    "answers": [
+      "SAJO OYANG CO,LTD"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1125,
+    "image_path": "./image/DTProdCap/test/TB2n0OWXhoa61Bjy0FpXXaJxpXa_!!181072697.jpg",
+    "question": "What is the production license number of the product?",
+    "answers": [
+      "XK16-108-1459"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1224,
+    "image_path": "./image/DTProdCap/test/O1CN011I5fwS46L21CMqv_!!609950842.jpg",
+    "question": "What is the material of the product?",
+    "answers": [
+      "100% pure wood pulp",
+      "100%\u539f\u751f\u6728\u6d46"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1586,
+    "image_path": "./image/DTProdCap/test/TB27nlxkRmWBuNkSndVXXcsApXa_!!2452935967.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "6 months",
+      "6\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 390,
+    "image_path": "./image/DTProdCap/test/TB2rEhdtXmWBuNjSspdXXbugXXa_!!2612530765.jpg",
+    "question": "What is the main ingredient of this product?",
+    "answers": [
+      "Water",
+      "\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1305,
+    "image_path": "./image/DTProdCap/test/TB2yUmZkf9TBuNjy1zbXXXpepXa_!!730210127.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1349,
+    "image_path": "./image/DTProdCap/test/O1CN011DQg1b3wzeGWt8P_!!118650211.jpg",
+    "question": "What is the product's fragrance?",
+    "answers": [
+      "Fragrance free"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 578,
+    "image_path": "./image/DTProdCap/test/TB2CgHmaEefF1Jjy1zeXXXoupXa_!!2585284124.jpg",
+    "question": "What is the shelf life of the water?",
+    "answers": [
+      "Three years",
+      "3 years",
+      "\u4e09\u5e74"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1830,
+    "image_path": "./image/DTProdCap/test/TB2CtckoVXXXXcZXpXXXXXXXXXX_!!104939328.jpg",
+    "question": "What is the input voltage of the travel charger?",
+    "answers": [
+      "100-240V"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1747,
+    "image_path": "./image/DTProdCap/test/TB2HIYHwKuSBuNjSsplXXbe8pXa_!!1670818531.jpg",
+    "question": "What is the production license number of the candy?",
+    "answers": [
+      "SC11331011800880"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1001,
+    "image_path": "./image/DTProdCap/test/T2nCXBX.8XXXXXXXXX_!!870992429.jpg",
+    "question": "What is the name of the beer?",
+    "answers": [
+      "Tsingtao",
+      "\u9752\u5c9b\u5564\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1393,
+    "image_path": "./image/DTProdCap/test/TB2G0KEbNBmpuFjSZFDXXXD8pXa_!!1823048619.jpg",
+    "question": "What is the QQ number?",
+    "answers": [
+      "82561459"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1104,
+    "image_path": "./image/DTProdCap/test/TB2oDz2rpooBKNjSZPhXXc2CXXa_!!1753440848.jpg",
+    "question": "Where is the beer brewed?",
+    "answers": [
+      "Belgium"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1976,
+    "image_path": "./image/DTProdCap/test/TB2fW8lX8OBJuJjy1XdXXXIXVXa_!!2065839106.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "6 months",
+      "6\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1206,
+    "image_path": "./image/DTProdCap/test/O1CN01yvjq141hdtxHr793M_!!2996994301.jpg",
+    "question": "What is the alcohol content of this beer?",
+    "answers": [
+      "3.6% vol",
+      "3.6%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 397,
+    "image_path": "./image/DTProdCap/test/TB2G_TFX.OO.eBjSZFLXXcxmXXa_!!517044712.jpg",
+    "question": "How many calories are in 100ml of the tea?",
+    "answers": [
+      "75kJ",
+      "75 kJ"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 268,
+    "image_path": "./image/DTProdCap/test/TB2ujMcaBP8F1Jjy1zjXXa1WVXa_!!2220617353.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "8 months",
+      "8\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1360,
+    "image_path": "./image/DTProdCap/test/O1CN011o3u7URL9hM8J24_!!361975170.jpg",
+    "question": "What are the storage conditions of the product?",
+    "answers": [
+      "Store in a cool and dry place",
+      "\u9634\u51c9\u5e72\u71e5\u5904\u4fdd\u5b58"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1295,
+    "image_path": "./image/DTProdCap/test/TB2Do.3aFHzQeBjSZFuXXanUpXa_!!895585657.jpg",
+    "question": "What is the website of the manufacturer?",
+    "answers": [
+      "www.kayson-cn.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 773,
+    "image_path": "./image/DTProdCap/test/TB2elbGhMxlpuFjSszgXXcJdpXa_!!2434048895.jpg",
+    "question": "What is the name of the manufacturer?",
+    "answers": [
+      "\u68ee\u6c38\u98df\u54c1\u6709\u9650\u516c\u53f8"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 60,
+    "image_path": "./image/DTProdCap/test/TB2eFg_X5sF4uJjSZFtXXXHwVXa_!!1650848435.jpg",
+    "question": "What is the main ingredient of this natural mineral water?",
+    "answers": [
+      "Water",
+      "\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1708,
+    "image_path": "./image/DTProdCap/test/TB2BI4ojZtnpuFjSZFvXXbcTpXa_!!925431633.jpg",
+    "question": "What is the website of the manufacturer?",
+    "answers": [
+      "www.ajifood.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 291,
+    "image_path": "./image/DTProdCap/test/TB25Uh6FbGYBuNjy0FoXXciBFXa_!!12568460.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "1kg",
+      "1 kg",
+      "1"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2106,
+    "image_path": "./image/DTProdCap/test/TB2dF8LckSWBuNjSszdXXbeSpXa_!!3446538338.jpg",
+    "question": "What is the name of the company that produced the wine?",
+    "answers": [
+      "Mottox",
+      "\u6469\u7279\u514b\u4e1d"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 683,
+    "image_path": "./image/DTProdCap/test/TB2asXQhOCYBuNkSnaVXXcMsVXa_!!1773957724.jpg",
+    "question": "What is the shelf life of the drink?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1498,
+    "image_path": "./image/DTProdCap/test/TB2IvC.XSMmBKNjSZTEXXasKpXa_!!2691511070.jpg",
+    "question": "What is the usage of this product?",
+    "answers": [
+      "\u53d6\u9002\u91cf\u672c\u54c1\u6d82\u4e8e\u60a3\u5904\uff0c\u65e9\u665a\u5404\u4e00\u6b21\uff0c\u53ef\u6839\u636e\u9700\u8981\u9002\u5f53\u589e\u52a0\u4f7f\u7528\u6b21\u6570"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1907,
+    "image_path": "./image/DTProdCap/test/TB2Zhr_dhBmpuFjSZFDXXXD8pXa_!!1637150391.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1084,
+    "image_path": "./image/DTProdCap/test/TB2kd77X9BYBeNjy0FeXXbnmFXa_!!2628056108.jpg",
+    "question": "What is the product's main ingredient?",
+    "answers": [
+      "Water",
+      "\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 345,
+    "image_path": "./image/DTProdCap/test/TB2DRM2tiMnBKNjSZFzXXc_qVXa_!!2836889616.jpg",
+    "question": "What is the name of the drink?",
+    "answers": [
+      "Hey-Song Guava Juice Drink",
+      "\u9ed1\u677e\u82ad\u679c\u6c41\u996e\u6599"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1296,
+    "image_path": "./image/DTProdCap/test/TB2XP.zhxRDOuFjSZFzXXcIipXa_!!1974239691.jpg",
+    "question": "What is the product standard?",
+    "answers": [
+      "GB/T22046"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 476,
+    "image_path": "./image/DTProdCap/test/TB2UDVNbHxmpuFjSZJiXXXauVXa_!!479321188.jpg",
+    "question": "What is the volume of the drink in the image?",
+    "answers": [
+      "250ml",
+      "250 ml",
+      "250"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 158,
+    "image_path": "./image/DTProdCap/test/O1CN01GS3KzK1nzKAmPOLbh_!!1016405160.jpg",
+    "question": "Who is the manufacturer of this product?",
+    "answers": [
+      "Ghirardelli Chocolate Company"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1273,
+    "image_path": "./image/DTProdCap/test/TB2gaomjByWBuNkSmFPXXXguVXa_!!2847778900.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "248g",
+      "248 g",
+      "248"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 240,
+    "image_path": "./image/DTProdCap/test/TB2ll98hlsmBKNjSZFsXXaXSVXa_!!191044430.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u5c71\u6942\u6761"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 729,
+    "image_path": "./image/DTProdCap/test/TB2.AQOoiC9MuFjSZFoXXbUzFXa_!!2098853754.jpg",
+    "question": "What is the name of the candy?",
+    "answers": [
+      "Rio",
+      "\u745e\u6b27"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1581,
+    "image_path": "./image/DTProdCap/test/TB2vTTVhFXXXXbOXXXXXXXXXXXX_!!591009069.jpg",
+    "question": "What is the shelf life?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 235,
+    "image_path": "./image/DTProdCap/test/TB2xYuEao_C11Bjy1zeXXXtGpXa_!!50597335.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u9ec4\u539f\u80f6"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2010,
+    "image_path": "./image/DTProdCap/test/TB28q82sr1YBuNjSszeXXablFXa_!!3338024491.jpg",
+    "question": "What is the main ingredient of the soft drink in the image?",
+    "answers": [
+      "Water",
+      "\u6c34"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1059,
+    "image_path": "./image/DTProdCap/test/TB2V4qmm9hlpuFjSspkXXa1ApXa_!!787866067.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "21 days",
+      "21\u5929"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 703,
+    "image_path": "./image/DTProdCap/test/TB2OqDygmFmpuFjSZFrXXayOXXa_!!164911391.jpg",
+    "question": "What is the product's sodium content per 100ml?",
+    "answers": [
+      "32mg",
+      "32 mg",
+      "32",
+      "32\u6beb\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 710,
+    "image_path": "./image/DTProdCap/test/TB2MCB2z8yWBuNkSmFPXXXguVXa_!!4032481452.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "58g",
+      "58 g",
+      "58",
+      "58\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1937,
+    "image_path": "./image/DTProdCap/test/TB2tl69uB0kpuFjy1zdXXXuUVXa_!!1972612358.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Orange Juice Drink",
+      "\u6a59\u6c41\u996e\u54c1"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 686,
+    "image_path": "./image/DTProdCap/test/O1CN011W9i3Yn90Wwg76H_!!1993792746.jpg",
+    "question": "What is the net weight?",
+    "answers": [
+      "150kg",
+      "150 kg",
+      "150",
+      "150\u516c\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2105,
+    "image_path": "./image/DTProdCap/test/TB2dF8LckSWBuNjSszdXXbeSpXa_!!3446538338.jpg",
+    "question": "What is the volume of the wine?",
+    "answers": [
+      "750ml",
+      "750 ml",
+      "750"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 600,
+    "image_path": "./image/DTProdCap/test/O1CN01AntwR31eABQ6kwkny_!!202303830.jpg",
+    "question": "What flavor is the product?",
+    "answers": [
+      "Lemon",
+      "\u67e0\u6aac"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 310,
+    "image_path": "./image/DTProdCap/test/TB2nyX5mvDH8KJjy1XcXXcpdXXa_!!62441278.jpg",
+    "question": "What is the name of the beer?",
+    "answers": [
+      "Laoshan Beer",
+      "\u5d02\u5c71\u5564\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 661,
+    "image_path": "./image/DTProdCap/test/TB22LYeaURIWKJjSZFgXXboxXXa_!!2617271811.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "248g",
+      "248 g",
+      "248",
+      "248\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1232,
+    "image_path": "./image/DTProdCap/test/TB2p5ItkXXXXXa_XpXXXXXXXXXX_!!184883198.jpg",
+    "question": "What is the date of the performance?",
+    "answers": [
+      "January 15, 2016",
+      "2016\u5e7401\u670815\u65e5"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2171,
+    "image_path": "./image/DTProdCap/test/TB2AJKypXGWBuNjy0FbXXb4sXXa_!!292194741.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2232,
+    "image_path": "./image/DTProdCap/test/TB2t5LdphxmpuFjSZFNXXXrRXXa_!!1037963739.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 265,
+    "image_path": "./image/DTProdCap/test/TB2ujMcaBP8F1Jjy1zjXXa1WVXa_!!2220617353.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u5c0f\u6837"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 467,
+    "image_path": "./image/DTProdCap/test/TB2sSeLdBfM8KJjSZFrXXXSdXXa_!!467326946.jpg",
+    "question": "What is the production license number?",
+    "answers": [
+      "QS4412 0601 6889"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1403,
+    "image_path": "./image/DTProdCap/test/TB19w4jSVXXXXb3XFXXXXXXXXXX_!!0-item_pic.jpg",
+    "question": "What is the product's age range?",
+    "answers": [
+      "3 years and up",
+      "\u4e09\u5c81\u4ee5\u4e0a"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 286,
+    "image_path": "./image/DTProdCap/test/TB2as_UbxSYBuNjSspjXXX73VXa_!!608942039.jpg",
+    "question": "What is the product's size?",
+    "answers": [
+      "15g",
+      "15 g",
+      "15"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1398,
+    "image_path": "./image/DTProdCap/test/TB2DRfMopXXXXXsXFXXXXXXXXXX_!!61640469.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "34g",
+      "34 g",
+      "34",
+      "34\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1931,
+    "image_path": "./image/DTProdCap/test/TB2xkMMgQ9WBuNjSspeXXaz5VXa_!!3843630468.jpg",
+    "question": "What is the product's manufacturing date?",
+    "answers": [
+      "20160322"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1292,
+    "image_path": "./image/DTProdCap/test/TB2Do.3aFHzQeBjSZFuXXanUpXa_!!895585657.jpg",
+    "question": "What is the name of the manufacturer?",
+    "answers": [
+      "Foshan Kayson Hygiene Products Co., Ltd."
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 370,
+    "image_path": "./image/DTProdCap/test/O1CN011rAisRoPEEHFgX3_!!2247505591.jpg",
+    "question": "What is the name of the energy drink in the image?",
+    "answers": [
+      "Red Bull"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1811,
+    "image_path": "./image/DTProdCap/test/TB2k5Lgf90jpuFjy0FlXXc0bpXa_!!62708468.jpg",
+    "question": "What is the net content of the drink?",
+    "answers": [
+      "375ml",
+      "375 ml",
+      "375"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 219,
+    "image_path": "./image/DTProdCap/test/TB2nqBloz7nBKNjSZLeXXbxCFXa_!!3165229101.jpg",
+    "question": "What is the product's website?",
+    "answers": [
+      "www.molifood.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1836,
+    "image_path": "./image/DTProdCap/test/TB1voTsrCBYBeNjy0FeXXbnmFXa_!!0-item_pic.jpg",
+    "question": "What is the product's made in?",
+    "answers": [
+      "Japan",
+      "\u65e5\u672c"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 792,
+    "image_path": "./image/DTProdCap/test/TB2heuSuVuWBuNjSszbXXcS7FXa_!!831669418.jpg",
+    "question": "What is the product's purpose?",
+    "answers": [
+      "To remove dandruff",
+      "\u53bb\u5c51 \u53bb\u6cb9 \u6b62\u75d2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 306,
+    "image_path": "./image/DTProdCap/test/TB2RcaKh4SYBuNjSsphXXbGvVXa_!!554539597.jpg",
+    "question": "What is the alcohol content of the beer?",
+    "answers": [
+      "5.0% vol",
+      "5.0%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2219,
+    "image_path": "./image/DTProdCap/test/TB2jbhxeXXXXXbAXXXXXXXXXXXX_!!908511564.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "700g",
+      "700 g",
+      "700",
+      "700\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 694,
+    "image_path": "./image/DTProdCap/test/TB2N8g7lZbI8KJjy1zdXXbe1VXa_!!3285665522.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u591a\u5473\u7b0b\u4e1d"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 517,
+    "image_path": "./image/DTProdCap/test/TB2Bb6PaXXXXXc9XXXXXXXXXXXX_!!1880658748.jpg",
+    "question": "What is the alcohol content of the wine?",
+    "answers": [
+      "14.1% vol",
+      "14.1%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 328,
+    "image_path": "./image/DTProdCap/test/TB2mWYRt5AnBKNjSZFvXXaTKXXa_!!3446538338.jpg",
+    "question": "What is the product's country of origin?",
+    "answers": [
+      "\u610f\u5927\u5229",
+      "Italy"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 331,
+    "image_path": "./image/DTProdCap/test/TB1nc0BLXXXXXXcXFXXXXXXXXXX_!!0-item_pic.jpg",
+    "question": "What is the dosage of the medicine?",
+    "answers": [
+      "0.5g",
+      "0.5 g",
+      "0.5"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 321,
+    "image_path": "./image/DTProdCap/test/TB23Kqxhv1TBuNjy0FjXXajyXXa_!!1993792746.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "490ml",
+      "490 ml",
+      "490",
+      "490\u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 750,
+    "image_path": "./image/DTProdCap/test/TB2Keh8mCtYBeNjSspaXXaOOFXa_!!380228916.jpg",
+    "question": "What is the product number?",
+    "answers": [
+      "638050"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1015,
+    "image_path": "./image/DTProdCap/test/O1CN01f3C6K61oPQlF9VPMi_!!604605217.jpg",
+    "question": "What is the contact information of the company that imports the beer?",
+    "answers": [
+      "010-58700536"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 320,
+    "image_path": "./image/DTProdCap/test/TB23Kqxhv1TBuNjy0FjXXajyXXa_!!1993792746.jpg",
+    "question": "What is the name of the drink in the image?",
+    "answers": [
+      "\u901a\u5929\u4e0b\u8292\u679c\u6c41\u996e\u6599",
+      "\u901a\u5929\u4e0b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 350,
+    "image_path": "./image/DTProdCap/test/TB21oFpcER1BeNjy0FmXXb0wVXa_!!500713126.jpg",
+    "question": "What is the name of the liquor?",
+    "answers": [
+      "(\u5c0a\u84dd)\u8393\u8c03\u914d\u82cf\u683c\u5170\u5a01\u58eb\u5fcc",
+      "\u8393\u8c03\u914d\u82cf\u683c\u5170\u5a01\u58eb\u5fcc"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2216,
+    "image_path": "./image/DTProdCap/test/TB2IU7QhndYBeNkSmLyXXXfnVXa_!!2502780514.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1845,
+    "image_path": "./image/DTProdCap/test/TB2wKOaXxTpK1RjSZFKXXa2wXXa_!!15322836.jpg",
+    "question": "What is the alcohol content of the beer?",
+    "answers": [
+      "3.6% vol"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 31,
+    "image_path": "./image/DTProdCap/test/TB1S.WRwIj_B1NjSZFHXXaDWpXa_!!0-item_pic.jpg",
+    "question": "What is the dosage?",
+    "answers": [
+      "5mg",
+      "5 mg",
+      "5"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1831,
+    "image_path": "./image/DTProdCap/test/TB2CtckoVXXXXcZXpXXXXXXXXXX_!!104939328.jpg",
+    "question": "What is the output voltage of the travel charger?",
+    "answers": [
+      "5.0V"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 806,
+    "image_path": "./image/DTProdCap/test/TB2O445q00opuFjSZFxXXaDNVXa_!!109440158.jpg",
+    "question": "Where is the product made?",
+    "answers": [
+      "France"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 241,
+    "image_path": "./image/DTProdCap/test/TB2ll98hlsmBKNjSZFsXXaXSVXa_!!191044430.jpg",
+    "question": "What is the name of the company that makes the product?",
+    "answers": [
+      "\u91d1\u6654"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 109,
+    "image_path": "./image/DTProdCap/test/TB2TytsnOOYBuNjSsD4XXbSkFXa_!!123936829.jpg",
+    "question": "What is the contact information?",
+    "answers": [
+      "800 820 2837 or 400 821 6188"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1656,
+    "image_path": "./image/DTProdCap/test/TB2hwhMof9TBuNjy0FcXXbeiFXa_!!3912590477.jpg",
+    "question": "What is the volume of the beer?",
+    "answers": [
+      "2L",
+      "2 L",
+      "2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 735,
+    "image_path": "./image/DTProdCap/test/TB2kNptaVXXXXazXXXXXXXXXXXX_!!385332333.jpg",
+    "question": "What is the alcohol content of the wine?",
+    "answers": [
+      "12%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1141,
+    "image_path": "./image/DTProdCap/test/TB2MvxqqpXXXXcZXXXXXXXXXXXX_!!88836187.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Pepsi-Cola"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 512,
+    "image_path": "./image/DTProdCap/test/TB2u2IFuHtlpuFjSspoXXbcDpXa_!!3241345302.jpg",
+    "question": "What is the volume of the wine?",
+    "answers": [
+      "750ml",
+      "750 ml",
+      "750"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1300,
+    "image_path": "./image/DTProdCap/test/TB2XP.zhxRDOuFjSZFzXXcIipXa_!!1974239691.jpg",
+    "question": "What is the website of the company?",
+    "answers": [
+      "www.chinayanghe.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 496,
+    "image_path": "./image/DTProdCap/test/TB2Gq.IkNXkpuFjy0FiXXbUfFXa_!!747873673.jpg",
+    "question": "What is the main ingredient?",
+    "answers": [
+      "Water"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2207,
+    "image_path": "./image/DTProdCap/test/TB2QFiDbUF7MKJjSZFLXXcMBVXa_!!10155858.jpg",
+    "question": "What is the name of the company that produces this bottle?",
+    "answers": [
+      "Pepsi"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 650,
+    "image_path": "./image/DTProdCap/test/TB2160ax0BopuFjSZPcXXc9EpXa_!!203206676.jpg",
+    "question": "What is the product's size?",
+    "answers": [
+      "5ml",
+      "5 ml",
+      "5"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 45,
+    "image_path": "./image/DTProdCap/test/TB2AsG2XdWgF1Jjy0FhXXbeEFXa_!!2435683969.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Soda biscuit"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1835,
+    "image_path": "./image/DTProdCap/test/TB1voTsrCBYBeNjy0FeXXbnmFXa_!!0-item_pic.jpg",
+    "question": "What is the product's size?",
+    "answers": [
+      "15ml",
+      "15 ml",
+      "15"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2167,
+    "image_path": "./image/DTProdCap/test/O1CN011pS0ZekksQkadBz_!!671015358.jpg",
+    "question": "What is the product's country of origin?",
+    "answers": [
+      "Germany"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 602,
+    "image_path": "./image/DTProdCap/test/O1CN01AntwR31eABQ6kwkny_!!202303830.jpg",
+    "question": "What is the product's net weight?",
+    "answers": [
+      "100g",
+      "100 g",
+      "100"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1211,
+    "image_path": "./image/DTProdCap/test/TB2lA9NamiK.eBjSZFsXXbxZpXa_!!837245852.jpg",
+    "question": "What is the name of the drink in the image?",
+    "answers": [
+      "Winter Honey & Lime Drink"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2290,
+    "image_path": "./image/DTProdCap/test/TB2snSKdByN.eBjSZFkXXb8YFXa_!!2998141581.jpg",
+    "question": "What is the net weight of the product?",
+    "answers": [
+      "36g",
+      "36 g",
+      "36"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 601,
+    "image_path": "./image/DTProdCap/test/O1CN01AntwR31eABQ6kwkny_!!202303830.jpg",
+    "question": "Where is the product manufactured?",
+    "answers": [
+      "Switzerland"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1789,
+    "image_path": "./image/DTProdCap/test/O1CN011LPmBf58JMYttCT_!!2138581292.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Georgia"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 429,
+    "image_path": "./image/DTProdCap/test/TB2XEbefrBnpuFjSZFGXXX51pXa_!!2032947271.jpg",
+    "question": "What is the shelf life?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1004,
+    "image_path": "./image/DTProdCap/test/T2nCXBX.8XXXXXXXXX_!!870992429.jpg",
+    "question": "What is the production date of the beer?",
+    "answers": [
+      "365 days",
+      "365\u5929"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2225,
+    "image_path": "./image/DTProdCap/test/TB1BYULq_XYBeNkHFrdXXciuVXa_!!0-item_pic.jpg",
+    "question": "What is the capacity of the battery?",
+    "answers": [
+      "900mAh",
+      "900 mAh"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2304,
+    "image_path": "./image/DTProdCap/test/TB2NAyJpiMnBKNjSZFoXXbOSFXa_!!1765415184.jpg",
+    "question": "What is the product's slogan?",
+    "answers": [
+      "6 Secrets to Happy Skin"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 743,
+    "image_path": "./image/DTProdCap/test/TB2MOvuhmfD8KJjSszhXXbIJFXa_!!2691727045.jpg",
+    "question": "What is the capacity of the product?",
+    "answers": [
+      "440ml",
+      "440 ml",
+      "440",
+      "440\u6beb\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1147,
+    "image_path": "./image/DTProdCap/test/TB2JFGEamxjpuFjSszeXXaeMVXa_!!56291257.jpg",
+    "question": "What is the size of the product?",
+    "answers": [
+      "200ml",
+      "200 ml",
+      "200"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1967,
+    "image_path": "./image/DTProdCap/test/TB2ddG2mXXXXXXRXpXXXXXXXXXX_!!809147374.jpg",
+    "question": "What is the product's email address?",
+    "answers": [
+      "info@orbis.net.au"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 105,
+    "image_path": "./image/DTProdCap/test/TB2TytsnOOYBuNjSsD4XXbSkFXa_!!123936829.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Jahwa",
+      "\u5bb6\u5316"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1187,
+    "image_path": "./image/DTProdCap/test/TB2LMGVrMKTBuNkSne1XXaJoXXa_!!2323047002.jpg",
+    "question": "What is the product's net content?",
+    "answers": [
+      "50ml",
+      "50 ml",
+      "50"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 576,
+    "image_path": "./image/DTProdCap/test/TB2CgHmaEefF1Jjy1zeXXXoupXa_!!2585284124.jpg",
+    "question": "What is the pH of the water?",
+    "answers": [
+      "7.8-8.2"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1236,
+    "image_path": "./image/DTProdCap/test/TB2s0b9hXXXXXbKXpXXXXXXXXXX_!!915257652.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Airwaves"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1420,
+    "image_path": "./image/DTProdCap/test/O1CN011uN2MiRXB5JqCx5_!!160626024.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1190,
+    "image_path": "./image/DTProdCap/test/TB2LMGVrMKTBuNkSne1XXaJoXXa_!!2323047002.jpg",
+    "question": "What is the product's production date?",
+    "answers": [
+      "20161034"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1388,
+    "image_path": "./image/DTProdCap/test/TB2gj80kyCYBuNkHFCcXXcHtVXa_!!188308237.jpg",
+    "question": "What is the net content of the drink?",
+    "answers": [
+      "330ml",
+      "330 ml",
+      "330"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 382,
+    "image_path": "./image/DTProdCap/test/TB2Nwbgh_wKL1JjSZFgXXb6aVXa_!!1792068247.jpg",
+    "question": "What is the capacity of the product?",
+    "answers": [
+      "120g",
+      "120 g",
+      "120"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1561,
+    "image_path": "./image/DTProdCap/test/TB2pN16ml8lpuFjSspaXXXJKpXa_!!15322836.jpg",
+    "question": "What is the product type?",
+    "answers": [
+      "\u7279\u578b\u9ec4\u9152"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 566,
+    "image_path": "./image/DTProdCap/test/TB1lmJLSVXXXXciXXXXXXXXXXXX_!!0-item_pic.jpg",
+    "question": "Which artist performs the song \"Walking Into Sunshine\"?",
+    "answers": [
+      "Larry Levan"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1910,
+    "image_path": "./image/DTProdCap/test/O1CN01Ja9MbQ26pgXRRnBG3_!!4070607711.jpg",
+    "question": "What year was the wine produced?",
+    "answers": [
+      "2012"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 548,
+    "image_path": "./image/DTProdCap/test/TB2i8V1aVXXXXX0XpXXXXXXXXXX_!!742502541.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "9 months",
+      "\u4e5d\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 28,
+    "image_path": "./image/DTProdCap/test/TB2v.Y4e9cqBKNjSZFgXXX_kXXa_!!2010410297.jpg",
+    "question": "What is the product's shelf life?",
+    "answers": [
+      "45 days"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 443,
+    "image_path": "./image/DTProdCap/test/O1CN01oWcmCk1Xbw6gVyICE_!!228712943.jpg",
+    "question": "What is the country of origin of the product?",
+    "answers": [
+      "Korea",
+      "\u97e9\u56fd"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 325,
+    "image_path": "./image/DTProdCap/test/TB2mWYRt5AnBKNjSZFvXXaTKXXa_!!3446538338.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "Mottox",
+      "\u6851\u7279\u8bfa\u9152\u5e84\u5929\u4f7f\u4e4b\u7ea6"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1504,
+    "image_path": "./image/DTProdCap/test/TB28TEraMDD8KJjy0FdXXcjvXXa_!!2219517387.jpg",
+    "question": "What is the website of the manufacturer?",
+    "answers": [
+      "www.kayson-cn.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 315,
+    "image_path": "./image/DTProdCap/test/TB2nJC3aSVmpuFjSZFFXXcZApXa_!!1837119081.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u96ea\u6d77\u6885\u4e61"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2002,
+    "image_path": "./image/DTProdCap/test/O1CN011XbTfn5o01Kwy4W_!!791442942.jpg",
+    "question": "What is the product's website?",
+    "answers": [
+      "www.NIVEAMEN.com"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2180,
+    "image_path": "./image/DTProdCap/test/TB2GZxidXkoBKNjSZFkXXb4tFXa_!!375849825.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 119,
+    "image_path": "./image/DTProdCap/test/TB215GNi3vD8KJjy0FlXXagBFXa_!!657200131.jpg",
+    "question": "What is the shelf life of the beer?",
+    "answers": [
+      "365 days",
+      "365\u5929"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 248,
+    "image_path": "./image/DTProdCap/test/TB2oixyi3vD8KJjSsplXXaIEFXa_!!2056503521.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "12 months",
+      "12\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2089,
+    "image_path": "./image/DTProdCap/test/O1CN011Iz5rtGqJcewcrr_!!4085540963.jpg",
+    "question": "What is the alcohol content of the product?",
+    "answers": [
+      "10% vol",
+      "10%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 669,
+    "image_path": "./image/DTProdCap/test/TB2YEvLrVXXXXchXXXXXXXXXXXX_!!54427485.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "BALSAM PEAR TONE"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 611,
+    "image_path": "./image/DTProdCap/test/O1CN01I0R0Sy1DR8SM8ux2a_!!289060212.jpg",
+    "question": "What is the net weight?",
+    "answers": [
+      "120g",
+      "120 g",
+      "120",
+      "120\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 400,
+    "image_path": "./image/DTProdCap/test/O1CN011ITwwkfNcFYoih0_!!811630895.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u84dd\u8393\u679c\u5e72"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 494,
+    "image_path": "./image/DTProdCap/test/TB2ToW8ai6guuRjy0FmXXa0DXXa_!!646693502.jpg",
+    "question": "What is the name of the manufacturer of the product?",
+    "answers": [
+      "\u6e56\u5357\u5473\u5230\u820c\u8db3\u98df\u54c1\u6709\u9650\u516c\u53f8"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 394,
+    "image_path": "./image/DTProdCap/test/TB2rEhdtXmWBuNjSspdXXbugXXa_!!2612530765.jpg",
+    "question": "What is the net weight of this product?",
+    "answers": [
+      "100ml",
+      "100 ml",
+      "100"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 234,
+    "image_path": "./image/DTProdCap/test/TB2p0VdXZqGJuJjSZFyXXXFvpXa_!!2841813165.jpg",
+    "question": "What is the name of the manufacturer?",
+    "answers": [
+      "\u6210\u90fd\u5e02\u5efa\u9091\u98df\u54c1\u6709\u9650\u516c\u53f8"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1466,
+    "image_path": "./image/DTProdCap/test/TB2hGPIcVXXXXa1XpXXXXXXXXXX_!!277185136.jpg",
+    "question": "What is the SPF of the product?",
+    "answers": [
+      "SPF15"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1399,
+    "image_path": "./image/DTProdCap/test/TB2DRfMopXXXXXsXFXXXXXXXXXX_!!61640469.jpg",
+    "question": "What is the production license number of the product?",
+    "answers": [
+      "QS4401 1301 0006"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1354,
+    "image_path": "./image/DTProdCap/test/TB2ywwPgLNNTKJjSspeXXaSwpXa_!!690635889.jpg",
+    "question": "What is the net content of this drink?",
+    "answers": [
+      "1L",
+      "1 L",
+      "1",
+      "1\u5347"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 745,
+    "image_path": "./image/DTProdCap/test/O1CN01ottUmd1kAXPjaen7r_!!1663014643.jpg",
+    "question": "What is the alcohol content of the drink?",
+    "answers": [
+      "15% vol",
+      "15%"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1696,
+    "image_path": "./image/DTProdCap/test/TB28tvpxAKWBuNjy1zjXXcOypXa_!!37169479.jpg",
+    "question": "What is the production date of the snack?",
+    "answers": [
+      "2018/06/10"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1339,
+    "image_path": "./image/DTProdCap/test/TB20nISXn3myKJjSZFCXXbXxXXa_!!833943850.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "18 months"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 11,
+    "image_path": "./image/DTProdCap/test/TB2.vkaBpOWBuNjy0FiXXXFxVXa_!!2516746988.jpg",
+    "question": "What is the volume of the water?",
+    "answers": [
+      "330ml",
+      "330 ml",
+      "330"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 239,
+    "image_path": "./image/DTProdCap/test/TB2xYuEao_C11Bjy1zeXXXtGpXa_!!50597335.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "24 months",
+      "24\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 759,
+    "image_path": "./image/DTProdCap/test/TB2w.aRsVXXXXbEXXXXXXXXXXXX_!!736977726.jpg",
+    "question": "What is the product name?",
+    "answers": [
+      "\u5965\u5229\u5965"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1338,
+    "image_path": "./image/DTProdCap/test/TB20nISXn3myKJjSZFCXXbXxXXa_!!833943850.jpg",
+    "question": "What is the production standard code?",
+    "answers": [
+      "SB/T 10021"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 569,
+    "image_path": "./image/DTProdCap/test/TB2YYlyduuSBuNjy1XcXXcYjFXa_!!730210127.jpg",
+    "question": "What is the name of the candy?",
+    "answers": [
+      "\u7ea2\u8c46\u8106"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1405,
+    "image_path": "./image/DTProdCap/test/TB19w4jSVXXXXb3XFXXXXXXXXXX_!!0-item_pic.jpg",
+    "question": "What is the product's price?",
+    "answers": [
+      "RMB 188 yuan",
+      "RMB 188 \u5143"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 335,
+    "image_path": "./image/DTProdCap/test/TB2sM8gs1uSBuNjSsziXXbq8pXa_!!2945589033.jpg",
+    "question": "What is the name of the product in the image?",
+    "answers": [
+      "\u5e38\u5c0f\u599e"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 431,
+    "image_path": "./image/DTProdCap/test/TB2Vq2aXb1YBuNjSszhXXcUsFXa-1016139911.jpg",
+    "question": "What are the ingredients of the product?",
+    "answers": [
+      "\u613f\u679c\u4ec1\uff0c\u5c0f\u9ea6\u7c89\uff0c\u6dc0\u7c89\uff0c\u690d\u7269\u6cb9\uff0c\u82a5\u672b\u7c89\uff0c\u767d\u79d8\u7cd6\uff0c\u98df\u7528\u76d0"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1652,
+    "image_path": "./image/DTProdCap/test/TB2qSqJdFXXXXbLXpXXXXXXXXXX_!!669396735.jpg",
+    "question": "What is the shelf life of the product?",
+    "answers": [
+      "10 months",
+      "10\u4e2a\u6708"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 255,
+    "image_path": "./image/DTProdCap/test/TB2ZRV6cgAjyKJjSsziXXbyxXXa_!!470345099.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "SOYJOY"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1196,
+    "image_path": "./image/DTProdCap/test/TB2StWUpVXXXXXyXFXXXXXXXXXX_!!363989390.jpg",
+    "question": "What is the name of the product?",
+    "answers": [
+      "\u7d2b\u85af"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1226,
+    "image_path": "./image/DTProdCap/test/TB2azjgeFHM8KJjSZJiXXbx3FXa_!!20737984.jpg",
+    "question": "What is the name of the store that sold this item?",
+    "answers": [
+      "Disney Store",
+      "Disney",
+      "\u8fea\u58eb\u5c3c"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1022,
+    "image_path": "./image/DTProdCap/test/TB2o8J0tj7nBKNjSZLeXXbxCFXa_!!4083335541.jpg",
+    "question": "What is the product code?",
+    "answers": [
+      "135004-201103"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 238,
+    "image_path": "./image/DTProdCap/test/TB2xYuEao_C11Bjy1zeXXXtGpXa_!!50597335.jpg",
+    "question": "What is the net content of the product?",
+    "answers": [
+      "500g",
+      "500 g",
+      "500",
+      "500\u514b"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 540,
+    "image_path": "./image/DTProdCap/test/TB2.ddAkxSYBuNjSspjXXX73VXa_!!3628386219.jpg",
+    "question": "What is the product name?",
+    "answers": [
+      "Mango Yogurt Drink",
+      "\u8292\u679c\u9178\u5976\u996e\u54c1"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 1711,
+    "image_path": "./image/DTProdCap/test/TB2CAfgfDqWBKNjSZFAXXanSpXa_!!3251591942.jpg",
+    "question": "What is the volume of the drink?",
+    "answers": [
+      "320ml",
+      "320 ml",
+      "320"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 148,
+    "image_path": "./image/DTProdCap/test/TB25M12oN9YBuNjy0FfXXXIsVXa_!!3091876067.jpg",
+    "question": "What is the standard number?",
+    "answers": [
+      "GB/T10782"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 424,
+    "image_path": "./image/DTProdCap/test/TB2cUhpnJcnBKNjSZR0XXcFqFXa_!!841686217.jpg",
+    "question": "What is the product price?",
+    "answers": [
+      "RMB 349.00",
+      "RMB349.00"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 351,
+    "image_path": "./image/DTProdCap/test/TB21oFpcER1BeNjy0FmXXb0wVXa_!!500713126.jpg",
+    "question": "What is the volume of the liquor?",
+    "answers": [
+      "700ml",
+      "700 ml",
+      "700"
+    ],
+    "type": "Product Photos From DAST"
+  },
+  {
+    "dataset_name": "DTProdCap",
+    "id": 2281,
+    "image_path": "./image/DTProdCap/test/TB26QmHXJifF1Jjy0FdXXX3dpXa_!!1957572586.jpg",
+    "question": "What is the production date of the product?",
+    "answers": [
+      "2017/07/10",
+      "2017-07-10"
+    ],
+    "type": "Product Photos From DAST"
+  }
+]

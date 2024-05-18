@@ -1,0 +1,3560 @@
+[
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1216,
+    "image_path": "./image/DTNutrCap/test/SGP_44.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "100g (1/3 pack)",
+      "100 g (1/3 pack)",
+      "100g",
+      "100 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1967,
+    "image_path": "./image/DTNutrCap/test/UK_57.jpg",
+    "question": "What percentage of the adult RI is met by the salt content per 125g serving?",
+    "answers": [
+      "10%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1506,
+    "image_path": "./image/DTNutrCap/test/UK_53.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1372,
+    "image_path": "./image/DTNutrCap/test/UK_260.jpg",
+    "question": "What percentage of the adult RI is the salt content per 1/2 pizza?",
+    "answers": [
+      "7%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1670,
+    "image_path": "./image/DTNutrCap/test/UK_364.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "18.7g",
+      "18.7 g",
+      "18.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2076,
+    "image_path": "./image/DTNutrCap/test/GOG_183.jpg",
+    "question": "How many calories are in the omelette?",
+    "answers": [
+      "1050 calories",
+      "calories 1050",
+      "1050"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2043,
+    "image_path": "./image/DTNutrCap/test/UK_216.jpg",
+    "question": "How many grams of carbohydrates are there in 100g?",
+    "answers": [
+      "46.2g",
+      "46.2 g",
+      "46.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1304,
+    "image_path": "./image/DTNutrCap/test/UK_314.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "0.7g",
+      "0.7 g",
+      "0.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1284,
+    "image_path": "./image/DTNutrCap/test/UK_43.jpg",
+    "question": "How many grams of sugar are there per pitta?",
+    "answers": [
+      "1.5g",
+      "1.5 g",
+      "1.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1947,
+    "image_path": "./image/DTNutrCap/test/NZL_29.jpg",
+    "question": "How much energy is there per serving?",
+    "answers": [
+      "170kJ",
+      "170 kJ",
+      "170"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1500,
+    "image_path": "./image/DTNutrCap/test/UK_1.jpg",
+    "question": "How many servings does the product provide?",
+    "answers": [
+      "4 servings",
+      "4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 206,
+    "image_path": "./image/DTNutrCap/test/UK_155.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1015,
+    "image_path": "./image/DTNutrCap/test/UK_159.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "21.4g",
+      "21.4 g",
+      "21.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1573,
+    "image_path": "./image/DTNutrCap/test/SGP_71.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "4.7g",
+      "4.7 g",
+      "4.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 123,
+    "image_path": "./image/DTNutrCap/test/UK_529.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "0.5g",
+      "0.5 g",
+      "0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1742,
+    "image_path": "./image/DTNutrCap/test/UK_515.jpg",
+    "question": "How many grams of protein are there in a boiled egg?",
+    "answers": [
+      "14.1g",
+      "14.1 g",
+      "14.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1843,
+    "image_path": "./image/DTNutrCap/test/SGP_23.jpg",
+    "question": "How many milligrams of calcium are there per 100g?",
+    "answers": [
+      "267mg",
+      "267 mg",
+      "267"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2028,
+    "image_path": "./image/DTNutrCap/test/NZL_40.jpg",
+    "question": "How much protein is there per 100g?",
+    "answers": [
+      "5.5g",
+      "5.5 g",
+      "5.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2004,
+    "image_path": "./image/DTNutrCap/test/SGP_65.jpg",
+    "question": "How many grams of sugar are there per serving?",
+    "answers": [
+      "20.8g",
+      "20.8 g",
+      "20.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1630,
+    "image_path": "./image/DTNutrCap/test/UK_249.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1084kJ/255kcal",
+      "1084kJ",
+      "255kcal",
+      "1084 kJ",
+      "255 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2081,
+    "image_path": "./image/DTNutrCap/test/GOG_187.jpg",
+    "question": "How many grams of protein are there per 320 calories?",
+    "answers": [
+      "34.8g",
+      "34.8 g",
+      "34.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1710,
+    "image_path": "./image/DTNutrCap/test/NZL_42.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "32g (1 bar)",
+      "32g",
+      "32 g (1 bar)",
+      "32 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1290,
+    "image_path": "./image/DTNutrCap/test/UK_445.jpg",
+    "question": "How many servings are there in this pack?",
+    "answers": [
+      "25 servings",
+      "25"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1470,
+    "image_path": "./image/DTNutrCap/test/UK_242.jpg",
+    "question": "What is the percentage of the adult RI of energy per 1/6 pack?",
+    "answers": [
+      "14%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1398,
+    "image_path": "./image/DTNutrCap/test/UK_507.jpg",
+    "question": "How many grams of carbohydrates are there per 100g serving?",
+    "answers": [
+      "3.5g",
+      "3.5 g",
+      "3.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1596,
+    "image_path": "./image/DTNutrCap/test/SGP_50.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "250 ml (1 cup)",
+      "250 ml",
+      "250ml (1 cup)",
+      "250ml"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1776,
+    "image_path": "./image/DTNutrCap/test/UK_466.jpg",
+    "question": "How many grams of sugar are in a doughnut?",
+    "answers": [
+      "10.3g",
+      "10.3 g",
+      "10.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1503,
+    "image_path": "./image/DTNutrCap/test/UK_1.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "54.2g",
+      "54.2 g",
+      "54.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2082,
+    "image_path": "./image/DTNutrCap/test/GOG_187.jpg",
+    "question": "How many grams of carbohydrates are there per cookie?",
+    "answers": [
+      "17.6g",
+      "17.6 g",
+      "17.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1975,
+    "image_path": "./image/DTNutrCap/test/SGP_45.jpg",
+    "question": "How many servings are there per package?",
+    "answers": [
+      "3 servings",
+      "3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2111,
+    "image_path": "./image/DTNutrCap/test/GOG_116.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "28g",
+      "28 g",
+      "28"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1548,
+    "image_path": "./image/DTNutrCap/test/UK_56.jpg",
+    "question": "How many grams of sugar are there per 100g of the product?",
+    "answers": [
+      "32.6g",
+      "32.6 g",
+      "32.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1204,
+    "image_path": "./image/DTNutrCap/test/UK_54.jpg",
+    "question": "What is the percentage of the adult RI for the amount of fat per 100g?",
+    "answers": [
+      "23%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1191,
+    "image_path": "./image/DTNutrCap/test/UK_561.jpg",
+    "question": "How many grams of saturated fat are there per 100g?",
+    "answers": [
+      "10.9g",
+      "10.9 g",
+      "10.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1429,
+    "image_path": "./image/DTNutrCap/test/UK_438.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "2.9g",
+      "2.9 g",
+      "2.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1038,
+    "image_path": "./image/DTNutrCap/test/UK_362.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "1.26g",
+      "1.26 g",
+      "1.26"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1706,
+    "image_path": "./image/DTNutrCap/test/UK_492.jpg",
+    "question": "How many calories are in a serving?",
+    "answers": [
+      "86kJ/20kcal",
+      "86kJ",
+      "20kcal",
+      "86 kJ",
+      "20 kcal",
+      "20k"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1777,
+    "image_path": "./image/DTNutrCap/test/UK_466.jpg",
+    "question": "What percentage of the RI for an average adult's daily energy intake is contained in a doughnut?",
+    "answers": [
+      "12%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1848,
+    "image_path": "./image/DTNutrCap/test/UK_243.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "46.6g",
+      "46.6 g",
+      "46.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1147,
+    "image_path": "./image/DTNutrCap/test/UK_195.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "21.4g",
+      "21.4 g",
+      "21.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1592,
+    "image_path": "./image/DTNutrCap/test/UK_9.jpg",
+    "question": "How many grams of fat are there in one tablespoon?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2005,
+    "image_path": "./image/DTNutrCap/test/UK_262.jpg",
+    "question": "How many grams of fat are there per 30g serving?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1731,
+    "image_path": "./image/DTNutrCap/test/UK_174.jpg",
+    "question": "How much fat is there per 100g?",
+    "answers": [
+      "34.9g",
+      "34.9 g",
+      "34.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1145,
+    "image_path": "./image/DTNutrCap/test/UK_195.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1046kJ/251kcal",
+      "1046kJ",
+      "251kcal",
+      "1046 kJ",
+      "251 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1,
+    "image_path": "./image/DTNutrCap/test/SGP_31.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "200ml (1 cup)",
+      "200ml",
+      "200 ml (1 cup)",
+      "200 ml"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1847,
+    "image_path": "./image/DTNutrCap/test/UK_243.jpg",
+    "question": "How many grams of protein are there per 1/6 pack?",
+    "answers": [
+      "3.6g",
+      "3.6 g",
+      "3.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1951,
+    "image_path": "./image/DTNutrCap/test/UK_427.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "13.6g",
+      "13.6 g",
+      "13.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1292,
+    "image_path": "./image/DTNutrCap/test/UK_445.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "82g",
+      "82 g",
+      "82"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1875,
+    "image_path": "./image/DTNutrCap/test/NZL_28.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "10g",
+      "10 g",
+      "10"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 173,
+    "image_path": "./image/DTNutrCap/test/UK_368.jpg",
+    "question": "How many grams of carbohydrate are there per 100g?",
+    "answers": [
+      "0.7g",
+      "0.7 g",
+      "0.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1314,
+    "image_path": "./image/DTNutrCap/test/UK_405.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "0.4g",
+      "0.4 g",
+      "0.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1588,
+    "image_path": "./image/DTNutrCap/test/UK_572.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "67.7g",
+      "67.7 g",
+      "67.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1058,
+    "image_path": "./image/DTNutrCap/test/UK_60.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "25.0g",
+      "25.0 g",
+      "25.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1049,
+    "image_path": "./image/DTNutrCap/test/UK_194.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "0.13g",
+      "0.13 g",
+      "0.13"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1071,
+    "image_path": "./image/DTNutrCap/test/UK_465.jpg",
+    "question": "How many grams of fat are there in 100g of the product?",
+    "answers": [
+      "1.1g",
+      "1.1 g",
+      "1.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1511,
+    "image_path": "./image/DTNutrCap/test/UK_280.jpg",
+    "question": "How many calories are in a serving?",
+    "answers": [
+      "865kJ",
+      "865 kJ",
+      "865"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 203,
+    "image_path": "./image/DTNutrCap/test/UK_431.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "2.7g",
+      "2.7 g",
+      "2.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 186,
+    "image_path": "./image/DTNutrCap/test/UK_23.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1439,
+    "image_path": "./image/DTNutrCap/test/UK_223.jpg",
+    "question": "What is the salt content per 100g?",
+    "answers": [
+      "0.02g",
+      "0.02 g",
+      "0.02"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2124,
+    "image_path": "./image/DTNutrCap/test/GOG_299.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1986,
+    "image_path": "./image/DTNutrCap/test/UK_307.jpg",
+    "question": "What percentage of the reference intake of saturated fat is there per 100g?",
+    "answers": [
+      "7%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 114,
+    "image_path": "./image/DTNutrCap/test/UK_538.jpg",
+    "question": "How many calories are in a 27g cake?",
+    "answers": [
+      "107 kcal",
+      "107kcal",
+      "107k"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 182,
+    "image_path": "./image/DTNutrCap/test/UK_574.jpg",
+    "question": "How many grams of saturates are there in 100g?",
+    "answers": [
+      "1.2g",
+      "1.2 g",
+      "1.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1151,
+    "image_path": "./image/DTNutrCap/test/UK_284.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "0.1g",
+      "0.1 g",
+      "0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1443,
+    "image_path": "./image/DTNutrCap/test/UK_302.jpg",
+    "question": "What is the typical value of carbohydrate per 100g?",
+    "answers": [
+      "0.1g",
+      "0.1 g",
+      "0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1959,
+    "image_path": "./image/DTNutrCap/test/UK_522.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "1.88g",
+      "1.88 g",
+      "1.88"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1353,
+    "image_path": "./image/DTNutrCap/test/NZL_46.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "22.1g",
+      "22.1 g",
+      "22.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1545,
+    "image_path": "./image/DTNutrCap/test/UK_56.jpg",
+    "question": "How many grams of fat are there per 100g of the product?",
+    "answers": [
+      "17.2g",
+      "17.2 g",
+      "17.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1217,
+    "image_path": "./image/DTNutrCap/test/SGP_44.jpg",
+    "question": "How many calories are there per serving?",
+    "answers": [
+      "58 kcal (244kJ)",
+      "58 kcal",
+      "58kcal (244kJ)",
+      "58kcal",
+      "58k"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1657,
+    "image_path": "./image/DTNutrCap/test/UK_397.jpg",
+    "question": "What percentage of the guideline daily amount of fat does 100g of the product provide?",
+    "answers": [
+      "11%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1918,
+    "image_path": "./image/DTNutrCap/test/UK_34.jpg",
+    "question": "How many grams of protein are there per 100g of the food item?",
+    "answers": [
+      "20.2g",
+      "20.2 g",
+      "20.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1069,
+    "image_path": "./image/DTNutrCap/test/UK_165.jpg",
+    "question": "How many grams of carbohydrate are there per 200ml?",
+    "answers": [
+      "20.5g",
+      "20.5 g",
+      "20.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1066,
+    "image_path": "./image/DTNutrCap/test/UK_165.jpg",
+    "question": "How many grams of saturates are there per 200ml?",
+    "answers": [
+      "2.4g",
+      "2.4 g",
+      "2.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1536,
+    "image_path": "./image/DTNutrCap/test/UK_148.jpg",
+    "question": "What is the typical value of energy in kilocalories?",
+    "answers": [
+      "320 kcal",
+      "320"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1611,
+    "image_path": "./image/DTNutrCap/test/SGP_61.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "250ml (1 glass)",
+      "250ml",
+      "250 ml (1 glass)",
+      "250 ml"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2014,
+    "image_path": "./image/DTNutrCap/test/UK_458.jpg",
+    "question": "What is the salt content per 100g?",
+    "answers": [
+      "0.95g",
+      "0.95 g",
+      "0.95"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1433,
+    "image_path": "./image/DTNutrCap/test/UK_75.jpg",
+    "question": "How many grams of sugar are there per 1/4 pot?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1024,
+    "image_path": "./image/DTNutrCap/test/NZL_49.jpg",
+    "question": "How many grams of saturated fat are there per serving?",
+    "answers": [
+      "3.9g",
+      "3.9 g",
+      "3.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1816,
+    "image_path": "./image/DTNutrCap/test/UK_332.jpg",
+    "question": "How many grams of protein are there per half pack?",
+    "answers": [
+      "4.6g",
+      "4.6 g",
+      "4.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1898,
+    "image_path": "./image/DTNutrCap/test/UK_10.jpg",
+    "question": "How many grams of carbohydrate are there per 100g?",
+    "answers": [
+      "69.9g",
+      "69.9 g",
+      "69.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1322,
+    "image_path": "./image/DTNutrCap/test/UK_432.jpg",
+    "question": "What is the typical value for protein per 100g?",
+    "answers": [
+      "10.3g",
+      "10.3 g",
+      "10.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 150,
+    "image_path": "./image/DTNutrCap/test/UK_518.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "811kJ",
+      "811 kJ",
+      "811"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1209,
+    "image_path": "./image/DTNutrCap/test/SGP_32.jpg",
+    "question": "How many grams of carbohydrates are there per serving?",
+    "answers": [
+      "27.3g",
+      "27.3 g",
+      "27.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1266,
+    "image_path": "./image/DTNutrCap/test/NZL_2.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "500mL",
+      "500 mL",
+      "500"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1821,
+    "image_path": "./image/DTNutrCap/test/UK_534.jpg",
+    "question": "How many servings are there per package?",
+    "answers": [
+      "6 servings",
+      "6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2011,
+    "image_path": "./image/DTNutrCap/test/UK_458.jpg",
+    "question": "What is the fat content per 100g?",
+    "answers": [
+      "9.7g",
+      "9.7 g",
+      "9.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 136,
+    "image_path": "./image/DTNutrCap/test/UK_68.jpg",
+    "question": "What percentage of the adult RI is the amount of protein per 100g serving?",
+    "answers": [
+      "15%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1364,
+    "image_path": "./image/DTNutrCap/test/UK_582.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "0.90g",
+      "0.90 g",
+      "0.90"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1107,
+    "image_path": "./image/DTNutrCap/test/UK_417.jpg",
+    "question": "How many grams of saturated fat are there per 100g?",
+    "answers": [
+      "9.8g",
+      "9.8 g",
+      "9.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1991,
+    "image_path": "./image/DTNutrCap/test/UK_244.jpg",
+    "question": "What percentage of the adult RI is the fat content of the burger?",
+    "answers": [
+      "27%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2030,
+    "image_path": "./image/DTNutrCap/test/UK_304.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "105kJ/25kcal",
+      "105kJ",
+      "25kcal",
+      "105 kJ",
+      "25 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1685,
+    "image_path": "./image/DTNutrCap/test/NZL_20.jpg",
+    "question": "What is the average quantity per serving of protein?",
+    "answers": [
+      "0.3g",
+      "0.3 g",
+      "0.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 134,
+    "image_path": "./image/DTNutrCap/test/SGP_70.jpg",
+    "question": "How many grams of total fat are there per serving?",
+    "answers": [
+      "1.4g",
+      "1.4 g",
+      "1.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1826,
+    "image_path": "./image/DTNutrCap/test/UK_184.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "81.8g",
+      "81.8 g",
+      "81.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2109,
+    "image_path": "./image/DTNutrCap/test/GOG_188.jpg",
+    "question": "What percentage of the daily value of vitamin D is in each serving?",
+    "answers": [
+      "0%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1669,
+    "image_path": "./image/DTNutrCap/test/UK_436.jpg",
+    "question": "What is the typical value of carbohydrates per 100g?",
+    "answers": [
+      "81g",
+      "81 g",
+      "81"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1490,
+    "image_path": "./image/DTNutrCap/test/UK_99.jpg",
+    "question": "What is the total amount of fat per 100g?",
+    "answers": [
+      "9.9g",
+      "9.9 g",
+      "9.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1989,
+    "image_path": "./image/DTNutrCap/test/UK_307.jpg",
+    "question": "How many kilojoules of energy are there per 100g?",
+    "answers": [
+      "350kJ",
+      "350 kJ",
+      "350"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1367,
+    "image_path": "./image/DTNutrCap/test/UK_506.jpg",
+    "question": "What is the typical value of fat per 100g?",
+    "answers": [
+      "9.8g",
+      "9.8 g",
+      "9.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1689,
+    "image_path": "./image/DTNutrCap/test/NZL_20.jpg",
+    "question": "What is the energy per 100ml?",
+    "answers": [
+      "2520kJ",
+      "2520 kJ",
+      "2520"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1120,
+    "image_path": "./image/DTNutrCap/test/UK_558.jpg",
+    "question": "What is the fat content per 100ml of milk?",
+    "answers": [
+      "1.7g",
+      "1.7 g",
+      "1.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1927,
+    "image_path": "./image/DTNutrCap/test/UK_102.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "20.3g",
+      "20.3 g",
+      "20.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1708,
+    "image_path": "./image/DTNutrCap/test/UK_492.jpg",
+    "question": "How many grams of sugar are in a serving?",
+    "answers": [
+      "3.8g",
+      "3.8 g",
+      "3.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1328,
+    "image_path": "./image/DTNutrCap/test/UK_450.jpg",
+    "question": "How many grams of protein are there per 100ml?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2134,
+    "image_path": "./image/DTNutrCap/test/GOG_165.jpg",
+    "question": "How many grams of fat are there per serving?",
+    "answers": [
+      "1g",
+      "1 g",
+      "1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2089,
+    "image_path": "./image/DTNutrCap/test/GOG_236.jpg",
+    "question": "What percentage of the daily value of total fat is there per serving?",
+    "answers": [
+      "0%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 141,
+    "image_path": "./image/DTNutrCap/test/NZL_50.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "45g (approx. 3/4 cup)",
+      "45g",
+      "45 g (approx. 3/4 cup)",
+      "45 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1200,
+    "image_path": "./image/DTNutrCap/test/UK_54.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "16.0g",
+      "16.0 g",
+      "16.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1942,
+    "image_path": "./image/DTNutrCap/test/UK_14.jpg",
+    "question": "How many grams of fat are there per 1/2 pot?",
+    "answers": [
+      "5.0g",
+      "5.0 g",
+      "5.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1382,
+    "image_path": "./image/DTNutrCap/test/UK_258.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "46.5g",
+      "46.5 g",
+      "46.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 103,
+    "image_path": "./image/DTNutrCap/test/UK_339.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1663,
+    "image_path": "./image/DTNutrCap/test/UK_190.jpg",
+    "question": "How many grams of protein are there in 100g of houmous?",
+    "answers": [
+      "6.7g",
+      "6.7 g",
+      "6.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1277,
+    "image_path": "./image/DTNutrCap/test/UK_390.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "18.7g",
+      "18.7 g",
+      "18.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2088,
+    "image_path": "./image/DTNutrCap/test/GOG_236.jpg",
+    "question": "How many grams of total carbohydrates are there per serving?",
+    "answers": [
+      "17g",
+      "17 g",
+      "17"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 145,
+    "image_path": "./image/DTNutrCap/test/UK_261.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "15ml",
+      "15 ml",
+      "15"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1330,
+    "image_path": "./image/DTNutrCap/test/UK_331.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "45g",
+      "45 g",
+      "45"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1811,
+    "image_path": "./image/DTNutrCap/test/SGP_42.jpg",
+    "question": "How many servings are there per package?",
+    "answers": [
+      "35 servings",
+      "35"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1965,
+    "image_path": "./image/DTNutrCap/test/UK_57.jpg",
+    "question": "How many grams of fat are there per 100g serving?",
+    "answers": [
+      "4.4g",
+      "4.4 g",
+      "4.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1793,
+    "image_path": "./image/DTNutrCap/test/UK_441.jpg",
+    "question": "What percentage of the RI is salt?",
+    "answers": [
+      "9%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2105,
+    "image_path": "./image/DTNutrCap/test/GOG_188.jpg",
+    "question": "How many servings are there per container?",
+    "answers": [
+      "8 servings",
+      "8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1672,
+    "image_path": "./image/DTNutrCap/test/UK_364.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "5.7g",
+      "5.7 g",
+      "5.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2033,
+    "image_path": "./image/DTNutrCap/test/UK_304.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "0.6g",
+      "0.6 g",
+      "0.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1474,
+    "image_path": "./image/DTNutrCap/test/UK_242.jpg",
+    "question": "What is the percentage of the adult RI of salt per 1/6 pack?",
+    "answers": [
+      "5%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 156,
+    "image_path": "./image/DTNutrCap/test/UK_422.jpg",
+    "question": "How many grams of saturated fat are there per 100g?",
+    "answers": [
+      "0.0g",
+      "0.0 g",
+      "0.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2057,
+    "image_path": "./image/DTNutrCap/test/GOG_251.jpg",
+    "question": "How many calories are in each serving?",
+    "answers": [
+      "230 calories",
+      "230"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1006,
+    "image_path": "./image/DTNutrCap/test/UK_303.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "192kJ/45kcal",
+      "192kJ",
+      "45kcal",
+      "192 kJ",
+      "45 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1326,
+    "image_path": "./image/DTNutrCap/test/UK_450.jpg",
+    "question": "How many grams of fat are there per 100ml?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1912,
+    "image_path": "./image/DTNutrCap/test/UK_489.jpg",
+    "question": "How many grams of carbohydrates are there per 100ml?",
+    "answers": [
+      "10g",
+      "10 g",
+      "10"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1654,
+    "image_path": "./image/DTNutrCap/test/UK_51.jpg",
+    "question": "What is the percentage of the adult RI of carbohydrates per 100g?",
+    "answers": [
+      "<1%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1008,
+    "image_path": "./image/DTNutrCap/test/UK_303.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "9.7g",
+      "9.7 g",
+      "9.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1119,
+    "image_path": "./image/DTNutrCap/test/NZL_21.jpg",
+    "question": "What is the amount of lycopene per 100g?",
+    "answers": [
+      "2.8mg",
+      "2.8 mg",
+      "2.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1971,
+    "image_path": "./image/DTNutrCap/test/SGP_74.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "40g (1 slice)",
+      "40g",
+      "40 g (1 slice)",
+      "40 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1568,
+    "image_path": "./image/DTNutrCap/test/UK_13.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "1.3g",
+      "1.3 g",
+      "1.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 19,
+    "image_path": "./image/DTNutrCap/test/UK_490.jpg",
+    "question": "How many grams of saturated fat are in each serving?",
+    "answers": [
+      "4.5g",
+      "4.5 g",
+      "4.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1747,
+    "image_path": "./image/DTNutrCap/test/UK_252.jpg",
+    "question": "How many grams of saturated fat are there per 100g (drained)?",
+    "answers": [
+      "0.2g",
+      "0.2 g",
+      "0.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 108,
+    "image_path": "./image/DTNutrCap/test/UK_532.jpg",
+    "question": "How many grams of protein are there per 100ml?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1765,
+    "image_path": "./image/DTNutrCap/test/UK_388.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1119kJ/270kcal",
+      "1119kJ",
+      "270kcal",
+      "1119 kJ",
+      "270 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1790,
+    "image_path": "./image/DTNutrCap/test/UK_441.jpg",
+    "question": "How many servings are in this pack?",
+    "answers": [
+      "7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1818,
+    "image_path": "./image/DTNutrCap/test/UK_332.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "668kJ/158kcal",
+      "668kJ",
+      "158kcal",
+      "668 kJ",
+      "158 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 158,
+    "image_path": "./image/DTNutrCap/test/UK_422.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "2.0g",
+      "2.0 g",
+      "2.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1883,
+    "image_path": "./image/DTNutrCap/test/UK_273.jpg",
+    "question": "What is the typical value of protein per 100g?",
+    "answers": [
+      "26.9g",
+      "26.9 g",
+      "26.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1137,
+    "image_path": "./image/DTNutrCap/test/UK_481.jpg",
+    "question": "How many grams of protein are there per 60g?",
+    "answers": [
+      "5.3 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1739,
+    "image_path": "./image/DTNutrCap/test/UK_183.jpg",
+    "question": "How many grams of protein are there in the product?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1310,
+    "image_path": "./image/DTNutrCap/test/UK_405.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1450kJ/341kcal",
+      "1450kJ",
+      "341kcal",
+      "1450 kJ",
+      "341 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1112,
+    "image_path": "./image/DTNutrCap/test/UK_509.jpg",
+    "question": "How many kilojoules of energy are in 2 sausages?",
+    "answers": [
+      "1677kJ",
+      "1677",
+      "1677 kJ"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1140,
+    "image_path": "./image/DTNutrCap/test/UK_470.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "5.4g",
+      "5.4 g",
+      "5.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1638,
+    "image_path": "./image/DTNutrCap/test/NZL_31.jpg",
+    "question": "How much protein is there per 100g?",
+    "answers": [
+      "<1g",
+      "<1 g",
+      "<1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1629,
+    "image_path": "./image/DTNutrCap/test/UK_380.jpg",
+    "question": "How many grams of protein are in a quarter of the jar?",
+    "answers": [
+      "2.0g",
+      "2.0 g",
+      "2.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1323,
+    "image_path": "./image/DTNutrCap/test/UK_432.jpg",
+    "question": "What is the typical value for carbohydrates per 100g?",
+    "answers": [
+      "22.8g",
+      "22.8 g",
+      "22.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1977,
+    "image_path": "./image/DTNutrCap/test/SGP_45.jpg",
+    "question": "How many calories are there per serving?",
+    "answers": [
+      "58kcal",
+      "58k"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1987,
+    "image_path": "./image/DTNutrCap/test/UK_307.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "0.3g",
+      "0.3 g",
+      "0.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1938,
+    "image_path": "./image/DTNutrCap/test/UK_37.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1963,
+    "image_path": "./image/DTNutrCap/test/UK_35.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "100.0g",
+      "100.0 g",
+      "100.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1636,
+    "image_path": "./image/DTNutrCap/test/NZL_31.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "10g",
+      "10 g",
+      "10"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 164,
+    "image_path": "./image/DTNutrCap/test/UK_27.jpg",
+    "question": "What percentage of the adult RI is the carbohydrate content per bun?",
+    "answers": [
+      "17%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1362,
+    "image_path": "./image/DTNutrCap/test/UK_582.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "8.7g",
+      "8.7 g",
+      "8.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1911,
+    "image_path": "./image/DTNutrCap/test/UK_489.jpg",
+    "question": "How many grams of fat are there per 100ml?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1201,
+    "image_path": "./image/DTNutrCap/test/UK_54.jpg",
+    "question": "What percentage of the adult RI is the amount of protein per 100g?",
+    "answers": [
+      "52%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1141,
+    "image_path": "./image/DTNutrCap/test/UK_470.jpg",
+    "question": "How many grams of sugar are there per 1/4 pudding?",
+    "answers": [
+      "44.7 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1411,
+    "image_path": "./image/DTNutrCap/test/UK_229.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "11.3g",
+      "11.3 g",
+      "11.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2132,
+    "image_path": "./image/DTNutrCap/test/GOG_165.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "9g",
+      "9 g",
+      "9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1059,
+    "image_path": "./image/DTNutrCap/test/UK_60.jpg",
+    "question": "What is the website for more information on Reference Intakes?",
+    "answers": [
+      "www.sainsburys.co.uk/FoodLabels"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1444,
+    "image_path": "./image/DTNutrCap/test/UK_302.jpg",
+    "question": "What percentage of the RI is protein?",
+    "answers": [
+      "25%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1827,
+    "image_path": "./image/DTNutrCap/test/UK_184.jpg",
+    "question": "How many grams of saturated fat are there per 100g?",
+    "answers": [
+      "51.0g",
+      "51.0 g",
+      "51.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 198,
+    "image_path": "./image/DTNutrCap/test/NZL_81.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "85g",
+      "85 g",
+      "85"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1359,
+    "image_path": "./image/DTNutrCap/test/UK_375.jpg",
+    "question": "How many grams of protein are in a serving?",
+    "answers": [
+      "<0.1g",
+      "<0.1 g",
+      "<0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2099,
+    "image_path": "./image/DTNutrCap/test/GOG_283.jpg",
+    "question": "What is the percentage of the daily value of vitamin D per serving?",
+    "answers": [
+      "0%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1316,
+    "image_path": "./image/DTNutrCap/test/UK_406.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "1.7g",
+      "1.7 g",
+      "1.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1057,
+    "image_path": "./image/DTNutrCap/test/UK_60.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1808,
+    "image_path": "./image/DTNutrCap/test/UK_569.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "25.9g",
+      "25.9 g",
+      "25.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1908,
+    "image_path": "./image/DTNutrCap/test/UK_38.jpg",
+    "question": "How many grams of protein are there in the product?",
+    "answers": [
+      "3.5g",
+      "3.5 g",
+      "3.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1028,
+    "image_path": "./image/DTNutrCap/test/UK_460.jpg",
+    "question": "How many grams of fat are in the pot?",
+    "answers": [
+      "21g",
+      "21 g",
+      "21"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1628,
+    "image_path": "./image/DTNutrCap/test/UK_380.jpg",
+    "question": "How many grams of fat are in a quarter of the jar?",
+    "answers": [
+      "0.4g",
+      "0.4 g",
+      "0.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2018,
+    "image_path": "./image/DTNutrCap/test/UK_392.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "<0.1g",
+      "<0.1 g",
+      "<0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 189,
+    "image_path": "./image/DTNutrCap/test/UK_23.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "1g",
+      "1 g",
+      "1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1696,
+    "image_path": "./image/DTNutrCap/test/UK_217.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "0.6g",
+      "0.6 g",
+      "0.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1306,
+    "image_path": "./image/DTNutrCap/test/UK_79.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "4.0g",
+      "4.0 g",
+      "4.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1998,
+    "image_path": "./image/DTNutrCap/test/UK_457.jpg",
+    "question": "What is the percentage of the NRV for iron per 100g?",
+    "answers": [
+      "32%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1515,
+    "image_path": "./image/DTNutrCap/test/UK_491.jpg",
+    "question": "What is the energy per 100ml of the diluted product?",
+    "answers": [
+      "8kJ/2kcal",
+      "8kJ",
+      "2kcal",
+      "8 kJ",
+      "2 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1709,
+    "image_path": "./image/DTNutrCap/test/UK_492.jpg",
+    "question": "What percentage of the daily value of protein does a serving provide?",
+    "answers": [
+      "<1%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1860,
+    "image_path": "./image/DTNutrCap/test/UK_544.jpg",
+    "question": "How many servings are in this pack?",
+    "answers": [
+      "12 servings",
+      "12"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1029,
+    "image_path": "./image/DTNutrCap/test/UK_460.jpg",
+    "question": "How many grams of carbohydrate are in 100g?",
+    "answers": [
+      "20g",
+      "20 g",
+      "20"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1558,
+    "image_path": "./image/DTNutrCap/test/UK_82.jpg",
+    "question": "What is the percentage of the adult RI of salt per 100g?",
+    "answers": [
+      "<1%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1287,
+    "image_path": "./image/DTNutrCap/test/NZL_48.jpg",
+    "question": "What is the energy per serving?",
+    "answers": [
+      "640kJ",
+      "640 kJ",
+      "640"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1111,
+    "image_path": "./image/DTNutrCap/test/UK_509.jpg",
+    "question": "How many grams of protein are in 2 sausages?",
+    "answers": [
+      "26.3g",
+      "26.3 g",
+      "26.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1540,
+    "image_path": "./image/DTNutrCap/test/UK_227.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1651KJ/398kcal",
+      "1651KJ",
+      "398kcal",
+      "1651 KJ",
+      "398 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2062,
+    "image_path": "./image/DTNutrCap/test/GOG_133.jpg",
+    "question": "How many calories are there per serving?",
+    "answers": [
+      "80k",
+      "80kcal",
+      "80 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1555,
+    "image_path": "./image/DTNutrCap/test/UK_82.jpg",
+    "question": "What is the percentage of the adult RI of energy per 100g?",
+    "answers": [
+      "<1%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1792,
+    "image_path": "./image/DTNutrCap/test/UK_441.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "35g",
+      "35 g",
+      "35"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1110,
+    "image_path": "./image/DTNutrCap/test/UK_509.jpg",
+    "question": "How many grams of fat are in 100g of the sausages?",
+    "answers": [
+      "26.1g",
+      "26.1 g",
+      "26.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1168,
+    "image_path": "./image/DTNutrCap/test/NZL_22.jpg",
+    "question": "How much protein is there per serving?",
+    "answers": [
+      "2.8g",
+      "2.8 g",
+      "2.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1425,
+    "image_path": "./image/DTNutrCap/test/UK_438.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "515kJ/122kcal",
+      "515kJ",
+      "122kcal",
+      "515 kJ",
+      "122 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1269,
+    "image_path": "./image/DTNutrCap/test/NZL_2.jpg",
+    "question": "How many grams of protein are there per 100 mL?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1047,
+    "image_path": "./image/DTNutrCap/test/UK_194.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "15.2g",
+      "15.2 g",
+      "15.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1251,
+    "image_path": "./image/DTNutrCap/test/NZL_84.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "200ml",
+      "200 ml",
+      "200"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1335,
+    "image_path": "./image/DTNutrCap/test/UK_440.jpg",
+    "question": "How many servings are in this pack?",
+    "answers": [
+      "13 servings",
+      "13"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1679,
+    "image_path": "./image/DTNutrCap/test/UK_514.jpg",
+    "question": "What is the amount of salt per 100g?",
+    "answers": [
+      "3.13g",
+      "3.13 g",
+      "3.13"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1192,
+    "image_path": "./image/DTNutrCap/test/UK_561.jpg",
+    "question": "How many grams of mono-unsaturated fat are there per 100g?",
+    "answers": [
+      "18.8g",
+      "18.8 g",
+      "18.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1254,
+    "image_path": "./image/DTNutrCap/test/NZL_84.jpg",
+    "question": "How much sugar is there per 100ml?",
+    "answers": [
+      "14.1g",
+      "14.1 g",
+      "14.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1707,
+    "image_path": "./image/DTNutrCap/test/UK_492.jpg",
+    "question": "How many grams of fat are in a serving?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 131,
+    "image_path": "./image/DTNutrCap/test/SGP_70.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "2 slices (60g)",
+      "2 slices",
+      "60g",
+      "60 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2064,
+    "image_path": "./image/DTNutrCap/test/GOG_133.jpg",
+    "question": "What percentage of the daily value of iron is in one serving?",
+    "answers": [
+      "10%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1013,
+    "image_path": "./image/DTNutrCap/test/UK_305.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "70.6g",
+      "70.6 g",
+      "70.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1152,
+    "image_path": "./image/DTNutrCap/test/UK_284.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "8.8g",
+      "8.8 g",
+      "8.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 125,
+    "image_path": "./image/DTNutrCap/test/UK_516.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "23.6g",
+      "23.6 g",
+      "23.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1263,
+    "image_path": "./image/DTNutrCap/test/UK_220.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1571,
+    "image_path": "./image/DTNutrCap/test/SGP_71.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "65g (1 roll)",
+      "65g",
+      "65 g (1 roll)",
+      "65 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1658,
+    "image_path": "./image/DTNutrCap/test/UK_397.jpg",
+    "question": "What percentage of the guideline daily amount of salt does 100g of the product provide?",
+    "answers": [
+      "5%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1639,
+    "image_path": "./image/DTNutrCap/test/NZL_31.jpg",
+    "question": "How much sodium is there per serving?",
+    "answers": [
+      "72mg",
+      "72 mg",
+      "72"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1608,
+    "image_path": "./image/DTNutrCap/test/UK_404.jpg",
+    "question": "How many grams of carbohydrates are there per 100g of this product?",
+    "answers": [
+      "37.8g",
+      "37.8 g",
+      "37.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1199,
+    "image_path": "./image/DTNutrCap/test/UK_264.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "0.1g",
+      "0.1 g",
+      "0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2036,
+    "image_path": "./image/DTNutrCap/test/NZL_61.jpg",
+    "question": "What is the average serving size?",
+    "answers": [
+      "74g (2 slices)",
+      "74g",
+      "74 g (2 slices)",
+      "74 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1525,
+    "image_path": "./image/DTNutrCap/test/UK_578.jpg",
+    "question": "What is the energy value per spray?",
+    "answers": [
+      "4kJ/1kcal",
+      "4kJ",
+      "1kcal",
+      "4 kJ",
+      "1 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1962,
+    "image_path": "./image/DTNutrCap/test/UK_35.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "100.0g",
+      "100.0 g",
+      "100.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1577,
+    "image_path": "./image/DTNutrCap/test/UK_58.jpg",
+    "question": "What is the typical value of fat per 100g?",
+    "answers": [
+      "1.7g",
+      "1.7 g",
+      "1.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1954,
+    "image_path": "./image/DTNutrCap/test/UK_427.jpg",
+    "question": "How many grams of sugars are there per 100g?",
+    "answers": [
+      "28.6g",
+      "28.6 g",
+      "28.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1375,
+    "image_path": "./image/DTNutrCap/test/UK_306.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "100g",
+      "100 g",
+      "100"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1064,
+    "image_path": "./image/DTNutrCap/test/NZL_82.jpg",
+    "question": "What is the average quantity of energy?",
+    "answers": [
+      "230kJ",
+      "230 kJ",
+      "230"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1206,
+    "image_path": "./image/DTNutrCap/test/SGP_32.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "250ml",
+      "250 ml",
+      "250"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1258,
+    "image_path": "./image/DTNutrCap/test/NZL_39.jpg",
+    "question": "How much protein is there per 100ml?",
+    "answers": [
+      "0.6g",
+      "0.6 g",
+      "0.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 168,
+    "image_path": "./image/DTNutrCap/test/UK_180.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "55.8g",
+      "55.8 g",
+      "55.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1157,
+    "image_path": "./image/DTNutrCap/test/UK_240.jpg",
+    "question": "How many grams of protein are there in the food?",
+    "answers": [
+      "20.2g",
+      "20.2 g",
+      "20.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 159,
+    "image_path": "./image/DTNutrCap/test/UK_422.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "0.4g",
+      "0.4 g",
+      "0.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1650,
+    "image_path": "./image/DTNutrCap/test/UK_51.jpg",
+    "question": "What is the percentage of the adult RI of energy per 100g?",
+    "answers": [
+      "1%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1966,
+    "image_path": "./image/DTNutrCap/test/UK_57.jpg",
+    "question": "How many grams of protein are there per 125g serving?",
+    "answers": [
+      "2.9g",
+      "2.9 g",
+      "2.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1414,
+    "image_path": "./image/DTNutrCap/test/UK_229.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "13.5g",
+      "13.5 g",
+      "13.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1997,
+    "image_path": "./image/DTNutrCap/test/UK_457.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "16g",
+      "16 g",
+      "16"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2069,
+    "image_path": "./image/DTNutrCap/test/GOG_295.jpg",
+    "question": "What percentage of the daily value of total fat is in each serving?",
+    "answers": [
+      "0%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 205,
+    "image_path": "./image/DTNutrCap/test/UK_155.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "125kJ/30kcal",
+      "125kJ",
+      "30kcal",
+      "125 kJ",
+      "30 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 202,
+    "image_path": "./image/DTNutrCap/test/UK_431.jpg",
+    "question": "What percentage of the reference intake of an average adult is there per serving?",
+    "answers": [
+      "12%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1907,
+    "image_path": "./image/DTNutrCap/test/UK_38.jpg",
+    "question": "How many grams of fat are there in the product?",
+    "answers": [
+      "3.7g",
+      "3.7 g",
+      "3.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1312,
+    "image_path": "./image/DTNutrCap/test/UK_405.jpg",
+    "question": "How many grams of carbohydrates are there per 100g?",
+    "answers": [
+      "84.3g",
+      "84.3 g",
+      "84.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1990,
+    "image_path": "./image/DTNutrCap/test/UK_244.jpg",
+    "question": "What is the energy value of the burger in kilojoules?",
+    "answers": [
+      "1042kJ",
+      "1042 kJ",
+      "1042"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1786,
+    "image_path": "./image/DTNutrCap/test/SGP_57.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "250ml (1 glass)",
+      "250ml",
+      "250 ml (1 glass)",
+      "250 ml"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1781,
+    "image_path": "./image/DTNutrCap/test/UK_353.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "7.5g",
+      "7.5 g",
+      "7.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1623,
+    "image_path": "./image/DTNutrCap/test/SGP_69.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "16 g"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1982,
+    "image_path": "./image/DTNutrCap/test/UK_52.jpg",
+    "question": "How many grams of protein are there per pitta?",
+    "answers": [
+      "5.8g",
+      "5.8 g",
+      "5.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 102,
+    "image_path": "./image/DTNutrCap/test/UK_339.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "20.3g",
+      "20.3 g",
+      "20.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1633,
+    "image_path": "./image/DTNutrCap/test/UK_249.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "50.5g",
+      "50.5 g",
+      "50.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1937,
+    "image_path": "./image/DTNutrCap/test/UK_37.jpg",
+    "question": "What percentage of the adult RI per teaspoon (5g) is made up of carbohydrates?",
+    "answers": [
+      "2%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2067,
+    "image_path": "./image/DTNutrCap/test/GOG_295.jpg",
+    "question": "How many calories are there per serving?",
+    "answers": [
+      "48 calories",
+      "48"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1787,
+    "image_path": "./image/DTNutrCap/test/SGP_57.jpg",
+    "question": "How much energy is there per serving?",
+    "answers": [
+      "90 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1815,
+    "image_path": "./image/DTNutrCap/test/UK_332.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "2.8g",
+      "2.8 g",
+      "2.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1897,
+    "image_path": "./image/DTNutrCap/test/UK_10.jpg",
+    "question": "How many grams of saturated fat are there per 100g?",
+    "answers": [
+      "0.2g",
+      "0.2 g",
+      "0.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1026,
+    "image_path": "./image/DTNutrCap/test/UK_460.jpg",
+    "question": "How many grams of protein are in 100g?",
+    "answers": [
+      "3.2g",
+      "3.2 g",
+      "3.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1056,
+    "image_path": "./image/DTNutrCap/test/UK_60.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "11.8g",
+      "11.8 g",
+      "11.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2128,
+    "image_path": "./image/DTNutrCap/test/GOG_139.jpg",
+    "question": "What percentage of the daily value of saturated fat is in each serving?",
+    "answers": [
+      "10%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1668,
+    "image_path": "./image/DTNutrCap/test/UK_436.jpg",
+    "question": "How many grams of protein are there per 1/4 pack?",
+    "answers": [
+      "1.6g",
+      "1.6 g",
+      "1.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1854,
+    "image_path": "./image/DTNutrCap/test/NZL_11.jpg",
+    "question": "What is the average quantity of carbohydrates per 100g?",
+    "answers": [
+      "77.4g",
+      "77.4 g",
+      "77.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1578,
+    "image_path": "./image/DTNutrCap/test/UK_58.jpg",
+    "question": "What is the typical value of protein per 100g?",
+    "answers": [
+      "22.4g",
+      "22.4 g",
+      "22.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1286,
+    "image_path": "./image/DTNutrCap/test/NZL_48.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "45g",
+      "45 g",
+      "45"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1833,
+    "image_path": "./image/DTNutrCap/test/UK_376.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "20.0g",
+      "20.0 g",
+      "20.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1521,
+    "image_path": "./image/DTNutrCap/test/UK_182.jpg",
+    "question": "How many grams of saturated fat are there per petit pain?",
+    "answers": [
+      "<0.1g",
+      "<0.1 g",
+      "<0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1805,
+    "image_path": "./image/DTNutrCap/test/UK_569.jpg",
+    "question": "What is the typical serving size?",
+    "answers": [
+      "30g",
+      "30 g",
+      "30"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1647,
+    "image_path": "./image/DTNutrCap/test/UK_161.jpg",
+    "question": "How many grams of fat are there in 100ml of the product?",
+    "answers": [
+      "3.7g",
+      "3.7 g",
+      "3.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1403,
+    "image_path": "./image/DTNutrCap/test/UK_452.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "10g",
+      "10 g",
+      "10"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2052,
+    "image_path": "./image/DTNutrCap/test/GOG_142.jpg",
+    "question": "How many grams of sugar are in the bar?",
+    "answers": [
+      "65g",
+      "65 g",
+      "65"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1523,
+    "image_path": "./image/DTNutrCap/test/UK_182.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "3.8g",
+      "3.8 g",
+      "3.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1981,
+    "image_path": "./image/DTNutrCap/test/UK_52.jpg",
+    "question": "What percentage of the adult RI is the salt content per pitta?",
+    "answers": [
+      "5%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1393,
+    "image_path": "./image/DTNutrCap/test/UK_423.jpg",
+    "question": "How many grams of sugar are in a serving?",
+    "answers": [
+      "11.3g",
+      "11.3 g",
+      "11.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1027,
+    "image_path": "./image/DTNutrCap/test/UK_460.jpg",
+    "question": "What percentage of the reference intake of energy is in the pot?",
+    "answers": [
+      "27%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1885,
+    "image_path": "./image/DTNutrCap/test/UK_426.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "15.4g",
+      "15.4 g",
+      "15.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1554,
+    "image_path": "./image/DTNutrCap/test/SGP_67.jpg",
+    "question": "How many grams of added sugar are there per serving?",
+    "answers": [
+      "15.0 g",
+      "15.0g",
+      "15.0",
+      "15"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1307,
+    "image_path": "./image/DTNutrCap/test/UK_79.jpg",
+    "question": "How many grams of saturates are there per 100g?",
+    "answers": [
+      "0.8g",
+      "0.8 g",
+      "0.8"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1281,
+    "image_path": "./image/DTNutrCap/test/UK_43.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "8.9g",
+      "8.9 g",
+      "8.9"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1769,
+    "image_path": "./image/DTNutrCap/test/UK_388.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "0.13g",
+      "0.13 g",
+      "0.13"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1072,
+    "image_path": "./image/DTNutrCap/test/UK_465.jpg",
+    "question": "How many grams of carbohydrates are there in 100g of the product?",
+    "answers": [
+      "74.5g",
+      "74.5 g",
+      "74.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1677,
+    "image_path": "./image/DTNutrCap/test/UK_514.jpg",
+    "question": "What is the amount of carbohydrates per 100g?",
+    "answers": [
+      "0.1g",
+      "0.1 g",
+      "0.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1478,
+    "image_path": "./image/DTNutrCap/test/UK_257.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "78.4g",
+      "78.4 g",
+      "78.4"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1940,
+    "image_path": "./image/DTNutrCap/test/UK_14.jpg",
+    "question": "How many calories are there per 100g?",
+    "answers": [
+      "66kcal",
+      "66 kcal",
+      "66k"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1014,
+    "image_path": "./image/DTNutrCap/test/UK_305.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "9.0g",
+      "9.0 g",
+      "9.0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1476,
+    "image_path": "./image/DTNutrCap/test/UK_257.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1419,
+    "image_path": "./image/DTNutrCap/test/SGP_80.jpg",
+    "question": "What is the cholesterol content per serving?",
+    "answers": [
+      "0mg",
+      "0 mg",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1177,
+    "image_path": "./image/DTNutrCap/test/UK_166.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "4.2g",
+      "4.2 g",
+      "4.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1651,
+    "image_path": "./image/DTNutrCap/test/UK_51.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 204,
+    "image_path": "./image/DTNutrCap/test/UK_431.jpg",
+    "question": "How many servings are there in this pack?",
+    "answers": [
+      "6 servings",
+      "6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2008,
+    "image_path": "./image/DTNutrCap/test/UK_262.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "2.7g",
+      "2.7 g",
+      "2.7"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1133,
+    "image_path": "./image/DTNutrCap/test/UK_379.jpg",
+    "question": "How many grams of sugar are there per quarter jar?",
+    "answers": [
+      "6.3g",
+      "6.3 g",
+      "6.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 11,
+    "image_path": "./image/DTNutrCap/test/SGP_82.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "87g",
+      "87 g",
+      "87"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1435,
+    "image_path": "./image/DTNutrCap/test/UK_223.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1736kJ/410kcal",
+      "1736kJ",
+      "410kcal",
+      "1736 kJ",
+      "410 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1420,
+    "image_path": "./image/DTNutrCap/test/UK_344.jpg",
+    "question": "How many grams of fat are there per 100ml?",
+    "answers": [
+      "<0.5g",
+      "<0.5 g",
+      "<0.5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1030,
+    "image_path": "./image/DTNutrCap/test/UK_429.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "214kJ/51kcal",
+      "214kJ",
+      "51kcal",
+      "214 kJ",
+      "51 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 2068,
+    "image_path": "./image/DTNutrCap/test/GOG_295.jpg",
+    "question": "How many grams of total fat are there per serving?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1794,
+    "image_path": "./image/DTNutrCap/test/UK_441.jpg",
+    "question": "How many grams of protein are there per serving?",
+    "answers": [
+      "7.6g",
+      "7.6 g",
+      "7.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1260,
+    "image_path": "./image/DTNutrCap/test/UK_220.jpg",
+    "question": "What is the energy value per 100g?",
+    "answers": [
+      "1725KJ/416kcal",
+      "1725KJ",
+      "416kcal",
+      "1725 KJ",
+      "416 kcal"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1313,
+    "image_path": "./image/DTNutrCap/test/UK_405.jpg",
+    "question": "How many grams of sugar are there per 100g?",
+    "answers": [
+      "82.1g",
+      "82.1 g",
+      "82.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1283,
+    "image_path": "./image/DTNutrCap/test/UK_43.jpg",
+    "question": "How many grams of fat are there per pitta?",
+    "answers": [
+      "2.1g",
+      "2.1 g",
+      "2.1"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1879,
+    "image_path": "./image/DTNutrCap/test/NZL_28.jpg",
+    "question": "What is the quantity of sodium per serving?",
+    "answers": [
+      "5mg",
+      "5 mg",
+      "5"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1789,
+    "image_path": "./image/DTNutrCap/test/SGP_57.jpg",
+    "question": "How much Vitamin C is there per serving?",
+    "answers": [
+      "6.3mg",
+      "6.3 mg",
+      "6.3"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1244,
+    "image_path": "./image/DTNutrCap/test/UK_239.jpg",
+    "question": "How many grams of salt are there per 100g?",
+    "answers": [
+      "1.20g",
+      "1.20 g",
+      "1.20"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1547,
+    "image_path": "./image/DTNutrCap/test/UK_56.jpg",
+    "question": "What percentage of the adult RI of carbohydrates is in 1/4 of the product?",
+    "answers": [
+      "20%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 200,
+    "image_path": "./image/DTNutrCap/test/UK_431.jpg",
+    "question": "How many grams of fat are there per 100g?",
+    "answers": [
+      "5.2g",
+      "5.2 g",
+      "5.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1456,
+    "image_path": "./image/DTNutrCap/test/UK_395.jpg",
+    "question": "How many grams of protein are there per 100g?",
+    "answers": [
+      "1.2g",
+      "1.2 g",
+      "1.2"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1054,
+    "image_path": "./image/DTNutrCap/test/UK_42.jpg",
+    "question": "What percentage of the adult RI is the salt content per 100g?",
+    "answers": [
+      "4%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1529,
+    "image_path": "./image/DTNutrCap/test/UK_578.jpg",
+    "question": "How many grams of salt are there per spray?",
+    "answers": [
+      "0g",
+      "0 g",
+      "0"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1983,
+    "image_path": "./image/DTNutrCap/test/UK_52.jpg",
+    "question": "What is the main ingredient in this product?",
+    "answers": [
+      "Carbohydrate"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1324,
+    "image_path": "./image/DTNutrCap/test/UK_432.jpg",
+    "question": "What percentage of the RI is the typical value for fat?",
+    "answers": [
+      "15%"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1801,
+    "image_path": "./image/DTNutrCap/test/NZL_10.jpg",
+    "question": "What is the serving size?",
+    "answers": [
+      "approx. 16g (1 snap)",
+      "approx. 16g",
+      "16g",
+      "approx. 16 g (1 snap)",
+      "approx. 16 (1 snap)",
+      "approx. 16 g",
+      "approx. 16",
+      "16 g",
+      "16"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1619,
+    "image_path": "./image/DTNutrCap/test/UK_164.jpg",
+    "question": "How many grams of sugar are there per 100g of fish fingers?",
+    "answers": [
+      "0.6g",
+      "0.6 g",
+      "0.6"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  },
+  {
+    "dataset_name": "DTNutrCap",
+    "id": 1646,
+    "image_path": "./image/DTNutrCap/test/UK_161.jpg",
+    "question": "What is the energy value of the product in kilocalories?",
+    "answers": [
+      "66kcal",
+      "66 kcal",
+      "66"
+    ],
+    "type": "Nutritional Table Photos From POIE"
+  }
+]
